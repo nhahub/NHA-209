@@ -104,7 +104,7 @@ This project focuses on analyzing inventory performance, monitoring purchasing a
 
 Team 209
 
-Inventory \& Data Analytics
+
 
 
 
