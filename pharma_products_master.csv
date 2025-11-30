@@ -1,0 +1,2001 @@
+ProductID,ProductName,Category,Formulation,UnitCost,SellingPrice,MinStockLevel,MaxStockLevel,ReorderPoint,Manufacturer,LastPriceUpdate
+P00001,Antiviral_Drug_861_271mg,Antiviral,Syrup,30.33,74.86,156,1595,234,Novo Nordisk,8/3/2022
+P00002,Dermatological_Drug_88_373mg,Dermatological,Injection,2.01,9.87,149,630,223,AbbVie,2/18/2023
+P00003,Antidepressant_Drug_192_444mg,Antidepressant,Capsule,15.91,56.87,326,1684,489,AbbVie,7/15/2023
+P00004,Dermatological_Drug_511_170mg,Dermatological,Injection,12.41,28.19,237,1475,355,Novo Nordisk,7/21/2023
+P00005,Analgesic_Drug_505_131mg,Analgesic,Suppository,9.36,20.55,356,1146,534,Purdue,8/24/2023
+P00006,Ophthalmic_Drug_242_265mg,Ophthalmic,Ointment,12.81,51.88,395,1863,592,AbbVie,5/24/2023
+P00007,Oncology_Drug_35_206mg,Oncology,Inhaler,9.93,42.36,130,2455,195,Merck,7/20/2023
+P00008,Respiratory_Drug_822_477mg,Respiratory,Syrup,38.98,187.83,240,2949,360,Purdue,9/27/2022
+P00009,Hormone_Drug_271_456mg,Hormone,Suppository,3.22,9.58,264,1775,396,Bristol-Myers Squibb,12/4/2022
+P00010,Hormone_Drug_792_410mg,Hormone,Cream,30.74,86.93,266,1263,399,Bristol-Myers Squibb,1/15/2022
+P00011,Vitamin_Drug_857_327mg,Vitamin,Tablet,20.35,58.62,58,1867,87,Novartis,5/14/2023
+P00012,Cardiovascular_Drug_675_419mg,Cardiovascular,Suppository,4.63,14.24,338,878,507,Bayer,1/28/2022
+P00013,Antiviral_Drug_840_268mg,Antiviral,Tablet,16.24,48.32,467,1002,700,Novo Nordisk,11/15/2023
+P00014,Oncology_Drug_987_35mg,Oncology,Ointment,42.6,177.44,498,1985,747,Johnson & Johnson,2/2/2023
+P00015,Antiviral_Drug_393_207mg,Antiviral,Injection,2.25,5.23,64,2381,96,Johnson & Johnson,8/29/2022
+P00016,Analgesic_Drug_96_388mg,Analgesic,Cream,21.11,90.07,271,2778,406,Purdue,6/9/2023
+P00017,Antiviral_Drug_243_86mg,Antiviral,Injection,32.04,147.84,333,2097,499,AbbVie,9/12/2023
+P00018,Ophthalmic_Drug_798_446mg,Ophthalmic,Syrup,40.56,190.16,380,2163,570,Johnson & Johnson,7/9/2022
+P00019,Cardiovascular_Drug_377_283mg,Cardiovascular,Tablet,43.18,87.26,495,1472,742,AstraZeneca,2/15/2023
+P00020,Gastrointestinal_Drug_677_225mg,Gastrointestinal,Ointment,17.54,84.7,356,1757,534,Merck,11/3/2023
+P00021,Oncology_Drug_692_113mg,Oncology,Tablet,13.44,36.83,367,2020,550,Johnson & Johnson,1/21/2023
+P00022,Diabetes_Drug_613_113mg,Diabetes,Tablet,30.87,108.29,489,1198,733,Merck,8/13/2022
+P00023,Cardiovascular_Drug_638_130mg,Cardiovascular,Injection,22.94,83.93,102,2207,153,Johnson & Johnson,3/15/2023
+P00024,Dermatological_Drug_123_401mg,Dermatological,Suppository,19.02,74.12,304,793,456,Merck,5/26/2023
+P00025,Cardiovascular_Drug_124_187mg,Cardiovascular,Tablet,29.95,120.78,375,2294,562,Novo Nordisk,12/12/2022
+P00026,Diabetes_Drug_147_148mg,Diabetes,Inhaler,9.54,38.85,401,2234,601,Johnson & Johnson,12/4/2022
+P00027,Oncology_Drug_779_476mg,Oncology,Tablet,46.31,214.51,490,2469,735,Novo Nordisk,9/20/2022
+P00028,Ophthalmic_Drug_346_112mg,Ophthalmic,Suppository,12.85,29.29,109,1380,163,AbbVie,3/29/2023
+P00029,Antipsychotic_Drug_9_233mg,Antipsychotic,Suppository,36.57,171.56,148,2182,222,AstraZeneca,2/23/2022
+P00030,Oncology_Drug_920_116mg,Oncology,Tablet,8.92,41.89,124,2148,186,Purdue,9/11/2022
+P00031,Diabetes_Drug_510_473mg,Diabetes,Suppository,1.25,3.1,148,2700,222,GSK,12/7/2023
+P00032,Antidepressant_Drug_720_445mg,Antidepressant,Injection,1.89,6.58,218,660,327,Purdue,5/19/2023
+P00033,Oncology_Drug_195_401mg,Oncology,Inhaler,25.93,101.36,177,959,265,Merck,11/1/2023
+P00034,Antidepressant_Drug_365_51mg,Antidepressant,Ointment,31.93,139.99,487,2299,730,Pfizer,10/11/2022
+P00035,Hormone_Drug_481_453mg,Hormone,Suppository,14.76,30.6,366,1315,549,Pfizer,5/27/2023
+P00036,Cardiovascular_Drug_220_158mg,Cardiovascular,Syrup,37.64,182.9,95,2646,142,Bristol-Myers Squibb,5/12/2023
+P00037,Vaccine_Drug_607_99mg,Vaccine,Cream,4.69,13.68,237,1492,355,Johnson & Johnson,6/10/2022
+P00038,Diabetes_Drug_18_281mg,Diabetes,Suppository,46.57,102.98,272,1069,408,GSK,10/15/2022
+P00039,Hormone_Drug_663_450mg,Hormone,Ointment,15.47,45.91,176,654,264,AstraZeneca,1/28/2023
+P00040,Dermatological_Drug_176_39mg,Dermatological,Ointment,40.7,187.27,219,1037,328,Bristol-Myers Squibb,5/21/2023
+P00041,Antiviral_Drug_36_173mg,Antiviral,Tablet,4.48,14.29,69,2868,103,AbbVie,4/16/2023
+P00042,Hormone_Drug_354_322mg,Hormone,Syrup,2.76,9.38,337,2482,505,Bristol-Myers Squibb,5/30/2022
+P00043,Respiratory_Drug_342_305mg,Respiratory,Capsule,41.31,127.26,229,1181,343,AbbVie,9/5/2023
+P00044,Cardiovascular_Drug_53_60mg,Cardiovascular,Suppository,23.41,105.96,157,504,235,Purdue,12/16/2022
+P00045,Hormone_Drug_823_424mg,Hormone,Injection,48.51,201.02,357,768,535,Novo Nordisk,10/19/2023
+P00046,Oncology_Drug_787_92mg,Oncology,Inhaler,13.29,33.93,107,2474,160,Johnson & Johnson,5/7/2022
+P00047,Gastrointestinal_Drug_641_58mg,Gastrointestinal,Syrup,22.68,61.68,171,1012,256,Merck,7/14/2023
+P00048,Gastrointestinal_Drug_237_373mg,Gastrointestinal,Suppository,37.16,136.12,434,1712,651,Merck,9/4/2022
+P00049,Diabetes_Drug_154_144mg,Diabetes,Syrup,6.89,20.85,484,1496,726,AbbVie,3/10/2022
+P00050,Hormone_Drug_94_238mg,Hormone,Tablet,24.23,55.57,495,952,742,Roche,7/5/2023
+P00051,Analgesic_Drug_254_222mg,Analgesic,Tablet,3.35,16.24,406,2570,609,Purdue,6/29/2022
+P00052,Hormone_Drug_762_147mg,Hormone,Capsule,42.97,170.85,491,2131,736,Purdue,1/16/2022
+P00053,Oncology_Drug_759_258mg,Oncology,Suppository,47.07,175.4,433,2707,649,GSK,11/6/2023
+P00054,Ophthalmic_Drug_929_445mg,Ophthalmic,Tablet,31.67,141.29,228,2136,342,AstraZeneca,2/12/2022
+P00055,Ophthalmic_Drug_397_12mg,Ophthalmic,Cream,34.47,76.3,144,1253,216,AstraZeneca,8/28/2023
+P00056,Respiratory_Drug_602_418mg,Respiratory,Capsule,25.31,103.23,164,1116,246,GSK,5/8/2023
+P00057,Dermatological_Drug_376_420mg,Dermatological,Cream,9.69,41.2,266,1175,399,Novo Nordisk,11/20/2023
+P00058,Diabetes_Drug_548_466mg,Diabetes,Suppository,43.49,160.29,145,2187,217,AbbVie,1/4/2023
+P00059,Antiviral_Drug_279_217mg,Antiviral,Cream,19.51,70.29,404,1372,606,Purdue,12/30/2023
+P00060,Antidepressant_Drug_699_19mg,Antidepressant,Cream,1.53,7.22,226,2135,339,AbbVie,9/22/2022
+P00061,Antiviral_Drug_718_223mg,Antiviral,Syrup,25.16,56.61,433,1350,649,Roche,4/9/2022
+P00062,Ophthalmic_Drug_948_379mg,Ophthalmic,Tablet,39.69,90.24,102,1667,153,Sanofi,7/5/2022
+P00063,Antiviral_Drug_223_122mg,Antiviral,Ointment,27.75,114.26,182,1738,273,AbbVie,1/9/2022
+P00064,Respiratory_Drug_492_401mg,Respiratory,Capsule,21.88,58.37,302,2042,453,Bayer,9/26/2023
+P00065,Antibiotic_Drug_29_165mg,Antibiotic,Cream,29.48,135.3,471,2886,706,Merck,5/15/2023
+P00066,Cardiovascular_Drug_327_217mg,Cardiovascular,Inhaler,18.16,74.9,350,1655,525,Novo Nordisk,3/21/2023
+P00067,Ophthalmic_Drug_167_91mg,Ophthalmic,Ointment,17.18,56.75,251,2381,376,Bristol-Myers Squibb,10/15/2023
+P00068,Antibiotic_Drug_638_58mg,Antibiotic,Syrup,6.76,26.69,197,955,295,Pfizer,1/22/2023
+P00069,Vitamin_Drug_190_191mg,Vitamin,Syrup,26.89,88.98,418,1323,627,Sanofi,7/10/2023
+P00070,Vitamin_Drug_173_317mg,Vitamin,Suppository,3.13,14.94,352,1672,528,AbbVie,8/17/2022
+P00071,Analgesic_Drug_659_20mg,Analgesic,Injection,31.84,130.14,490,2594,735,Pfizer,1/8/2023
+P00072,Antidepressant_Drug_259_144mg,Antidepressant,Ointment,47.98,104.29,490,1535,735,Merck,2/12/2023
+P00073,Ophthalmic_Drug_8_122mg,Ophthalmic,Cream,20.03,53.84,397,589,595,AbbVie,2/10/2022
+P00074,Analgesic_Drug_923_447mg,Analgesic,Suppository,16.17,71.82,194,1724,291,AbbVie,7/12/2023
+P00075,Diabetes_Drug_390_82mg,Diabetes,Cream,29.48,140.25,420,755,630,Sanofi,8/30/2022
+P00076,Dermatological_Drug_5_119mg,Dermatological,Cream,40.72,202.05,338,873,507,Pfizer,10/9/2022
+P00077,Hormone_Drug_854_315mg,Hormone,Tablet,42.08,143.33,332,1188,498,Novo Nordisk,5/26/2023
+P00078,Cardiovascular_Drug_823_6mg,Cardiovascular,Cream,49.84,182.73,246,2168,369,Roche,7/19/2023
+P00079,Antipsychotic_Drug_458_83mg,Antipsychotic,Capsule,13.32,37.62,194,2401,291,Purdue,3/22/2023
+P00080,Cardiovascular_Drug_488_288mg,Cardiovascular,Tablet,6.56,26.34,83,2642,124,GSK,3/14/2023
+P00081,Antidepressant_Drug_891_306mg,Antidepressant,Injection,28.04,103.27,317,2484,475,Novartis,2/5/2023
+P00082,Hormone_Drug_919_207mg,Hormone,Inhaler,40.45,190.5,278,1077,417,AbbVie,11/2/2022
+P00083,Antibiotic_Drug_798_335mg,Antibiotic,Capsule,45.3,137.93,396,2982,594,Merck,4/26/2023
+P00084,Oncology_Drug_542_247mg,Oncology,Inhaler,47.53,116.03,155,2628,232,AstraZeneca,2/5/2023
+P00085,Respiratory_Drug_508_340mg,Respiratory,Tablet,18.02,47.35,118,2600,177,Novartis,4/21/2022
+P00086,Gastrointestinal_Drug_183_336mg,Gastrointestinal,Inhaler,7.8,30.6,144,2494,216,AstraZeneca,11/27/2023
+P00087,Gastrointestinal_Drug_864_195mg,Gastrointestinal,Injection,48.68,185.27,204,592,306,Novo Nordisk,2/7/2023
+P00088,Antipsychotic_Drug_466_92mg,Antipsychotic,Cream,27.89,100.5,219,1928,328,AbbVie,12/12/2022
+P00089,Vaccine_Drug_945_78mg,Vaccine,Capsule,16.76,38.16,267,2336,400,Bayer,8/2/2022
+P00090,Hormone_Drug_350_107mg,Hormone,Suppository,3.99,11.29,368,547,552,Pfizer,1/8/2022
+P00091,Cardiovascular_Drug_253_180mg,Cardiovascular,Injection,19.15,66.14,256,802,384,Sanofi,1/28/2022
+P00092,Antiviral_Drug_216_386mg,Antiviral,Ointment,8.24,19.77,414,1025,621,Novo Nordisk,9/15/2023
+P00093,Antiviral_Drug_363_239mg,Antiviral,Ointment,12.88,36.16,323,2406,484,Roche,1/28/2022
+P00094,Respiratory_Drug_953_273mg,Respiratory,Inhaler,17.05,40.23,280,2633,420,Pfizer,6/9/2023
+P00095,Analgesic_Drug_580_394mg,Analgesic,Tablet,25.42,57.47,116,732,174,Merck,2/3/2022
+P00096,Hormone_Drug_936_369mg,Hormone,Suppository,17.53,82.37,285,2972,427,GSK,3/19/2023
+P00097,Oncology_Drug_877_454mg,Oncology,Injection,1.37,3.67,278,1812,417,Merck,5/18/2023
+P00098,Analgesic_Drug_843_446mg,Analgesic,Ointment,9.5,44.56,367,2897,550,Johnson & Johnson,8/31/2022
+P00099,Hormone_Drug_229_36mg,Hormone,Suppository,44.93,167.5,457,1746,685,Novartis,1/4/2022
+P00100,Hormone_Drug_118_369mg,Hormone,Ointment,33.76,161.65,143,2521,214,Novartis,1/27/2023
+P00101,Respiratory_Drug_173_300mg,Respiratory,Injection,48.43,200.15,182,2873,273,Purdue,8/13/2022
+P00102,Analgesic_Drug_140_47mg,Analgesic,Tablet,38.62,87.35,50,2637,75,Novartis,5/26/2023
+P00103,Analgesic_Drug_259_161mg,Analgesic,Cream,23.26,84.8,439,1189,658,Sanofi,6/21/2022
+P00104,Antibiotic_Drug_168_130mg,Antibiotic,Cream,7.8,15.66,133,820,199,Bayer,7/4/2023
+P00105,Antiviral_Drug_606_95mg,Antiviral,Injection,41.7,204.12,354,2104,531,Roche,1/11/2023
+P00106,Dermatological_Drug_930_76mg,Dermatological,Tablet,36.36,77.97,84,1819,126,Bristol-Myers Squibb,8/17/2022
+P00107,Vaccine_Drug_798_291mg,Vaccine,Syrup,12.55,48.96,262,2552,393,Purdue,8/24/2023
+P00108,Vitamin_Drug_89_402mg,Vitamin,Capsule,22.52,70.51,345,2363,517,Novo Nordisk,9/29/2023
+P00109,Antidepressant_Drug_23_63mg,Antidepressant,Tablet,12.38,58.17,192,1492,288,Johnson & Johnson,9/8/2023
+P00110,Oncology_Drug_39_435mg,Oncology,Injection,17.31,72.56,247,2169,370,Sanofi,3/24/2023
+P00111,Analgesic_Drug_623_157mg,Analgesic,Inhaler,37.33,138.85,338,2535,507,Bristol-Myers Squibb,7/4/2023
+P00112,Gastrointestinal_Drug_997_411mg,Gastrointestinal,Tablet,2.64,9.79,488,2836,732,Sanofi,6/1/2023
+P00113,Dermatological_Drug_865_118mg,Dermatological,Capsule,6.42,29.14,343,2432,514,AstraZeneca,11/27/2023
+P00114,Hormone_Drug_648_261mg,Hormone,Cream,21.04,90.8,206,2594,309,Novartis,4/5/2022
+P00115,Diabetes_Drug_932_292mg,Diabetes,Injection,30.35,135.98,331,2334,496,Sanofi,7/4/2023
+P00116,Antidepressant_Drug_23_303mg,Antidepressant,Suppository,31.13,147.42,395,2849,592,AstraZeneca,7/29/2022
+P00117,Gastrointestinal_Drug_623_104mg,Gastrointestinal,Tablet,46.02,201.12,365,855,547,Roche,5/7/2022
+P00118,Respiratory_Drug_604_287mg,Respiratory,Tablet,21.78,91.68,427,2428,640,AstraZeneca,10/24/2022
+P00119,Antidepressant_Drug_407_257mg,Antidepressant,Injection,49.26,222.49,351,2136,526,Merck,1/1/2022
+P00120,Hormone_Drug_567_371mg,Hormone,Ointment,20.55,44.48,473,2434,709,Bayer,7/21/2022
+P00121,Analgesic_Drug_117_154mg,Analgesic,Tablet,21.31,97.82,474,1074,711,Merck,1/21/2023
+P00122,Antiviral_Drug_475_418mg,Antiviral,Capsule,2.61,12.37,396,1438,594,Merck,10/26/2023
+P00123,Gastrointestinal_Drug_180_198mg,Gastrointestinal,Inhaler,18.76,70.2,393,1684,589,Merck,10/28/2023
+P00124,Ophthalmic_Drug_469_49mg,Ophthalmic,Capsule,23.49,86.25,386,1607,579,Merck,4/21/2023
+P00125,Hormone_Drug_360_49mg,Hormone,Cream,16.19,51.68,376,2292,564,Novo Nordisk,12/24/2023
+P00126,Vaccine_Drug_670_285mg,Vaccine,Suppository,19.51,87.98,354,928,531,Novo Nordisk,1/18/2022
+P00127,Cardiovascular_Drug_371_175mg,Cardiovascular,Ointment,24.57,85.77,243,1487,364,Novo Nordisk,10/6/2023
+P00128,Cardiovascular_Drug_925_55mg,Cardiovascular,Suppository,14.34,67.29,408,1299,612,GSK,1/15/2023
+P00129,Cardiovascular_Drug_55_476mg,Cardiovascular,Inhaler,43.48,140.18,337,1701,505,Bayer,3/19/2023
+P00130,Hormone_Drug_328_54mg,Hormone,Cream,5.87,16.02,298,1787,447,AstraZeneca,5/6/2023
+P00131,Analgesic_Drug_165_182mg,Analgesic,Syrup,44.92,91.59,447,1322,670,Johnson & Johnson,11/4/2023
+P00132,Antiviral_Drug_147_112mg,Antiviral,Cream,29.57,96.52,430,1414,645,GSK,12/10/2023
+P00133,Analgesic_Drug_746_386mg,Analgesic,Injection,2.68,12.04,244,970,366,Roche,9/13/2022
+P00134,Vaccine_Drug_226_53mg,Vaccine,Tablet,47.47,203.69,477,2390,715,AstraZeneca,8/16/2023
+P00135,Respiratory_Drug_632_59mg,Respiratory,Ointment,9.92,34.27,264,627,396,Pfizer,6/10/2023
+P00136,Gastrointestinal_Drug_962_237mg,Gastrointestinal,Suppository,32.61,106.48,330,2281,495,Sanofi,3/18/2023
+P00137,Vitamin_Drug_610_215mg,Vitamin,Cream,41.31,148.26,342,574,513,Sanofi,12/22/2022
+P00138,Gastrointestinal_Drug_34_17mg,Gastrointestinal,Ointment,36.29,84.18,214,1901,321,Merck,1/27/2022
+P00139,Gastrointestinal_Drug_646_219mg,Gastrointestinal,Inhaler,30.43,121.57,217,1109,325,Johnson & Johnson,11/16/2023
+P00140,Cardiovascular_Drug_981_476mg,Cardiovascular,Capsule,18.34,89.42,239,2099,358,Pfizer,11/24/2023
+P00141,Analgesic_Drug_794_29mg,Analgesic,Injection,22.42,106.42,198,1819,297,Novartis,8/15/2022
+P00142,Antidepressant_Drug_55_111mg,Antidepressant,Capsule,7.62,26.3,201,1257,301,Sanofi,7/2/2023
+P00143,Hormone_Drug_467_227mg,Hormone,Syrup,8.58,33.2,293,864,439,GSK,5/16/2023
+P00144,Gastrointestinal_Drug_296_17mg,Gastrointestinal,Tablet,35.54,134.87,178,1740,267,Bayer,2/8/2022
+P00145,Diabetes_Drug_498_229mg,Diabetes,Injection,48.42,97.6,157,671,235,AbbVie,10/2/2022
+P00146,Antipsychotic_Drug_955_305mg,Antipsychotic,Syrup,47.56,158.76,494,1540,741,AbbVie,11/14/2022
+P00147,Oncology_Drug_776_479mg,Oncology,Injection,36.48,142.7,198,2250,297,AstraZeneca,6/21/2023
+P00148,Antibiotic_Drug_268_143mg,Antibiotic,Tablet,47.26,100.11,108,988,162,Sanofi,1/16/2022
+P00149,Antiviral_Drug_919_282mg,Antiviral,Tablet,16.33,38.56,135,749,202,Johnson & Johnson,5/17/2022
+P00150,Diabetes_Drug_840_498mg,Diabetes,Suppository,39.97,169.28,364,1226,546,Purdue,2/6/2023
+P00151,Dermatological_Drug_615_273mg,Dermatological,Capsule,18.87,69.48,63,1682,94,Bristol-Myers Squibb,4/8/2022
+P00152,Diabetes_Drug_171_424mg,Diabetes,Cream,29.05,128.17,232,863,348,Purdue,12/15/2022
+P00153,Antidepressant_Drug_397_210mg,Antidepressant,Tablet,21.91,101.44,210,515,315,GSK,11/7/2022
+P00154,Diabetes_Drug_546_414mg,Diabetes,Capsule,10.09,31.8,300,1258,450,Novo Nordisk,2/8/2022
+P00155,Vaccine_Drug_29_446mg,Vaccine,Syrup,24.51,91.72,367,744,550,AbbVie,8/27/2022
+P00156,Gastrointestinal_Drug_926_409mg,Gastrointestinal,Capsule,37.14,100.88,408,839,612,Novo Nordisk,3/5/2023
+P00157,Vaccine_Drug_670_498mg,Vaccine,Suppository,12.45,26.47,373,645,559,Pfizer,8/8/2023
+P00158,Hormone_Drug_889_344mg,Hormone,Tablet,47.55,207.27,189,2734,283,Novartis,1/15/2023
+P00159,Antidepressant_Drug_440_319mg,Antidepressant,Inhaler,45.28,224.93,351,510,526,Johnson & Johnson,7/18/2023
+P00160,Analgesic_Drug_584_148mg,Analgesic,Injection,30.78,108.9,398,1833,597,Sanofi,4/17/2022
+P00161,Antibiotic_Drug_218_425mg,Antibiotic,Tablet,41.48,182.61,290,2806,435,Merck,2/16/2022
+P00162,Antiviral_Drug_521_99mg,Antiviral,Tablet,26.73,74.33,69,2413,103,Novo Nordisk,11/21/2023
+P00163,Antibiotic_Drug_145_216mg,Antibiotic,Ointment,23.71,91.73,52,659,78,Bristol-Myers Squibb,3/30/2022
+P00164,Gastrointestinal_Drug_910_357mg,Gastrointestinal,Syrup,44,123.06,147,1790,220,AbbVie,6/25/2023
+P00165,Gastrointestinal_Drug_921_226mg,Gastrointestinal,Injection,40.67,161.29,381,669,571,Roche,1/30/2023
+P00166,Dermatological_Drug_984_124mg,Dermatological,Capsule,35.09,75.32,87,2875,130,GSK,3/30/2023
+P00167,Antipsychotic_Drug_688_461mg,Antipsychotic,Syrup,42.71,148.86,333,1472,499,Bristol-Myers Squibb,4/25/2022
+P00168,Respiratory_Drug_568_40mg,Respiratory,Injection,28.72,80.45,403,2587,604,Merck,8/4/2022
+P00169,Diabetes_Drug_168_92mg,Diabetes,Suppository,17.37,47.18,402,2204,603,Roche,6/19/2022
+P00170,Analgesic_Drug_667_422mg,Analgesic,Inhaler,44.2,215.87,237,2554,355,Bayer,1/31/2022
+P00171,Antiviral_Drug_394_160mg,Antiviral,Capsule,8.88,39.55,412,2074,618,Bristol-Myers Squibb,6/8/2023
+P00172,Antiviral_Drug_224_13mg,Antiviral,Capsule,49.08,191.19,95,2190,142,GSK,12/1/2023
+P00173,Oncology_Drug_675_496mg,Oncology,Cream,1.9,6.26,375,2961,562,GSK,2/16/2023
+P00174,Ophthalmic_Drug_222_37mg,Ophthalmic,Inhaler,9.51,41.01,327,1719,490,Purdue,7/11/2022
+P00175,Cardiovascular_Drug_918_401mg,Cardiovascular,Syrup,17.95,69.34,443,1385,664,Novartis,7/29/2022
+P00176,Antibiotic_Drug_704_175mg,Antibiotic,Ointment,37.73,90.18,334,1215,501,Bristol-Myers Squibb,4/5/2023
+P00177,Antiviral_Drug_907_33mg,Antiviral,Cream,41.12,113.39,183,2626,274,Johnson & Johnson,6/22/2023
+P00178,Antibiotic_Drug_738_285mg,Antibiotic,Ointment,6.01,27.42,53,2500,79,Johnson & Johnson,6/6/2022
+P00179,Dermatological_Drug_800_130mg,Dermatological,Syrup,12.27,29.37,224,1473,336,Novo Nordisk,1/17/2023
+P00180,Ophthalmic_Drug_604_477mg,Ophthalmic,Suppository,21.57,84.46,70,2850,105,Merck,10/21/2023
+P00181,Gastrointestinal_Drug_387_257mg,Gastrointestinal,Cream,12.27,32.38,107,1433,160,Pfizer,6/8/2023
+P00182,Antibiotic_Drug_492_208mg,Antibiotic,Inhaler,8.8,22.98,76,2107,114,Bristol-Myers Squibb,11/5/2022
+P00183,Oncology_Drug_27_174mg,Oncology,Inhaler,1.88,8.25,99,2535,148,AbbVie,11/24/2023
+P00184,Oncology_Drug_378_387mg,Oncology,Syrup,24.59,57.83,453,1026,679,Pfizer,8/24/2022
+P00185,Analgesic_Drug_521_166mg,Analgesic,Syrup,8.88,35.12,481,1516,721,Roche,4/27/2022
+P00186,Antibiotic_Drug_584_395mg,Antibiotic,Suppository,23.77,96.06,113,571,169,GSK,1/1/2023
+P00187,Hormone_Drug_166_32mg,Hormone,Inhaler,38.1,185.09,60,1824,90,Bayer,1/27/2023
+P00188,Dermatological_Drug_691_88mg,Dermatological,Ointment,6.04,22.42,90,2948,135,Merck,3/27/2022
+P00189,Ophthalmic_Drug_673_202mg,Ophthalmic,Syrup,47.12,104.48,473,2451,709,Pfizer,8/12/2023
+P00190,Analgesic_Drug_918_103mg,Analgesic,Capsule,34.78,153.09,243,589,364,GSK,4/16/2022
+P00191,Antiviral_Drug_305_360mg,Antiviral,Syrup,44.91,169.95,366,2486,549,Bayer,12/25/2022
+P00192,Hormone_Drug_553_370mg,Hormone,Suppository,47.42,183.8,253,1787,379,Purdue,11/14/2022
+P00193,Hormone_Drug_383_7mg,Hormone,Injection,27.83,123.9,133,707,199,Sanofi,5/30/2023
+P00194,Hormone_Drug_700_362mg,Hormone,Tablet,36.52,138.04,63,1470,94,AbbVie,6/21/2023
+P00195,Vitamin_Drug_122_147mg,Vitamin,Injection,17.51,44.59,104,1249,156,Johnson & Johnson,11/5/2022
+P00196,Antiviral_Drug_307_300mg,Antiviral,Suppository,36.24,97.32,131,2489,196,AstraZeneca,2/28/2022
+P00197,Diabetes_Drug_714_243mg,Diabetes,Syrup,4.54,9.5,84,944,126,Pfizer,11/28/2022
+P00198,Cardiovascular_Drug_725_159mg,Cardiovascular,Ointment,42.47,165.05,491,1456,736,AbbVie,12/30/2022
+P00199,Vaccine_Drug_956_152mg,Vaccine,Syrup,26.19,98.58,99,2212,148,Sanofi,4/27/2022
+P00200,Antibiotic_Drug_740_66mg,Antibiotic,Suppository,39.85,158.01,384,1941,576,Novo Nordisk,1/6/2023
+P00201,Respiratory_Drug_637_268mg,Respiratory,Ointment,31.95,134.17,180,1029,270,Novo Nordisk,6/4/2023
+P00202,Analgesic_Drug_478_87mg,Analgesic,Suppository,19.27,68.17,347,1439,520,Roche,7/7/2023
+P00203,Vaccine_Drug_828_381mg,Vaccine,Ointment,26.23,80.73,160,513,240,GSK,5/25/2022
+P00204,Dermatological_Drug_28_66mg,Dermatological,Tablet,1.44,5.42,212,1752,318,AbbVie,11/7/2023
+P00205,Vitamin_Drug_303_287mg,Vitamin,Inhaler,9.32,33.17,444,1129,666,Sanofi,12/27/2022
+P00206,Cardiovascular_Drug_276_264mg,Cardiovascular,Cream,9.19,23,220,2860,330,Bayer,4/17/2022
+P00207,Antipsychotic_Drug_997_204mg,Antipsychotic,Inhaler,42.36,187.1,214,2852,321,AbbVie,1/2/2023
+P00208,Hormone_Drug_620_251mg,Hormone,Ointment,14.22,30.88,494,2439,741,Roche,1/20/2022
+P00209,Respiratory_Drug_1_119mg,Respiratory,Cream,9.82,22.25,84,697,126,Pfizer,11/22/2023
+P00210,Vaccine_Drug_490_276mg,Vaccine,Syrup,48.29,97.3,230,2789,345,GSK,8/5/2022
+P00211,Antibiotic_Drug_185_39mg,Antibiotic,Cream,24.95,99.81,272,2974,408,Purdue,5/31/2022
+P00212,Vaccine_Drug_308_336mg,Vaccine,Cream,34,166.93,483,1391,724,Pfizer,10/31/2023
+P00213,Antidepressant_Drug_495_86mg,Antidepressant,Cream,48.95,152.87,224,2858,336,GSK,5/25/2022
+P00214,Respiratory_Drug_303_232mg,Respiratory,Suppository,6.54,28.69,418,1087,627,Purdue,1/1/2022
+P00215,Diabetes_Drug_976_142mg,Diabetes,Inhaler,32.91,76.34,102,1827,153,AbbVie,12/5/2023
+P00216,Antidepressant_Drug_585_161mg,Antidepressant,Inhaler,43.67,189.84,218,1612,327,Bristol-Myers Squibb,6/8/2022
+P00217,Gastrointestinal_Drug_324_98mg,Gastrointestinal,Injection,46.36,153.66,430,993,645,GSK,8/17/2023
+P00218,Vitamin_Drug_279_339mg,Vitamin,Tablet,19.41,56.11,414,1854,621,Johnson & Johnson,8/24/2023
+P00219,Antipsychotic_Drug_65_76mg,Antipsychotic,Inhaler,35.08,111.05,248,2690,372,Bayer,2/21/2023
+P00220,Cardiovascular_Drug_497_291mg,Cardiovascular,Suppository,4.59,17.49,477,2649,715,Sanofi,1/3/2022
+P00221,Antipsychotic_Drug_328_304mg,Antipsychotic,Capsule,2.26,6.83,499,2447,748,AbbVie,5/13/2022
+P00222,Antibiotic_Drug_293_463mg,Antibiotic,Suppository,30.79,132.23,349,2263,523,Merck,5/13/2023
+P00223,Ophthalmic_Drug_427_493mg,Ophthalmic,Injection,22.11,103.7,70,906,105,Roche,5/4/2022
+P00224,Hormone_Drug_804_203mg,Hormone,Tablet,46.79,142.94,100,823,150,GSK,11/30/2022
+P00225,Vitamin_Drug_373_52mg,Vitamin,Syrup,40.35,145.97,76,2192,114,Sanofi,2/24/2023
+P00226,Vaccine_Drug_2_433mg,Vaccine,Capsule,6.97,17.73,126,2637,189,AbbVie,8/9/2023
+P00227,Antiviral_Drug_159_71mg,Antiviral,Cream,39.88,101.92,496,2859,744,AstraZeneca,2/5/2022
+P00228,Analgesic_Drug_886_263mg,Analgesic,Syrup,19.3,69.08,359,1908,538,Novartis,5/21/2022
+P00229,Antiviral_Drug_118_277mg,Antiviral,Ointment,12.18,32.11,263,1743,394,Sanofi,1/13/2023
+P00230,Gastrointestinal_Drug_682_72mg,Gastrointestinal,Cream,28.28,78.25,201,1219,301,Purdue,2/19/2022
+P00231,Oncology_Drug_612_60mg,Oncology,Injection,38.57,94.46,216,645,324,Johnson & Johnson,8/30/2022
+P00232,Antipsychotic_Drug_561_483mg,Antipsychotic,Inhaler,24.17,87.16,157,1749,235,Merck,3/8/2023
+P00233,Antipsychotic_Drug_419_476mg,Antipsychotic,Inhaler,12.37,39.25,209,2046,313,Bristol-Myers Squibb,3/17/2023
+P00234,Vaccine_Drug_770_320mg,Vaccine,Tablet,35.06,112.65,340,762,510,Merck,9/29/2023
+P00235,Antiviral_Drug_753_459mg,Antiviral,Tablet,41.12,156.65,329,1199,493,Merck,7/8/2023
+P00236,Antiviral_Drug_36_232mg,Antiviral,Cream,30.19,96.72,278,852,417,Pfizer,3/11/2022
+P00237,Gastrointestinal_Drug_708_269mg,Gastrointestinal,Inhaler,40.22,108.64,98,1455,147,Roche,8/18/2022
+P00238,Oncology_Drug_67_300mg,Oncology,Capsule,17.32,69.43,430,557,645,Johnson & Johnson,6/21/2022
+P00239,Antibiotic_Drug_209_291mg,Antibiotic,Ointment,23.8,51.89,403,1994,604,AbbVie,3/18/2023
+P00240,Analgesic_Drug_845_477mg,Analgesic,Cream,9.35,30.19,336,1516,504,Bayer,2/24/2022
+P00241,Ophthalmic_Drug_400_396mg,Ophthalmic,Tablet,19.74,46.58,185,2179,277,Novo Nordisk,4/14/2022
+P00242,Antidepressant_Drug_980_360mg,Antidepressant,Cream,12.94,51.95,297,863,445,Purdue,2/10/2023
+P00243,Antibiotic_Drug_743_288mg,Antibiotic,Suppository,41.48,180.28,210,1512,315,GSK,5/24/2023
+P00244,Vaccine_Drug_481_151mg,Vaccine,Syrup,19.66,59.75,163,2101,244,Bayer,3/25/2023
+P00245,Dermatological_Drug_180_190mg,Dermatological,Injection,30.43,107.94,456,2189,684,Novo Nordisk,2/10/2023
+P00246,Dermatological_Drug_342_316mg,Dermatological,Inhaler,11.22,53.76,150,743,225,Sanofi,11/9/2023
+P00247,Antibiotic_Drug_803_158mg,Antibiotic,Cream,36.35,88.11,265,2193,397,Johnson & Johnson,6/10/2023
+P00248,Gastrointestinal_Drug_405_163mg,Gastrointestinal,Inhaler,11.96,58.27,115,629,172,GSK,9/23/2022
+P00249,Gastrointestinal_Drug_793_253mg,Gastrointestinal,Capsule,46.22,159.98,359,1812,538,Merck,8/26/2022
+P00250,Vitamin_Drug_899_483mg,Vitamin,Syrup,33.65,79.59,474,1548,711,Roche,6/21/2023
+P00251,Hormone_Drug_173_444mg,Hormone,Syrup,22.19,65.14,61,627,91,Purdue,10/20/2023
+P00252,Vitamin_Drug_447_390mg,Vitamin,Syrup,1.87,7.12,209,2384,313,Johnson & Johnson,4/12/2023
+P00253,Hormone_Drug_517_467mg,Hormone,Injection,3.85,19.19,467,2892,700,Bristol-Myers Squibb,2/25/2022
+P00254,Hormone_Drug_983_83mg,Hormone,Tablet,4.66,20.26,442,1622,663,Novo Nordisk,9/20/2022
+P00255,Ophthalmic_Drug_260_260mg,Ophthalmic,Tablet,40.88,157.21,152,2075,228,Purdue,8/9/2022
+P00256,Analgesic_Drug_124_422mg,Analgesic,Syrup,44.44,148.85,280,2008,420,Bristol-Myers Squibb,4/28/2023
+P00257,Antiviral_Drug_92_470mg,Antiviral,Injection,19.97,97.68,63,2264,94,Johnson & Johnson,1/21/2023
+P00258,Vaccine_Drug_405_246mg,Vaccine,Injection,27.23,72.04,279,2411,418,Roche,8/30/2022
+P00259,Vitamin_Drug_693_338mg,Vitamin,Cream,24.9,58,222,1171,333,AbbVie,1/30/2023
+P00260,Hormone_Drug_308_256mg,Hormone,Cream,24.92,61.06,232,1128,348,Purdue,9/16/2023
+P00261,Ophthalmic_Drug_744_227mg,Ophthalmic,Capsule,43.12,137,282,1959,423,Sanofi,2/1/2023
+P00262,Cardiovascular_Drug_192_17mg,Cardiovascular,Tablet,47.2,208.94,169,892,253,Bristol-Myers Squibb,4/7/2022
+P00263,Respiratory_Drug_826_444mg,Respiratory,Capsule,41.43,144.44,281,1288,421,AstraZeneca,12/27/2023
+P00264,Oncology_Drug_79_401mg,Oncology,Tablet,44.24,102.51,493,1355,739,AbbVie,3/25/2023
+P00265,Antiviral_Drug_8_333mg,Antiviral,Cream,36.1,80.01,249,586,373,AstraZeneca,4/28/2023
+P00266,Oncology_Drug_645_148mg,Oncology,Tablet,18.31,52.91,326,731,489,Novartis,3/12/2023
+P00267,Hormone_Drug_391_499mg,Hormone,Injection,9.53,21.87,77,1062,115,Merck,12/18/2022
+P00268,Oncology_Drug_138_38mg,Oncology,Suppository,26.22,123.15,160,1491,240,AstraZeneca,12/26/2022
+P00269,Gastrointestinal_Drug_962_463mg,Gastrointestinal,Tablet,6.95,26.72,483,1462,724,Bayer,6/18/2022
+P00270,Gastrointestinal_Drug_119_190mg,Gastrointestinal,Capsule,16.79,39.89,304,869,456,Novartis,5/3/2023
+P00271,Antibiotic_Drug_781_181mg,Antibiotic,Ointment,26.52,102.09,209,2898,313,GSK,6/7/2023
+P00272,Respiratory_Drug_273_424mg,Respiratory,Inhaler,5.66,17.7,451,2730,676,AbbVie,9/18/2023
+P00273,Antidepressant_Drug_414_468mg,Antidepressant,Syrup,1.62,8.06,262,1185,393,Sanofi,6/28/2023
+P00274,Vaccine_Drug_39_497mg,Vaccine,Inhaler,27.66,108.1,317,1756,475,Roche,9/30/2023
+P00275,Oncology_Drug_360_238mg,Oncology,Ointment,33.15,83.95,184,1162,276,Merck,10/24/2023
+P00276,Dermatological_Drug_534_348mg,Dermatological,Tablet,7.45,31.13,334,1269,501,Novartis,7/16/2023
+P00277,Hormone_Drug_407_88mg,Hormone,Inhaler,21.26,90.88,93,960,139,Pfizer,11/27/2023
+P00278,Diabetes_Drug_630_19mg,Diabetes,Inhaler,5.59,20.86,72,2960,108,Bayer,5/8/2022
+P00279,Antipsychotic_Drug_136_362mg,Antipsychotic,Inhaler,37.34,173.42,235,2676,352,Purdue,4/14/2022
+P00280,Diabetes_Drug_832_362mg,Diabetes,Suppository,36.92,142.07,403,1928,604,Novartis,3/7/2022
+P00281,Gastrointestinal_Drug_13_393mg,Gastrointestinal,Suppository,38.29,80.64,469,2781,703,Pfizer,1/14/2022
+P00282,Gastrointestinal_Drug_437_377mg,Gastrointestinal,Capsule,42.26,144.15,69,2278,103,Novo Nordisk,4/11/2022
+P00283,Respiratory_Drug_623_381mg,Respiratory,Syrup,39.24,104.05,181,1543,271,Sanofi,4/14/2023
+P00284,Antidepressant_Drug_871_405mg,Antidepressant,Suppository,9.18,23.35,251,2585,376,Bristol-Myers Squibb,1/20/2022
+P00285,Cardiovascular_Drug_583_4mg,Cardiovascular,Inhaler,36.45,84.29,270,1025,405,Sanofi,2/24/2022
+P00286,Analgesic_Drug_888_254mg,Analgesic,Syrup,30.37,115.6,73,661,109,AbbVie,3/1/2022
+P00287,Diabetes_Drug_319_366mg,Diabetes,Tablet,35.08,148.66,260,905,390,Sanofi,4/27/2022
+P00288,Hormone_Drug_704_19mg,Hormone,Syrup,7,29.45,481,1239,721,Pfizer,5/26/2022
+P00289,Hormone_Drug_113_251mg,Hormone,Syrup,49.92,239.58,300,1826,450,Bristol-Myers Squibb,6/10/2022
+P00290,Cardiovascular_Drug_260_148mg,Cardiovascular,Ointment,6.8,21.96,289,1570,433,AbbVie,3/16/2022
+P00291,Antiviral_Drug_602_400mg,Antiviral,Tablet,28.71,141.8,374,2028,561,Novo Nordisk,9/11/2023
+P00292,Cardiovascular_Drug_254_118mg,Cardiovascular,Ointment,39.35,85.33,247,2400,370,Novo Nordisk,10/29/2022
+P00293,Respiratory_Drug_581_349mg,Respiratory,Injection,24.56,81.18,369,2456,553,Roche,12/22/2022
+P00294,Antidepressant_Drug_260_126mg,Antidepressant,Capsule,45.56,197.76,280,1509,420,Purdue,7/1/2022
+P00295,Vaccine_Drug_364_188mg,Vaccine,Syrup,33.19,161.63,106,2119,159,AstraZeneca,9/10/2023
+P00296,Vaccine_Drug_220_391mg,Vaccine,Ointment,45.41,124.82,212,2474,318,Merck,9/10/2023
+P00297,Gastrointestinal_Drug_582_44mg,Gastrointestinal,Cream,42.8,91.57,378,2336,567,GSK,9/7/2022
+P00298,Dermatological_Drug_533_196mg,Dermatological,Tablet,18.02,84.68,227,2510,340,GSK,11/3/2023
+P00299,Oncology_Drug_148_472mg,Oncology,Injection,46.9,101.15,192,1443,288,AbbVie,5/22/2022
+P00300,Gastrointestinal_Drug_314_21mg,Gastrointestinal,Cream,10.37,31.26,131,2253,196,Novo Nordisk,1/19/2023
+P00301,Ophthalmic_Drug_445_425mg,Ophthalmic,Tablet,12.04,33.14,210,1128,315,Johnson & Johnson,8/21/2023
+P00302,Antiviral_Drug_593_152mg,Antiviral,Tablet,43.15,179.87,110,1072,165,Bayer,2/27/2023
+P00303,Antidepressant_Drug_529_98mg,Antidepressant,Tablet,7.91,31.58,247,1352,370,Bayer,3/7/2022
+P00304,Respiratory_Drug_144_368mg,Respiratory,Capsule,37.71,108.29,484,1136,726,AstraZeneca,10/21/2022
+P00305,Ophthalmic_Drug_650_99mg,Ophthalmic,Injection,39.53,102.94,241,2790,361,Johnson & Johnson,10/4/2022
+P00306,Analgesic_Drug_383_68mg,Analgesic,Capsule,26.45,69.16,415,1383,622,Roche,3/20/2022
+P00307,Antidepressant_Drug_604_270mg,Antidepressant,Syrup,37.79,138.84,460,2605,690,GSK,9/11/2022
+P00308,Diabetes_Drug_44_97mg,Diabetes,Suppository,40.12,125.01,91,1511,136,Johnson & Johnson,8/24/2023
+P00309,Dermatological_Drug_427_403mg,Dermatological,Capsule,10.58,27.09,246,806,369,AstraZeneca,5/23/2023
+P00310,Ophthalmic_Drug_164_485mg,Ophthalmic,Tablet,20.4,96.8,134,1404,201,AstraZeneca,7/29/2022
+P00311,Respiratory_Drug_468_454mg,Respiratory,Syrup,16.52,75.52,317,2933,475,Novo Nordisk,10/10/2022
+P00312,Antibiotic_Drug_40_486mg,Antibiotic,Injection,10.9,27.82,466,2767,699,Roche,11/19/2023
+P00313,Dermatological_Drug_260_478mg,Dermatological,Cream,42.99,101.15,415,2281,622,Novartis,1/16/2022
+P00314,Cardiovascular_Drug_109_375mg,Cardiovascular,Inhaler,32.1,80.18,70,1169,105,Merck,5/21/2023
+P00315,Hormone_Drug_247_128mg,Hormone,Injection,5.56,11.61,332,2060,498,Purdue,10/28/2023
+P00316,Vaccine_Drug_645_227mg,Vaccine,Ointment,41.13,148.99,238,764,357,Novo Nordisk,7/26/2023
+P00317,Ophthalmic_Drug_395_450mg,Ophthalmic,Tablet,23.5,72.22,480,1887,720,GSK,5/11/2022
+P00318,Ophthalmic_Drug_798_474mg,Ophthalmic,Syrup,41.47,95.46,326,2703,489,Roche,11/6/2023
+P00319,Analgesic_Drug_41_307mg,Analgesic,Capsule,37.69,149.01,480,837,720,Merck,9/30/2022
+P00320,Antipsychotic_Drug_651_350mg,Antipsychotic,Syrup,2.52,10.63,320,1430,480,GSK,3/7/2022
+P00321,Diabetes_Drug_248_156mg,Diabetes,Suppository,9.19,36.45,96,2458,144,Pfizer,10/2/2023
+P00322,Hormone_Drug_516_442mg,Hormone,Injection,15.96,42.1,458,2338,687,Novo Nordisk,11/9/2022
+P00323,Antipsychotic_Drug_302_142mg,Antipsychotic,Cream,40.56,88.31,450,1050,675,GSK,4/25/2022
+P00324,Cardiovascular_Drug_251_219mg,Cardiovascular,Ointment,6.44,21.52,456,1966,684,Merck,5/22/2022
+P00325,Analgesic_Drug_840_190mg,Analgesic,Cream,48.86,113.95,84,2182,126,Purdue,10/8/2022
+P00326,Oncology_Drug_270_154mg,Oncology,Suppository,7.25,29.89,151,2250,226,Novo Nordisk,3/2/2023
+P00327,Diabetes_Drug_284_468mg,Diabetes,Tablet,41.64,118.45,222,2159,333,Purdue,2/2/2023
+P00328,Oncology_Drug_437_317mg,Oncology,Ointment,3.26,12.07,213,785,319,Purdue,3/30/2022
+P00329,Vaccine_Drug_821_227mg,Vaccine,Injection,37.42,80.24,492,2881,738,Purdue,5/29/2023
+P00330,Gastrointestinal_Drug_622_86mg,Gastrointestinal,Cream,10.08,22.55,474,2155,711,Bristol-Myers Squibb,3/3/2022
+P00331,Cardiovascular_Drug_670_268mg,Cardiovascular,Suppository,49.78,227.35,84,1278,126,Roche,11/21/2022
+P00332,Analgesic_Drug_963_172mg,Analgesic,Cream,26.74,56.1,466,2544,699,Novo Nordisk,4/27/2023
+P00333,Oncology_Drug_65_8mg,Oncology,Suppository,22.09,65.18,350,842,525,AbbVie,6/23/2022
+P00334,Hormone_Drug_873_147mg,Hormone,Inhaler,22.73,86.86,75,1319,112,Novo Nordisk,7/4/2023
+P00335,Analgesic_Drug_669_179mg,Analgesic,Tablet,26.11,60.38,181,2346,271,Merck,3/17/2022
+P00336,Vitamin_Drug_854_492mg,Vitamin,Injection,30.43,128.74,243,2507,364,Pfizer,8/7/2023
+P00337,Antiviral_Drug_262_214mg,Antiviral,Ointment,2.95,11.25,202,2436,303,Novartis,10/10/2023
+P00338,Diabetes_Drug_362_449mg,Diabetes,Syrup,24.18,93.52,490,2640,735,Novo Nordisk,3/8/2023
+P00339,Vitamin_Drug_824_177mg,Vitamin,Syrup,1.27,2.57,190,1200,285,AstraZeneca,7/9/2023
+P00340,Analgesic_Drug_865_90mg,Analgesic,Syrup,22.49,59.72,344,840,516,Sanofi,12/29/2022
+P00341,Antidepressant_Drug_233_265mg,Antidepressant,Ointment,14.94,66.55,393,2072,589,Roche,7/25/2023
+P00342,Antiviral_Drug_41_39mg,Antiviral,Inhaler,35.41,176.29,446,2227,669,Bristol-Myers Squibb,5/7/2022
+P00343,Vaccine_Drug_1_168mg,Vaccine,Cream,21.14,99.84,157,518,235,Roche,4/19/2022
+P00344,Ophthalmic_Drug_240_417mg,Ophthalmic,Cream,47.75,198.84,350,2650,525,Bayer,6/23/2022
+P00345,Antiviral_Drug_431_215mg,Antiviral,Ointment,43.71,121.08,226,2210,339,Purdue,11/4/2023
+P00346,Hormone_Drug_594_485mg,Hormone,Syrup,21.53,91.58,196,2274,294,Pfizer,11/28/2022
+P00347,Respiratory_Drug_655_41mg,Respiratory,Injection,33.76,136.26,472,2293,708,GSK,9/23/2022
+P00348,Vaccine_Drug_563_118mg,Vaccine,Capsule,9.42,36.87,250,2063,375,Roche,5/29/2023
+P00349,Vitamin_Drug_387_400mg,Vitamin,Ointment,41.18,168.21,399,2843,598,AbbVie,2/23/2023
+P00350,Dermatological_Drug_311_301mg,Dermatological,Tablet,40.59,107.49,406,1736,609,Bayer,10/6/2022
+P00351,Oncology_Drug_294_284mg,Oncology,Tablet,42.74,137.27,326,1961,489,Bristol-Myers Squibb,1/10/2023
+P00352,Gastrointestinal_Drug_998_122mg,Gastrointestinal,Cream,19.83,66.44,79,2389,118,AbbVie,2/10/2022
+P00353,Hormone_Drug_360_75mg,Hormone,Inhaler,19.13,39.83,97,2541,145,AbbVie,11/10/2023
+P00354,Antibiotic_Drug_668_421mg,Antibiotic,Suppository,44.61,135.51,56,2968,84,Purdue,10/31/2023
+P00355,Respiratory_Drug_914_476mg,Respiratory,Syrup,19.91,87.11,468,1950,702,Novartis,7/30/2023
+P00356,Antipsychotic_Drug_930_176mg,Antipsychotic,Suppository,49.41,166.12,165,1963,247,Purdue,9/17/2023
+P00357,Vitamin_Drug_837_414mg,Vitamin,Capsule,27.06,65.14,425,942,637,Sanofi,6/4/2022
+P00358,Vaccine_Drug_363_448mg,Vaccine,Ointment,16.35,39.91,283,2341,424,Roche,6/26/2023
+P00359,Respiratory_Drug_122_125mg,Respiratory,Cream,19.37,66.28,86,2717,129,Merck,12/9/2023
+P00360,Antibiotic_Drug_201_369mg,Antibiotic,Syrup,30.74,75.46,334,576,501,Pfizer,4/19/2022
+P00361,Antidepressant_Drug_69_165mg,Antidepressant,Syrup,27.54,118.03,354,2432,531,Novartis,12/9/2022
+P00362,Diabetes_Drug_554_354mg,Diabetes,Injection,3.82,11.56,465,1261,697,AbbVie,6/17/2023
+P00363,Ophthalmic_Drug_359_324mg,Ophthalmic,Injection,29.57,147.82,434,2127,651,Bristol-Myers Squibb,4/21/2022
+P00364,Antibiotic_Drug_996_435mg,Antibiotic,Injection,16.97,74.29,322,2651,483,Novo Nordisk,6/14/2022
+P00365,Antiviral_Drug_520_284mg,Antiviral,Cream,35.83,169.15,54,1156,81,Novartis,4/27/2022
+P00366,Antibiotic_Drug_822_173mg,Antibiotic,Injection,7.4,32.35,96,2793,144,AbbVie,6/1/2023
+P00367,Cardiovascular_Drug_20_425mg,Cardiovascular,Suppository,47.26,115.62,95,1517,142,Novo Nordisk,10/28/2023
+P00368,Ophthalmic_Drug_820_352mg,Ophthalmic,Syrup,19.39,55.4,119,1194,178,Pfizer,8/4/2022
+P00369,Antiviral_Drug_923_203mg,Antiviral,Inhaler,44.83,150.98,241,2214,361,AbbVie,11/18/2023
+P00370,Hormone_Drug_772_391mg,Hormone,Inhaler,10.82,25.19,414,662,621,Purdue,12/3/2022
+P00371,Cardiovascular_Drug_864_328mg,Cardiovascular,Tablet,22.97,81.11,196,1846,294,Bristol-Myers Squibb,10/14/2022
+P00372,Antiviral_Drug_114_480mg,Antiviral,Suppository,36.41,148.47,71,2249,106,Sanofi,11/16/2022
+P00373,Vaccine_Drug_976_204mg,Vaccine,Cream,26.9,117.83,243,1195,364,Novo Nordisk,1/19/2022
+P00374,Antibiotic_Drug_794_113mg,Antibiotic,Suppository,1.7,7.16,376,1041,564,Bayer,7/3/2023
+P00375,Cardiovascular_Drug_549_141mg,Cardiovascular,Inhaler,38.68,153.78,281,1147,421,Pfizer,11/7/2023
+P00376,Diabetes_Drug_703_104mg,Diabetes,Capsule,4.8,15.47,72,1301,108,Merck,3/16/2022
+P00377,Diabetes_Drug_771_398mg,Diabetes,Suppository,4.54,22.09,237,2515,355,Novartis,12/24/2022
+P00378,Antibiotic_Drug_657_375mg,Antibiotic,Suppository,4.57,14.66,211,2869,316,AbbVie,10/17/2022
+P00379,Antiviral_Drug_904_215mg,Antiviral,Injection,45.4,134.59,169,2090,253,Roche,11/17/2022
+P00380,Cardiovascular_Drug_670_437mg,Cardiovascular,Tablet,11.52,37.42,318,2056,477,Bayer,12/27/2023
+P00381,Hormone_Drug_183_23mg,Hormone,Tablet,23.24,103.75,81,1969,121,Merck,7/18/2023
+P00382,Analgesic_Drug_882_14mg,Analgesic,Suppository,12.5,36.37,227,2959,340,Merck,1/30/2022
+P00383,Hormone_Drug_205_59mg,Hormone,Syrup,20.67,51.18,313,1989,469,GSK,12/20/2022
+P00384,Hormone_Drug_873_204mg,Hormone,Injection,1.01,3.57,98,1964,147,Sanofi,4/6/2022
+P00385,Antidepressant_Drug_209_343mg,Antidepressant,Ointment,23.88,72.14,137,1317,205,AbbVie,6/6/2022
+P00386,Ophthalmic_Drug_633_65mg,Ophthalmic,Injection,42.29,124.33,156,636,234,Purdue,5/21/2022
+P00387,Diabetes_Drug_198_112mg,Diabetes,Tablet,34.08,80.02,105,2495,157,Johnson & Johnson,8/6/2022
+P00388,Vitamin_Drug_828_475mg,Vitamin,Tablet,7.82,21.6,266,1405,399,Novartis,1/13/2022
+P00389,Antipsychotic_Drug_536_364mg,Antipsychotic,Tablet,34.13,164.91,60,2308,90,Bayer,6/17/2023
+P00390,Analgesic_Drug_723_140mg,Analgesic,Injection,18.64,90.78,342,1412,513,AbbVie,7/7/2023
+P00391,Diabetes_Drug_496_146mg,Diabetes,Inhaler,38.77,77.88,305,2497,457,Johnson & Johnson,1/13/2022
+P00392,Antibiotic_Drug_397_100mg,Antibiotic,Cream,33.21,113.47,80,1148,120,AstraZeneca,4/10/2022
+P00393,Vitamin_Drug_173_237mg,Vitamin,Inhaler,46.61,110.8,211,2251,316,Novo Nordisk,1/28/2022
+P00394,Antidepressant_Drug_940_149mg,Antidepressant,Syrup,10.76,50.26,77,1321,115,AbbVie,8/23/2022
+P00395,Diabetes_Drug_313_49mg,Diabetes,Cream,26.28,73.66,167,2601,250,Roche,8/9/2023
+P00396,Vaccine_Drug_677_102mg,Vaccine,Cream,35.76,173.31,329,2505,493,Novo Nordisk,1/22/2023
+P00397,Hormone_Drug_17_268mg,Hormone,Ointment,1.49,5.05,231,1383,346,Purdue,1/13/2023
+P00398,Ophthalmic_Drug_230_321mg,Ophthalmic,Capsule,38.93,168.13,389,618,583,AstraZeneca,8/27/2023
+P00399,Respiratory_Drug_795_181mg,Respiratory,Syrup,19.75,61.29,219,2222,328,Roche,5/14/2022
+P00400,Antiviral_Drug_736_153mg,Antiviral,Suppository,26.38,80.31,82,2602,123,AbbVie,6/12/2023
+P00401,Dermatological_Drug_484_461mg,Dermatological,Cream,2.16,10.14,184,806,276,Pfizer,12/30/2023
+P00402,Oncology_Drug_45_214mg,Oncology,Suppository,45.07,186.16,108,1143,162,Bristol-Myers Squibb,9/2/2023
+P00403,Antibiotic_Drug_205_79mg,Antibiotic,Syrup,29.53,146.78,173,1741,259,Johnson & Johnson,10/7/2023
+P00404,Oncology_Drug_980_434mg,Oncology,Suppository,18.92,50.63,380,777,570,AbbVie,7/18/2022
+P00405,Respiratory_Drug_26_25mg,Respiratory,Tablet,49.1,175.87,443,2814,664,Purdue,2/16/2023
+P00406,Dermatological_Drug_833_49mg,Dermatological,Injection,36.52,132.07,224,715,336,Bayer,11/17/2023
+P00407,Antibiotic_Drug_753_370mg,Antibiotic,Capsule,12.28,26.2,54,2343,81,Pfizer,2/26/2023
+P00408,Dermatological_Drug_15_224mg,Dermatological,Capsule,34.3,76.45,110,1645,165,Merck,7/28/2023
+P00409,Antidepressant_Drug_210_78mg,Antidepressant,Ointment,22.21,47.35,251,2849,376,Merck,4/3/2022
+P00410,Oncology_Drug_493_235mg,Oncology,Syrup,39.86,181.82,157,2878,235,AbbVie,5/7/2023
+P00411,Antidepressant_Drug_272_68mg,Antidepressant,Tablet,49.75,205.72,404,1775,606,Sanofi,3/22/2023
+P00412,Gastrointestinal_Drug_139_357mg,Gastrointestinal,Syrup,30.08,66.75,138,2821,207,Merck,6/3/2022
+P00413,Antidepressant_Drug_620_371mg,Antidepressant,Syrup,47.24,230.55,334,2672,501,Roche,3/26/2023
+P00414,Antibiotic_Drug_520_141mg,Antibiotic,Inhaler,38.88,113.92,411,507,616,Pfizer,3/3/2023
+P00415,Antiviral_Drug_187_84mg,Antiviral,Tablet,42.91,163.45,137,2377,205,Roche,3/15/2022
+P00416,Analgesic_Drug_988_156mg,Analgesic,Cream,3.26,14.42,475,2718,712,AstraZeneca,11/18/2022
+P00417,Antiviral_Drug_944_91mg,Antiviral,Suppository,24.56,97.93,327,848,490,Sanofi,9/22/2022
+P00418,Antidepressant_Drug_247_155mg,Antidepressant,Suppository,25.24,89.3,83,2022,124,Johnson & Johnson,2/8/2023
+P00419,Antipsychotic_Drug_675_99mg,Antipsychotic,Ointment,49.63,156.78,162,773,243,Roche,4/1/2022
+P00420,Antibiotic_Drug_961_114mg,Antibiotic,Syrup,45.99,106.03,306,653,459,Sanofi,11/11/2022
+P00421,Dermatological_Drug_105_389mg,Dermatological,Tablet,9.59,44.12,427,1716,640,Bristol-Myers Squibb,8/3/2023
+P00422,Antipsychotic_Drug_651_312mg,Antipsychotic,Suppository,26.32,112.55,484,1160,726,Novo Nordisk,4/19/2022
+P00423,Ophthalmic_Drug_303_327mg,Ophthalmic,Inhaler,20.65,88.57,203,1051,304,Johnson & Johnson,3/25/2022
+P00424,Hormone_Drug_628_109mg,Hormone,Capsule,17.25,78.75,270,1891,405,AbbVie,5/9/2023
+P00425,Gastrointestinal_Drug_836_378mg,Gastrointestinal,Injection,23.54,53.79,320,2968,480,Novartis,2/9/2022
+P00426,Hormone_Drug_164_482mg,Hormone,Cream,43.92,158.87,73,789,109,AstraZeneca,9/20/2023
+P00427,Antiviral_Drug_581_351mg,Antiviral,Cream,38.51,77.02,303,680,454,Bayer,12/1/2023
+P00428,Antidepressant_Drug_357_313mg,Antidepressant,Ointment,10.98,22.29,187,2938,280,Purdue,5/30/2023
+P00429,Diabetes_Drug_815_452mg,Diabetes,Ointment,32.39,105.2,381,2034,571,Bristol-Myers Squibb,12/9/2022
+P00430,Respiratory_Drug_542_190mg,Respiratory,Capsule,41.02,104.39,406,1635,609,Novartis,2/16/2022
+P00431,Antidepressant_Drug_551_16mg,Antidepressant,Syrup,27.58,67.54,71,712,106,Novartis,7/21/2022
+P00432,Dermatological_Drug_767_254mg,Dermatological,Capsule,47.66,101.39,58,1476,87,Bayer,7/14/2023
+P00433,Analgesic_Drug_153_123mg,Analgesic,Inhaler,35.72,89.88,454,2356,681,Pfizer,5/4/2023
+P00434,Hormone_Drug_194_104mg,Hormone,Suppository,40.37,95.52,320,2414,480,Sanofi,6/16/2022
+P00435,Vitamin_Drug_313_81mg,Vitamin,Ointment,3.54,8.59,467,1262,700,Merck,9/19/2022
+P00436,Analgesic_Drug_245_3mg,Analgesic,Syrup,36.63,135.03,386,1060,579,Johnson & Johnson,7/11/2022
+P00437,Cardiovascular_Drug_963_474mg,Cardiovascular,Tablet,19.97,94.25,320,2067,480,Pfizer,2/12/2022
+P00438,Analgesic_Drug_488_78mg,Analgesic,Injection,48.54,160.81,363,2324,544,Purdue,12/29/2023
+P00439,Dermatological_Drug_851_390mg,Dermatological,Cream,48.38,104.26,426,1492,639,Pfizer,3/29/2023
+P00440,Dermatological_Drug_390_488mg,Dermatological,Suppository,36.01,174.92,62,2355,93,Novartis,7/9/2023
+P00441,Respiratory_Drug_660_95mg,Respiratory,Tablet,43.7,175.59,477,2037,715,Roche,6/3/2023
+P00442,Vaccine_Drug_375_451mg,Vaccine,Suppository,31.77,87.13,163,1094,244,AstraZeneca,5/4/2022
+P00443,Cardiovascular_Drug_12_126mg,Cardiovascular,Tablet,10.38,33.58,102,2878,153,Merck,4/7/2022
+P00444,Antipsychotic_Drug_924_334mg,Antipsychotic,Tablet,13.11,40.22,118,2665,177,GSK,5/4/2023
+P00445,Diabetes_Drug_197_379mg,Diabetes,Ointment,49.12,213.9,499,951,748,Johnson & Johnson,8/14/2023
+P00446,Antiviral_Drug_215_403mg,Antiviral,Ointment,30.45,151.37,177,2345,265,AstraZeneca,12/4/2022
+P00447,Hormone_Drug_361_57mg,Hormone,Capsule,23.06,113.72,441,2765,661,GSK,6/2/2023
+P00448,Respiratory_Drug_412_318mg,Respiratory,Cream,10.3,38.59,218,2488,327,Pfizer,11/20/2023
+P00449,Ophthalmic_Drug_387_266mg,Ophthalmic,Inhaler,14.16,40.53,147,2326,220,Sanofi,6/15/2022
+P00450,Antidepressant_Drug_939_439mg,Antidepressant,Capsule,4.7,22.82,344,718,516,Novartis,7/7/2023
+P00451,Antidepressant_Drug_108_403mg,Antidepressant,Syrup,28.12,110.37,133,2914,199,Merck,5/14/2022
+P00452,Hormone_Drug_778_73mg,Hormone,Injection,29.59,105.85,401,1059,601,Novartis,5/23/2023
+P00453,Antibiotic_Drug_452_65mg,Antibiotic,Cream,23.01,88.28,132,1677,198,Novartis,10/24/2023
+P00454,Diabetes_Drug_917_379mg,Diabetes,Suppository,31.64,98.74,297,2313,445,Bristol-Myers Squibb,10/11/2022
+P00455,Cardiovascular_Drug_301_68mg,Cardiovascular,Tablet,27.56,132.81,56,1316,84,Sanofi,2/24/2023
+P00456,Gastrointestinal_Drug_46_106mg,Gastrointestinal,Cream,48.87,112.68,465,2809,697,GSK,2/23/2022
+P00457,Antibiotic_Drug_756_341mg,Antibiotic,Injection,22.27,61.82,176,1932,264,Bristol-Myers Squibb,1/14/2023
+P00458,Gastrointestinal_Drug_922_403mg,Gastrointestinal,Injection,31.05,121.5,297,1359,445,Sanofi,7/31/2022
+P00459,Vitamin_Drug_39_369mg,Vitamin,Suppository,3.45,16.33,294,650,441,Pfizer,1/1/2023
+P00460,Antipsychotic_Drug_944_290mg,Antipsychotic,Injection,23.49,98.62,345,2750,517,Sanofi,6/10/2022
+P00461,Dermatological_Drug_338_94mg,Dermatological,Suppository,42.09,185.84,353,2026,529,Novo Nordisk,6/13/2022
+P00462,Dermatological_Drug_589_174mg,Dermatological,Inhaler,26.17,72.23,436,2493,654,Novartis,11/22/2023
+P00463,Vaccine_Drug_721_73mg,Vaccine,Capsule,14.17,44,439,794,658,Merck,7/3/2023
+P00464,Gastrointestinal_Drug_568_187mg,Gastrointestinal,Capsule,43.81,171.47,390,944,585,Merck,11/11/2023
+P00465,Analgesic_Drug_252_107mg,Analgesic,Capsule,4.14,18.52,86,1858,129,Merck,5/27/2023
+P00466,Dermatological_Drug_185_205mg,Dermatological,Capsule,20.97,71.48,309,755,463,AstraZeneca,7/26/2022
+P00467,Cardiovascular_Drug_3_462mg,Cardiovascular,Inhaler,21.03,100.36,471,2277,706,Roche,10/7/2023
+P00468,Cardiovascular_Drug_860_21mg,Cardiovascular,Capsule,34.57,80.59,291,2850,436,Roche,5/9/2022
+P00469,Analgesic_Drug_444_283mg,Analgesic,Syrup,27.24,83.64,361,1245,541,Sanofi,2/21/2022
+P00470,Oncology_Drug_749_311mg,Oncology,Tablet,47.69,142.13,351,1066,526,Sanofi,6/26/2022
+P00471,Respiratory_Drug_807_336mg,Respiratory,Capsule,45.27,101.08,146,1736,219,Bristol-Myers Squibb,7/1/2023
+P00472,Antiviral_Drug_425_118mg,Antiviral,Ointment,42.06,192.48,310,586,465,Novo Nordisk,2/18/2023
+P00473,Gastrointestinal_Drug_726_457mg,Gastrointestinal,Inhaler,21.14,88.06,334,2200,501,Purdue,5/10/2023
+P00474,Antiviral_Drug_401_247mg,Antiviral,Cream,36.22,152.02,153,1096,229,GSK,8/29/2023
+P00475,Antidepressant_Drug_289_414mg,Antidepressant,Ointment,9.12,42.61,258,1137,387,Sanofi,10/12/2023
+P00476,Hormone_Drug_115_420mg,Hormone,Syrup,11.38,33.38,211,2236,316,Johnson & Johnson,9/4/2022
+P00477,Hormone_Drug_127_147mg,Hormone,Ointment,29.02,143.9,167,911,250,Bayer,6/24/2022
+P00478,Cardiovascular_Drug_481_19mg,Cardiovascular,Ointment,21.18,90.24,244,2877,366,Bristol-Myers Squibb,12/20/2022
+P00479,Diabetes_Drug_758_385mg,Diabetes,Cream,27.09,63.56,467,592,700,Pfizer,9/2/2022
+P00480,Vitamin_Drug_295_128mg,Vitamin,Cream,11.11,35.28,393,2564,589,Pfizer,3/27/2023
+P00481,Antiviral_Drug_817_103mg,Antiviral,Capsule,1.89,8.27,358,692,537,Bayer,9/8/2022
+P00482,Vitamin_Drug_207_29mg,Vitamin,Injection,34.74,95.88,166,2526,249,Bayer,10/30/2023
+P00483,Gastrointestinal_Drug_824_321mg,Gastrointestinal,Suppository,43.83,114.41,142,1004,213,AbbVie,9/22/2023
+P00484,Gastrointestinal_Drug_718_413mg,Gastrointestinal,Inhaler,42.89,199.34,388,1158,582,Novo Nordisk,5/19/2022
+P00485,Antipsychotic_Drug_542_57mg,Antipsychotic,Ointment,14.76,38.73,281,2982,421,AstraZeneca,6/18/2023
+P00486,Antidepressant_Drug_751_185mg,Antidepressant,Syrup,42.55,154.74,409,2839,613,Pfizer,11/16/2023
+P00487,Antibiotic_Drug_333_45mg,Antibiotic,Capsule,49.86,183.34,384,1031,576,Bristol-Myers Squibb,11/19/2022
+P00488,Diabetes_Drug_694_206mg,Diabetes,Injection,4.37,13.59,369,539,553,Novartis,7/26/2023
+P00489,Analgesic_Drug_122_479mg,Analgesic,Injection,1.41,3.74,156,2643,234,Pfizer,12/14/2022
+P00490,Hormone_Drug_482_317mg,Hormone,Syrup,4.26,18.32,256,1571,384,Sanofi,11/10/2022
+P00491,Antipsychotic_Drug_429_318mg,Antipsychotic,Suppository,26.38,63.87,344,2003,516,Roche,7/30/2022
+P00492,Ophthalmic_Drug_571_71mg,Ophthalmic,Cream,18,57.1,141,1788,211,Sanofi,2/5/2023
+P00493,Antiviral_Drug_899_277mg,Antiviral,Inhaler,44.57,166.53,113,1357,169,Merck,7/28/2023
+P00494,Respiratory_Drug_682_445mg,Respiratory,Syrup,14.28,37.22,318,2814,477,Novartis,2/9/2022
+P00495,Vitamin_Drug_386_94mg,Vitamin,Injection,25.85,66.27,271,1149,406,Pfizer,12/31/2023
+P00496,Antibiotic_Drug_396_371mg,Antibiotic,Capsule,33.32,146.23,395,1290,592,Merck,5/20/2023
+P00497,Hormone_Drug_678_451mg,Hormone,Injection,16.9,47.46,271,2608,406,AbbVie,1/13/2023
+P00498,Vaccine_Drug_923_356mg,Vaccine,Cream,33.44,148.63,440,2109,660,Purdue,4/25/2023
+P00499,Antiviral_Drug_838_472mg,Antiviral,Inhaler,19.05,62.81,389,2887,583,Pfizer,11/8/2023
+P00500,Hormone_Drug_70_381mg,Hormone,Ointment,12.93,47.48,454,1107,681,AstraZeneca,11/21/2023
+P00501,Antidepressant_Drug_56_366mg,Antidepressant,Tablet,49.81,222.96,236,954,354,GSK,9/21/2022
+P00502,Dermatological_Drug_182_381mg,Dermatological,Tablet,5.65,28.23,305,2073,457,Novartis,4/1/2022
+P00503,Vitamin_Drug_451_365mg,Vitamin,Capsule,28.99,84.42,396,2198,594,Bristol-Myers Squibb,4/4/2023
+P00504,Dermatological_Drug_499_438mg,Dermatological,Cream,4.93,14.48,463,2546,694,Merck,6/15/2022
+P00505,Hormone_Drug_920_114mg,Hormone,Ointment,16.14,38.7,482,1491,723,Novartis,3/18/2023
+P00506,Diabetes_Drug_208_197mg,Diabetes,Injection,20.14,44.47,390,2685,585,Bristol-Myers Squibb,1/18/2023
+P00507,Diabetes_Drug_450_74mg,Diabetes,Injection,28.9,133.09,110,1799,165,Novartis,9/14/2023
+P00508,Antibiotic_Drug_540_197mg,Antibiotic,Inhaler,23.99,79.87,240,1838,360,GSK,4/23/2022
+P00509,Respiratory_Drug_678_409mg,Respiratory,Syrup,47.51,213.72,63,2238,94,Novartis,7/21/2023
+P00510,Antidepressant_Drug_888_471mg,Antidepressant,Capsule,31.95,69.11,124,2824,186,Novartis,5/26/2023
+P00511,Gastrointestinal_Drug_182_458mg,Gastrointestinal,Tablet,37.64,166.77,455,2374,682,Pfizer,10/17/2023
+P00512,Oncology_Drug_406_214mg,Oncology,Syrup,47.49,103.61,291,592,436,GSK,4/22/2022
+P00513,Cardiovascular_Drug_59_43mg,Cardiovascular,Inhaler,23.29,94.49,256,1279,384,Merck,10/5/2023
+P00514,Ophthalmic_Drug_90_94mg,Ophthalmic,Suppository,29.06,82.27,62,2357,93,Purdue,3/14/2023
+P00515,Respiratory_Drug_968_364mg,Respiratory,Injection,21.74,49,473,1552,709,Purdue,9/20/2023
+P00516,Antiviral_Drug_942_318mg,Antiviral,Suppository,43.29,201.66,284,1475,426,Novartis,6/30/2022
+P00517,Antiviral_Drug_256_73mg,Antiviral,Suppository,2.47,11.59,468,678,702,Johnson & Johnson,9/21/2022
+P00518,Hormone_Drug_885_222mg,Hormone,Inhaler,18.03,59.61,415,2823,622,AbbVie,3/5/2022
+P00519,Respiratory_Drug_925_403mg,Respiratory,Ointment,21.39,53.57,60,2469,90,Novartis,10/3/2022
+P00520,Antibiotic_Drug_728_394mg,Antibiotic,Ointment,22.48,80.7,465,1063,697,Roche,9/30/2023
+P00521,Gastrointestinal_Drug_584_296mg,Gastrointestinal,Suppository,8.62,22.6,285,2603,427,AstraZeneca,4/3/2022
+P00522,Vaccine_Drug_60_138mg,Vaccine,Suppository,15.82,77.93,88,1136,132,Sanofi,3/27/2022
+P00523,Analgesic_Drug_338_448mg,Analgesic,Inhaler,49.35,138.88,215,2930,322,Merck,10/4/2023
+P00524,Hormone_Drug_11_476mg,Hormone,Inhaler,8.64,29.68,351,2643,526,Sanofi,2/28/2023
+P00525,Vaccine_Drug_355_428mg,Vaccine,Suppository,24.9,55.95,161,2351,241,Johnson & Johnson,5/5/2023
+P00526,Gastrointestinal_Drug_106_181mg,Gastrointestinal,Inhaler,23.46,97.95,233,725,349,GSK,1/6/2023
+P00527,Ophthalmic_Drug_913_399mg,Ophthalmic,Suppository,3.2,7.61,155,1794,232,Bristol-Myers Squibb,2/1/2022
+P00528,Gastrointestinal_Drug_660_218mg,Gastrointestinal,Suppository,24.07,95.51,268,1605,402,AbbVie,3/4/2023
+P00529,Antidepressant_Drug_444_327mg,Antidepressant,Injection,40.19,95.24,298,726,447,Johnson & Johnson,12/9/2023
+P00530,Dermatological_Drug_224_318mg,Dermatological,Tablet,41.07,145,446,1348,669,Bristol-Myers Squibb,7/7/2022
+P00531,Respiratory_Drug_607_310mg,Respiratory,Ointment,28.08,87.51,181,2543,271,Novartis,5/1/2023
+P00532,Hormone_Drug_120_220mg,Hormone,Ointment,42.86,148.82,102,2257,153,Merck,12/21/2023
+P00533,Antidepressant_Drug_422_200mg,Antidepressant,Suppository,19.19,83.61,296,571,444,Novo Nordisk,1/22/2023
+P00534,Dermatological_Drug_177_315mg,Dermatological,Syrup,40,101.01,336,848,504,Bayer,5/7/2022
+P00535,Gastrointestinal_Drug_766_213mg,Gastrointestinal,Inhaler,13.23,36.91,299,2119,448,Bristol-Myers Squibb,7/11/2023
+P00536,Hormone_Drug_626_433mg,Hormone,Capsule,8.45,28.52,325,836,487,Bristol-Myers Squibb,9/30/2022
+P00537,Oncology_Drug_328_498mg,Oncology,Capsule,47.29,181.11,268,608,402,Novartis,4/19/2023
+P00538,Hormone_Drug_781_423mg,Hormone,Injection,38.85,159.58,278,2020,417,Johnson & Johnson,1/2/2022
+P00539,Antidepressant_Drug_511_401mg,Antidepressant,Capsule,46.82,146.43,335,1370,502,GSK,6/20/2022
+P00540,Antipsychotic_Drug_661_112mg,Antipsychotic,Ointment,31.14,147.35,104,1990,156,Sanofi,12/30/2022
+P00541,Hormone_Drug_471_384mg,Hormone,Cream,42.8,204.8,229,916,343,Pfizer,2/13/2022
+P00542,Diabetes_Drug_98_208mg,Diabetes,Injection,23.82,102.91,314,2306,471,Bayer,3/13/2022
+P00543,Dermatological_Drug_268_321mg,Dermatological,Ointment,37.79,89.81,156,1382,234,Pfizer,4/26/2023
+P00544,Respiratory_Drug_725_341mg,Respiratory,Cream,19.98,43.93,473,2091,709,Roche,5/8/2023
+P00545,Diabetes_Drug_712_233mg,Diabetes,Ointment,21.51,61.9,482,726,723,Roche,4/25/2022
+P00546,Antibiotic_Drug_104_339mg,Antibiotic,Inhaler,30.27,119.87,408,1167,612,AstraZeneca,1/28/2022
+P00547,Antibiotic_Drug_119_293mg,Antibiotic,Ointment,14.8,72.37,420,2724,630,Purdue,7/24/2023
+P00548,Cardiovascular_Drug_228_247mg,Cardiovascular,Tablet,39.93,113.18,237,2017,355,AstraZeneca,11/27/2023
+P00549,Dermatological_Drug_897_426mg,Dermatological,Syrup,49.26,237.28,259,2994,388,GSK,5/7/2023
+P00550,Dermatological_Drug_367_400mg,Dermatological,Tablet,48.44,161.8,233,1898,349,GSK,8/2/2023
+P00551,Respiratory_Drug_510_118mg,Respiratory,Suppository,32.73,92.27,122,1805,183,Novo Nordisk,6/1/2022
+P00552,Antipsychotic_Drug_954_283mg,Antipsychotic,Injection,23.66,108.72,162,770,243,AbbVie,10/9/2022
+P00553,Hormone_Drug_983_351mg,Hormone,Capsule,45.55,133.99,483,639,724,Johnson & Johnson,1/3/2023
+P00554,Cardiovascular_Drug_601_66mg,Cardiovascular,Ointment,22.07,99.16,207,648,310,Merck,4/14/2023
+P00555,Vaccine_Drug_481_372mg,Vaccine,Cream,25.15,72.93,343,2288,514,Purdue,10/29/2022
+P00556,Gastrointestinal_Drug_984_377mg,Gastrointestinal,Cream,45.22,137.1,427,2617,640,Johnson & Johnson,4/1/2022
+P00557,Antibiotic_Drug_988_227mg,Antibiotic,Cream,33.19,155.83,263,1371,394,GSK,5/18/2022
+P00558,Gastrointestinal_Drug_712_203mg,Gastrointestinal,Syrup,6.12,22.83,110,691,165,Johnson & Johnson,7/3/2023
+P00559,Oncology_Drug_237_358mg,Oncology,Injection,44.89,195.29,398,1084,597,AstraZeneca,12/1/2023
+P00560,Diabetes_Drug_779_476mg,Diabetes,Ointment,43.78,191.25,157,1343,235,AstraZeneca,3/21/2023
+P00561,Vitamin_Drug_732_378mg,Vitamin,Ointment,48.52,159.81,143,1114,214,GSK,9/4/2022
+P00562,Hormone_Drug_857_76mg,Hormone,Syrup,11.69,58.08,434,1962,651,Pfizer,7/10/2022
+P00563,Respiratory_Drug_426_405mg,Respiratory,Ointment,4.75,22.27,384,1732,576,AstraZeneca,12/3/2023
+P00564,Hormone_Drug_529_90mg,Hormone,Tablet,41.89,128.81,190,1156,285,Bristol-Myers Squibb,6/12/2022
+P00565,Vaccine_Drug_239_72mg,Vaccine,Ointment,41.36,130.44,494,1154,741,Pfizer,2/19/2023
+P00566,Antipsychotic_Drug_675_60mg,Antipsychotic,Suppository,4.75,15.5,55,1481,82,GSK,1/26/2022
+P00567,Hormone_Drug_986_20mg,Hormone,Cream,33.05,127.5,439,1209,658,Purdue,9/6/2022
+P00568,Vaccine_Drug_13_391mg,Vaccine,Ointment,6.7,25.72,433,1055,649,Novartis,2/23/2023
+P00569,Cardiovascular_Drug_915_404mg,Cardiovascular,Injection,20.76,93.44,149,2198,223,AstraZeneca,11/13/2022
+P00570,Vitamin_Drug_327_363mg,Vitamin,Tablet,22.76,96.73,99,1588,148,Merck,5/8/2022
+P00571,Vaccine_Drug_880_463mg,Vaccine,Cream,9.91,24.48,288,2545,432,AbbVie,7/9/2022
+P00572,Analgesic_Drug_858_284mg,Analgesic,Cream,35.8,81.88,401,2784,601,AstraZeneca,6/20/2022
+P00573,Hormone_Drug_487_45mg,Hormone,Tablet,45.9,179.3,499,1375,748,Bayer,4/3/2023
+P00574,Antidepressant_Drug_882_197mg,Antidepressant,Capsule,36.84,164.8,422,922,633,Bristol-Myers Squibb,10/25/2023
+P00575,Antipsychotic_Drug_902_440mg,Antipsychotic,Ointment,13.31,60.33,171,2553,256,AstraZeneca,8/31/2023
+P00576,Gastrointestinal_Drug_202_212mg,Gastrointestinal,Cream,2.92,8.22,55,2923,82,Novartis,2/5/2023
+P00577,Analgesic_Drug_452_337mg,Analgesic,Inhaler,17.94,72,346,1478,519,Merck,10/18/2022
+P00578,Antidepressant_Drug_980_150mg,Antidepressant,Tablet,23.27,101.01,417,1278,625,Bayer,11/12/2022
+P00579,Ophthalmic_Drug_270_225mg,Ophthalmic,Inhaler,15.92,41.3,67,2660,100,Sanofi,3/24/2022
+P00580,Vitamin_Drug_69_47mg,Vitamin,Inhaler,45.93,198.83,421,1779,631,GSK,8/25/2022
+P00581,Oncology_Drug_495_25mg,Oncology,Suppository,36.49,148.56,123,1217,184,Johnson & Johnson,10/1/2023
+P00582,Gastrointestinal_Drug_334_355mg,Gastrointestinal,Tablet,8.99,24.29,165,2595,247,Novartis,8/20/2023
+P00583,Antipsychotic_Drug_685_391mg,Antipsychotic,Ointment,14.71,41.68,258,1971,387,Bayer,2/23/2022
+P00584,Dermatological_Drug_784_241mg,Dermatological,Injection,43.04,180.49,292,2053,438,Merck,12/30/2022
+P00585,Dermatological_Drug_239_304mg,Dermatological,Inhaler,18.84,69.68,347,575,520,Merck,10/4/2023
+P00586,Respiratory_Drug_923_283mg,Respiratory,Injection,45.31,141.56,128,2619,192,AstraZeneca,1/12/2022
+P00587,Vitamin_Drug_555_17mg,Vitamin,Ointment,16.56,46.01,112,752,168,AstraZeneca,3/31/2022
+P00588,Analgesic_Drug_630_349mg,Analgesic,Syrup,15.08,42.82,224,575,336,Sanofi,3/12/2022
+P00589,Vitamin_Drug_124_381mg,Vitamin,Syrup,24.74,100.97,342,694,513,Purdue,4/6/2023
+P00590,Respiratory_Drug_64_165mg,Respiratory,Cream,8.31,23.31,76,784,114,Purdue,8/12/2022
+P00591,Antibiotic_Drug_950_356mg,Antibiotic,Cream,17.54,77.33,79,544,118,Novartis,8/9/2022
+P00592,Analgesic_Drug_692_436mg,Analgesic,Ointment,6.98,16.29,416,1431,624,Merck,8/5/2023
+P00593,Analgesic_Drug_335_441mg,Analgesic,Inhaler,27.73,64.24,197,1532,295,Roche,9/30/2023
+P00594,Dermatological_Drug_278_442mg,Dermatological,Cream,2.47,8.23,373,2325,559,Johnson & Johnson,8/3/2023
+P00595,Diabetes_Drug_478_159mg,Diabetes,Capsule,29.31,134.78,433,662,649,Novo Nordisk,8/30/2023
+P00596,Antipsychotic_Drug_834_187mg,Antipsychotic,Suppository,21.95,65.65,421,1661,631,Pfizer,5/24/2022
+P00597,Vaccine_Drug_245_415mg,Vaccine,Inhaler,7.33,16.85,156,2676,234,Johnson & Johnson,2/14/2023
+P00598,Hormone_Drug_908_95mg,Hormone,Capsule,10.56,41.78,258,1871,387,Roche,9/10/2023
+P00599,Antiviral_Drug_618_280mg,Antiviral,Capsule,3.99,11.43,309,1631,463,GSK,6/20/2022
+P00600,Dermatological_Drug_195_12mg,Dermatological,Cream,30.55,123.65,244,2729,366,AbbVie,11/25/2023
+P00601,Vaccine_Drug_678_284mg,Vaccine,Syrup,12.09,49.29,330,1619,495,AstraZeneca,12/27/2022
+P00602,Antidepressant_Drug_303_421mg,Antidepressant,Capsule,30.69,139.59,295,1760,442,Novartis,10/10/2022
+P00603,Gastrointestinal_Drug_162_160mg,Gastrointestinal,Suppository,17.27,58.65,138,2559,207,Bayer,6/6/2023
+P00604,Gastrointestinal_Drug_688_276mg,Gastrointestinal,Capsule,39.1,157.12,88,559,132,Purdue,2/12/2023
+P00605,Antidepressant_Drug_386_159mg,Antidepressant,Injection,20.5,90.57,106,1601,159,Roche,6/5/2022
+P00606,Analgesic_Drug_871_280mg,Analgesic,Cream,30.44,92.02,454,2392,681,Sanofi,11/28/2022
+P00607,Antidepressant_Drug_454_36mg,Antidepressant,Suppository,36.62,159.45,222,1943,333,Bristol-Myers Squibb,12/22/2022
+P00608,Oncology_Drug_96_417mg,Oncology,Tablet,31.11,116.46,478,663,717,Johnson & Johnson,4/25/2023
+P00609,Vitamin_Drug_400_187mg,Vitamin,Injection,30.08,61.63,198,2278,297,Merck,1/31/2023
+P00610,Cardiovascular_Drug_599_142mg,Cardiovascular,Cream,7.19,31.93,366,2234,549,Pfizer,11/12/2023
+P00611,Antidepressant_Drug_556_98mg,Antidepressant,Inhaler,44.82,176.35,310,2656,465,Novartis,7/25/2022
+P00612,Hormone_Drug_865_245mg,Hormone,Injection,18.47,51.04,336,1878,504,Merck,7/9/2022
+P00613,Antiviral_Drug_936_397mg,Antiviral,Suppository,45.04,164.82,300,2838,450,Bayer,8/30/2023
+P00614,Antidepressant_Drug_941_325mg,Antidepressant,Capsule,5.65,16.64,268,2619,402,Johnson & Johnson,8/31/2023
+P00615,Dermatological_Drug_566_344mg,Dermatological,Inhaler,43.81,218.47,462,2601,693,Novo Nordisk,7/12/2022
+P00616,Hormone_Drug_437_111mg,Hormone,Capsule,24.96,114.28,178,2372,267,AstraZeneca,1/29/2022
+P00617,Diabetes_Drug_131_188mg,Diabetes,Tablet,6.86,25.5,212,1998,318,Purdue,3/14/2022
+P00618,Antiviral_Drug_243_275mg,Antiviral,Syrup,10.15,21.08,151,670,226,Merck,4/21/2023
+P00619,Analgesic_Drug_949_365mg,Analgesic,Inhaler,10.62,25.24,391,1566,586,Sanofi,9/19/2023
+P00620,Respiratory_Drug_299_77mg,Respiratory,Inhaler,5.22,11.33,461,636,691,Johnson & Johnson,3/11/2023
+P00621,Ophthalmic_Drug_991_439mg,Ophthalmic,Inhaler,41.18,87.5,316,1565,474,Novartis,10/2/2022
+P00622,Antidepressant_Drug_884_230mg,Antidepressant,Ointment,45,199.34,418,1743,627,Novartis,2/21/2022
+P00623,Antidepressant_Drug_376_263mg,Antidepressant,Inhaler,23.84,61.26,316,2906,474,Sanofi,10/14/2023
+P00624,Dermatological_Drug_629_421mg,Dermatological,Injection,46.28,227.95,95,1099,142,Bristol-Myers Squibb,4/28/2022
+P00625,Antidepressant_Drug_116_118mg,Antidepressant,Tablet,46.6,187.72,309,1598,463,Sanofi,6/7/2023
+P00626,Ophthalmic_Drug_215_429mg,Ophthalmic,Ointment,48.5,151.98,328,1246,492,Merck,6/25/2023
+P00627,Diabetes_Drug_164_270mg,Diabetes,Tablet,25.47,59.07,383,1297,574,Purdue,4/3/2022
+P00628,Vitamin_Drug_622_217mg,Vitamin,Inhaler,19.98,79.5,484,2905,726,Merck,9/1/2022
+P00629,Respiratory_Drug_320_87mg,Respiratory,Ointment,47.77,117.24,266,2372,399,Sanofi,3/17/2023
+P00630,Antiviral_Drug_381_306mg,Antiviral,Suppository,17.57,41.82,279,2510,418,Roche,7/7/2022
+P00631,Antibiotic_Drug_913_132mg,Antibiotic,Syrup,3.87,14.15,476,1001,714,GSK,4/2/2023
+P00632,Vitamin_Drug_520_253mg,Vitamin,Injection,27.47,61.47,457,2839,685,Novartis,6/28/2023
+P00633,Vaccine_Drug_658_156mg,Vaccine,Tablet,43.63,135.89,462,1058,693,Roche,6/13/2023
+P00634,Antiviral_Drug_942_474mg,Antiviral,Suppository,24.37,94.81,481,1801,721,Purdue,6/14/2023
+P00635,Respiratory_Drug_255_455mg,Respiratory,Cream,16.83,83.53,302,756,453,Sanofi,1/25/2023
+P00636,Antidepressant_Drug_712_152mg,Antidepressant,Syrup,26.3,98.41,135,518,202,Roche,6/26/2023
+P00637,Gastrointestinal_Drug_33_458mg,Gastrointestinal,Capsule,47.58,98.31,278,2047,417,Bayer,9/3/2022
+P00638,Antipsychotic_Drug_759_29mg,Antipsychotic,Syrup,7.48,24.83,210,1246,315,Purdue,5/2/2023
+P00639,Antipsychotic_Drug_950_274mg,Antipsychotic,Syrup,45.22,142.43,308,1658,462,Roche,7/5/2022
+P00640,Cardiovascular_Drug_955_95mg,Cardiovascular,Syrup,10.77,30.09,427,1079,640,GSK,8/28/2023
+P00641,Oncology_Drug_450_172mg,Oncology,Ointment,23.84,79.53,432,2681,648,Roche,7/21/2023
+P00642,Dermatological_Drug_863_398mg,Dermatological,Suppository,21.34,43.6,216,1935,324,Pfizer,9/22/2022
+P00643,Respiratory_Drug_662_416mg,Respiratory,Cream,38.42,137.17,264,2744,396,Sanofi,9/8/2022
+P00644,Antiviral_Drug_783_455mg,Antiviral,Capsule,9,22.98,462,2670,693,AbbVie,1/29/2022
+P00645,Hormone_Drug_518_396mg,Hormone,Injection,47.67,221.7,160,1088,240,AstraZeneca,5/2/2022
+P00646,Analgesic_Drug_900_179mg,Analgesic,Inhaler,4.49,16.71,134,950,201,Bristol-Myers Squibb,7/14/2022
+P00647,Gastrointestinal_Drug_334_333mg,Gastrointestinal,Syrup,39.11,174.71,376,2562,564,Merck,2/12/2023
+P00648,Cardiovascular_Drug_428_1mg,Cardiovascular,Cream,29.87,100.45,315,2014,472,Pfizer,11/2/2022
+P00649,Ophthalmic_Drug_465_188mg,Ophthalmic,Tablet,26.41,72.3,203,2017,304,Bayer,6/20/2022
+P00650,Antidepressant_Drug_965_427mg,Antidepressant,Inhaler,46.47,105.65,74,2053,111,AbbVie,10/20/2023
+P00651,Dermatological_Drug_319_441mg,Dermatological,Syrup,17.23,74.05,141,2726,211,Bayer,8/20/2022
+P00652,Analgesic_Drug_481_68mg,Analgesic,Syrup,5.82,28.34,351,1772,526,AstraZeneca,6/2/2023
+P00653,Oncology_Drug_487_94mg,Oncology,Suppository,9.77,42.92,478,647,717,GSK,1/5/2023
+P00654,Hormone_Drug_588_495mg,Hormone,Inhaler,32.73,148.31,163,2284,244,Johnson & Johnson,11/5/2022
+P00655,Respiratory_Drug_14_374mg,Respiratory,Ointment,25,97.3,94,1951,141,Novartis,12/27/2023
+P00656,Antiviral_Drug_502_275mg,Antiviral,Suppository,36.81,120,387,2623,580,Novartis,10/16/2022
+P00657,Diabetes_Drug_891_180mg,Diabetes,Syrup,47.9,223.71,302,1700,453,Novo Nordisk,6/17/2022
+P00658,Antidepressant_Drug_638_343mg,Antidepressant,Cream,20.4,48.94,359,918,538,AbbVie,3/15/2023
+P00659,Antiviral_Drug_85_282mg,Antiviral,Ointment,49.59,130.17,281,584,421,Johnson & Johnson,9/19/2023
+P00660,Antiviral_Drug_875_407mg,Antiviral,Injection,46.99,143.3,401,1681,601,Pfizer,11/9/2022
+P00661,Antiviral_Drug_859_301mg,Antiviral,Inhaler,4.39,19.68,477,1989,715,Novo Nordisk,11/13/2023
+P00662,Antiviral_Drug_432_340mg,Antiviral,Capsule,35.05,129.76,396,1870,594,Roche,3/31/2022
+P00663,Oncology_Drug_813_77mg,Oncology,Suppository,16.55,78.38,226,2890,339,AbbVie,2/5/2023
+P00664,Ophthalmic_Drug_962_25mg,Ophthalmic,Tablet,21.36,100.91,107,2021,160,Bristol-Myers Squibb,7/4/2023
+P00665,Antidepressant_Drug_75_142mg,Antidepressant,Cream,7.3,27.17,371,1691,556,Pfizer,10/26/2023
+P00666,Diabetes_Drug_960_241mg,Diabetes,Capsule,26.55,124.51,421,2891,631,Purdue,6/2/2022
+P00667,Vitamin_Drug_508_126mg,Vitamin,Tablet,30.25,134.02,394,2435,591,Novo Nordisk,1/25/2022
+P00668,Antidepressant_Drug_841_129mg,Antidepressant,Injection,14.17,36.78,91,980,136,Johnson & Johnson,2/6/2023
+P00669,Antibiotic_Drug_893_45mg,Antibiotic,Tablet,21.9,84.23,183,2568,274,Novartis,7/5/2023
+P00670,Hormone_Drug_10_30mg,Hormone,Capsule,14.88,47.63,293,773,439,Bayer,4/24/2023
+P00671,Hormone_Drug_191_168mg,Hormone,Syrup,15.38,43.03,58,1660,87,Novo Nordisk,3/10/2022
+P00672,Antiviral_Drug_788_79mg,Antiviral,Cream,34.27,164.33,195,1122,292,Sanofi,9/13/2023
+P00673,Respiratory_Drug_95_105mg,Respiratory,Cream,3.41,9.18,57,566,85,Bayer,4/27/2022
+P00674,Dermatological_Drug_485_298mg,Dermatological,Injection,25.5,102.63,446,1687,669,Sanofi,5/23/2023
+P00675,Oncology_Drug_308_199mg,Oncology,Tablet,21.12,55.53,179,2281,268,AstraZeneca,5/2/2023
+P00676,Antipsychotic_Drug_669_206mg,Antipsychotic,Inhaler,38.53,157.01,228,2744,342,GSK,7/2/2022
+P00677,Cardiovascular_Drug_130_153mg,Cardiovascular,Cream,29.18,76.46,62,2157,93,Merck,12/8/2023
+P00678,Respiratory_Drug_594_75mg,Respiratory,Injection,32.17,102.78,423,1715,634,AbbVie,4/12/2023
+P00679,Vaccine_Drug_318_144mg,Vaccine,Inhaler,41.44,181.72,433,2763,649,AbbVie,7/1/2023
+P00680,Antiviral_Drug_945_467mg,Antiviral,Ointment,19.46,58.72,407,2135,610,Bayer,5/24/2022
+P00681,Hormone_Drug_232_179mg,Hormone,Ointment,30.4,105.09,121,2255,181,Pfizer,12/4/2023
+P00682,Vitamin_Drug_7_155mg,Vitamin,Cream,34.83,168.41,59,1017,88,Bristol-Myers Squibb,5/6/2022
+P00683,Gastrointestinal_Drug_849_174mg,Gastrointestinal,Inhaler,26.02,61.4,201,2878,301,GSK,10/11/2022
+P00684,Diabetes_Drug_166_189mg,Diabetes,Injection,17.11,68.22,127,1187,190,Novartis,11/24/2022
+P00685,Diabetes_Drug_112_224mg,Diabetes,Syrup,40.36,200.17,263,1582,394,Bristol-Myers Squibb,7/10/2022
+P00686,Oncology_Drug_708_35mg,Oncology,Suppository,9.27,20.03,428,886,642,Novartis,1/1/2022
+P00687,Dermatological_Drug_230_455mg,Dermatological,Suppository,41.99,153.13,221,1646,331,GSK,7/29/2023
+P00688,Analgesic_Drug_699_383mg,Analgesic,Cream,49.08,235.46,258,1912,387,Novo Nordisk,4/26/2022
+P00689,Vaccine_Drug_368_253mg,Vaccine,Inhaler,7.96,23.19,366,914,549,Purdue,10/25/2023
+P00690,Antibiotic_Drug_502_206mg,Antibiotic,Capsule,18.14,83.22,384,2105,576,Johnson & Johnson,8/14/2023
+P00691,Diabetes_Drug_559_461mg,Diabetes,Ointment,48.9,183.27,410,1483,615,Purdue,1/1/2022
+P00692,Antibiotic_Drug_79_236mg,Antibiotic,Ointment,9.41,23.55,383,1388,574,Johnson & Johnson,4/22/2023
+P00693,Antiviral_Drug_704_253mg,Antiviral,Inhaler,4.09,13.05,458,1049,687,GSK,7/28/2022
+P00694,Antipsychotic_Drug_601_56mg,Antipsychotic,Ointment,21.69,94.46,143,839,214,Novo Nordisk,4/30/2023
+P00695,Antibiotic_Drug_128_113mg,Antibiotic,Capsule,13.58,57.8,476,1347,714,Roche,4/27/2023
+P00696,Vaccine_Drug_593_487mg,Vaccine,Ointment,17.91,38.76,374,2995,561,AstraZeneca,12/14/2023
+P00697,Antipsychotic_Drug_697_322mg,Antipsychotic,Capsule,37.89,159.08,314,1962,471,Pfizer,6/14/2023
+P00698,Antiviral_Drug_895_97mg,Antiviral,Tablet,16.08,43.84,50,715,75,Novartis,11/14/2023
+P00699,Dermatological_Drug_161_284mg,Dermatological,Suppository,37.72,179.3,155,1628,232,GSK,8/22/2023
+P00700,Antibiotic_Drug_472_56mg,Antibiotic,Capsule,4.98,16.72,162,2560,243,Pfizer,8/17/2022
+P00701,Dermatological_Drug_189_426mg,Dermatological,Inhaler,33.91,71.05,128,1418,192,GSK,12/9/2023
+P00702,Diabetes_Drug_248_146mg,Diabetes,Inhaler,14.69,63.86,155,1819,232,Purdue,5/9/2023
+P00703,Cardiovascular_Drug_882_363mg,Cardiovascular,Syrup,43.08,128.28,334,2369,501,Sanofi,3/11/2023
+P00704,Oncology_Drug_198_128mg,Oncology,Injection,4.36,21.69,69,2507,103,Merck,8/29/2022
+P00705,Cardiovascular_Drug_384_431mg,Cardiovascular,Suppository,28.22,81.11,132,1481,198,Novo Nordisk,7/28/2023
+P00706,Vaccine_Drug_534_459mg,Vaccine,Cream,25.15,75.21,261,2673,391,GSK,6/27/2023
+P00707,Vaccine_Drug_402_247mg,Vaccine,Suppository,16.42,66.04,171,772,256,AstraZeneca,10/5/2022
+P00708,Diabetes_Drug_887_403mg,Diabetes,Suppository,45.56,117.11,106,2005,159,Purdue,4/22/2023
+P00709,Antidepressant_Drug_321_179mg,Antidepressant,Cream,37.16,89.82,434,2766,651,Novartis,3/2/2022
+P00710,Antidepressant_Drug_538_336mg,Antidepressant,Suppository,25.62,52.35,114,1085,171,Novartis,6/19/2023
+P00711,Antiviral_Drug_693_327mg,Antiviral,Syrup,44.04,213.93,157,2370,235,Johnson & Johnson,8/31/2023
+P00712,Diabetes_Drug_10_434mg,Diabetes,Capsule,25.66,112.63,174,1604,261,Bayer,12/6/2022
+P00713,Cardiovascular_Drug_751_58mg,Cardiovascular,Ointment,19.49,63.16,247,2758,370,Johnson & Johnson,6/19/2023
+P00714,Respiratory_Drug_391_335mg,Respiratory,Cream,18.26,38.88,93,526,139,Bristol-Myers Squibb,7/21/2023
+P00715,Dermatological_Drug_69_317mg,Dermatological,Tablet,41.63,146.72,179,2090,268,Merck,9/23/2023
+P00716,Vaccine_Drug_154_35mg,Vaccine,Cream,32.03,107.33,128,2378,192,Bayer,10/25/2023
+P00717,Antiviral_Drug_314_32mg,Antiviral,Injection,41.2,151.85,336,2426,504,Purdue,6/2/2023
+P00718,Antiviral_Drug_583_90mg,Antiviral,Capsule,40.9,128.69,275,1169,412,Pfizer,4/7/2022
+P00719,Respiratory_Drug_191_495mg,Respiratory,Injection,32.5,123.59,219,2342,328,Bayer,2/1/2022
+P00720,Hormone_Drug_667_284mg,Hormone,Ointment,40.25,102.25,258,2734,387,Purdue,4/24/2022
+P00721,Antiviral_Drug_271_89mg,Antiviral,Cream,2.24,9.12,264,2991,396,Pfizer,12/16/2023
+P00722,Respiratory_Drug_101_176mg,Respiratory,Tablet,4.95,12.09,476,540,714,AstraZeneca,9/1/2023
+P00723,Cardiovascular_Drug_229_313mg,Cardiovascular,Suppository,24.71,58.56,179,1875,268,Bayer,12/3/2022
+P00724,Cardiovascular_Drug_818_368mg,Cardiovascular,Cream,36.02,98,143,667,214,GSK,11/26/2023
+P00725,Vitamin_Drug_586_365mg,Vitamin,Suppository,36.71,106.62,450,2821,675,Bristol-Myers Squibb,3/23/2022
+P00726,Cardiovascular_Drug_14_433mg,Cardiovascular,Tablet,1.19,4.17,206,1234,309,AstraZeneca,7/13/2023
+P00727,Dermatological_Drug_265_205mg,Dermatological,Syrup,23.79,63.78,128,654,192,Novo Nordisk,6/22/2023
+P00728,Gastrointestinal_Drug_154_174mg,Gastrointestinal,Capsule,41.64,107.06,141,2885,211,Pfizer,9/30/2022
+P00729,Ophthalmic_Drug_588_177mg,Ophthalmic,Tablet,22.25,101.14,233,1142,349,Novo Nordisk,12/13/2023
+P00730,Analgesic_Drug_885_118mg,Analgesic,Syrup,37.34,164.87,312,1569,468,Bristol-Myers Squibb,5/9/2022
+P00731,Cardiovascular_Drug_266_118mg,Cardiovascular,Tablet,29.59,100.39,193,2989,289,Merck,5/28/2022
+P00732,Antiviral_Drug_334_299mg,Antiviral,Tablet,30.23,104.42,203,589,304,Bayer,10/28/2022
+P00733,Analgesic_Drug_963_436mg,Analgesic,Inhaler,21.93,75.12,117,2037,175,AbbVie,12/31/2023
+P00734,Ophthalmic_Drug_781_78mg,Ophthalmic,Tablet,26.04,85.58,265,2829,397,AstraZeneca,8/1/2023
+P00735,Respiratory_Drug_87_79mg,Respiratory,Tablet,27.98,68.81,254,2851,381,Novartis,7/12/2023
+P00736,Diabetes_Drug_268_296mg,Diabetes,Inhaler,48.8,181.57,371,2035,556,GSK,7/10/2023
+P00737,Vitamin_Drug_134_461mg,Vitamin,Ointment,6.3,28.52,241,777,361,Merck,1/8/2023
+P00738,Diabetes_Drug_71_480mg,Diabetes,Suppository,11.14,50.73,97,2297,145,Roche,10/9/2023
+P00739,Dermatological_Drug_523_143mg,Dermatological,Cream,9.11,37.53,241,1910,361,Roche,1/9/2022
+P00740,Hormone_Drug_93_454mg,Hormone,Injection,3.03,8.99,66,1677,99,Novartis,2/26/2023
+P00741,Oncology_Drug_472_381mg,Oncology,Capsule,47.7,198.32,84,1130,126,AbbVie,12/30/2022
+P00742,Antiviral_Drug_546_169mg,Antiviral,Ointment,5.97,26.12,59,1133,88,Novo Nordisk,5/31/2023
+P00743,Respiratory_Drug_866_106mg,Respiratory,Cream,45.02,168.74,134,713,201,Novo Nordisk,10/4/2023
+P00744,Ophthalmic_Drug_330_354mg,Ophthalmic,Tablet,17.09,59.16,311,891,466,Bayer,10/14/2023
+P00745,Gastrointestinal_Drug_520_250mg,Gastrointestinal,Capsule,10.68,47.16,188,1239,282,AstraZeneca,4/22/2023
+P00746,Respiratory_Drug_253_14mg,Respiratory,Syrup,37.75,166.68,289,1961,433,AbbVie,11/2/2022
+P00747,Vaccine_Drug_20_216mg,Vaccine,Inhaler,15.11,63.07,392,634,588,Merck,9/3/2022
+P00748,Vitamin_Drug_86_44mg,Vitamin,Syrup,1.59,5.82,379,1969,568,GSK,10/21/2022
+P00749,Oncology_Drug_266_120mg,Oncology,Injection,9.8,27.87,249,1771,373,Johnson & Johnson,3/19/2023
+P00750,Antibiotic_Drug_732_313mg,Antibiotic,Suppository,42.44,99.42,293,2899,439,Sanofi,4/20/2022
+P00751,Gastrointestinal_Drug_938_32mg,Gastrointestinal,Syrup,6.84,14.43,283,524,424,Purdue,8/20/2022
+P00752,Vaccine_Drug_477_287mg,Vaccine,Inhaler,22.46,101.79,113,954,169,GSK,11/18/2023
+P00753,Cardiovascular_Drug_226_84mg,Cardiovascular,Cream,29.3,108.78,340,934,510,AstraZeneca,8/7/2023
+P00754,Vitamin_Drug_684_309mg,Vitamin,Ointment,38.56,188.9,443,842,664,Sanofi,8/6/2022
+P00755,Analgesic_Drug_943_13mg,Analgesic,Tablet,14.98,58.31,345,2124,517,Roche,10/2/2022
+P00756,Respiratory_Drug_251_310mg,Respiratory,Inhaler,46.31,100.43,257,2687,385,AstraZeneca,6/14/2023
+P00757,Gastrointestinal_Drug_5_410mg,Gastrointestinal,Suppository,17.82,81.19,463,1862,694,Novartis,11/29/2023
+P00758,Respiratory_Drug_588_386mg,Respiratory,Inhaler,27.11,124.22,157,1167,235,AbbVie,9/15/2022
+P00759,Hormone_Drug_903_282mg,Hormone,Cream,7.18,26.89,137,1727,205,AbbVie,11/25/2022
+P00760,Hormone_Drug_397_5mg,Hormone,Cream,7.43,21.76,379,1692,568,Sanofi,10/1/2023
+P00761,Antiviral_Drug_924_416mg,Antiviral,Suppository,31.65,78,404,754,606,Merck,7/31/2023
+P00762,Analgesic_Drug_620_26mg,Analgesic,Injection,49.78,166.8,494,920,741,Bristol-Myers Squibb,8/25/2022
+P00763,Cardiovascular_Drug_487_424mg,Cardiovascular,Injection,38.68,126.74,200,1489,300,Roche,2/13/2023
+P00764,Ophthalmic_Drug_602_357mg,Ophthalmic,Syrup,2.83,9.95,305,1507,457,Roche,11/25/2023
+P00765,Ophthalmic_Drug_99_197mg,Ophthalmic,Suppository,22.82,79.06,415,2368,622,Sanofi,8/13/2023
+P00766,Dermatological_Drug_422_324mg,Dermatological,Capsule,11.54,44.8,230,1044,345,Roche,11/3/2022
+P00767,Respiratory_Drug_377_143mg,Respiratory,Injection,4.13,13.06,215,2946,322,Novo Nordisk,6/6/2023
+P00768,Ophthalmic_Drug_4_351mg,Ophthalmic,Ointment,36.17,178.31,451,1347,676,AbbVie,9/2/2023
+P00769,Analgesic_Drug_963_9mg,Analgesic,Cream,9.85,47.7,110,1832,165,Bayer,8/14/2022
+P00770,Gastrointestinal_Drug_772_349mg,Gastrointestinal,Ointment,12.88,37.03,474,928,711,AbbVie,9/20/2023
+P00771,Antipsychotic_Drug_746_1mg,Antipsychotic,Capsule,47.74,219.45,216,2915,324,Sanofi,3/31/2022
+P00772,Cardiovascular_Drug_294_407mg,Cardiovascular,Ointment,14.83,55.7,199,932,298,Johnson & Johnson,7/15/2023
+P00773,Oncology_Drug_247_382mg,Oncology,Suppository,37.77,110.75,288,1426,432,Novartis,9/2/2023
+P00774,Antiviral_Drug_689_380mg,Antiviral,Suppository,43.35,146.12,129,1984,193,AbbVie,2/24/2023
+P00775,Diabetes_Drug_369_342mg,Diabetes,Ointment,24.55,54.16,163,1253,244,Johnson & Johnson,4/14/2023
+P00776,Oncology_Drug_863_44mg,Oncology,Syrup,41.31,121.21,464,706,696,Roche,5/25/2022
+P00777,Antibiotic_Drug_333_403mg,Antibiotic,Cream,10.44,24.92,463,544,694,Purdue,4/13/2023
+P00778,Analgesic_Drug_365_300mg,Analgesic,Injection,4.69,14.67,56,2975,84,GSK,11/21/2022
+P00779,Antiviral_Drug_992_42mg,Antiviral,Capsule,44.67,151.03,346,730,519,Merck,3/20/2023
+P00780,Diabetes_Drug_392_193mg,Diabetes,Cream,14.81,37.81,141,1380,211,Roche,2/18/2022
+P00781,Gastrointestinal_Drug_69_58mg,Gastrointestinal,Tablet,23.4,67.18,234,2201,351,GSK,11/4/2023
+P00782,Vitamin_Drug_609_446mg,Vitamin,Ointment,13.29,46.9,270,1901,405,Bayer,3/12/2022
+P00783,Respiratory_Drug_533_92mg,Respiratory,Injection,48.14,169.78,176,579,264,Purdue,5/1/2023
+P00784,Antidepressant_Drug_156_5mg,Antidepressant,Tablet,29.41,83.75,169,2312,253,Bristol-Myers Squibb,1/19/2022
+P00785,Cardiovascular_Drug_237_387mg,Cardiovascular,Tablet,20.22,67.59,475,776,712,Bayer,10/1/2023
+P00786,Vitamin_Drug_55_468mg,Vitamin,Ointment,43.61,149,485,2656,727,Johnson & Johnson,7/17/2022
+P00787,Diabetes_Drug_973_497mg,Diabetes,Cream,1.3,5.76,136,2748,204,Novo Nordisk,5/19/2023
+P00788,Antiviral_Drug_703_42mg,Antiviral,Ointment,27.34,55.84,91,814,136,GSK,7/29/2023
+P00789,Vaccine_Drug_19_17mg,Vaccine,Syrup,43.49,211.69,374,922,561,Johnson & Johnson,3/22/2022
+P00790,Antiviral_Drug_424_429mg,Antiviral,Syrup,7.33,15.93,437,2521,655,Purdue,12/29/2023
+P00791,Vitamin_Drug_196_307mg,Vitamin,Tablet,15.48,35.17,201,513,301,Novo Nordisk,7/29/2022
+P00792,Cardiovascular_Drug_344_203mg,Cardiovascular,Ointment,19.84,60.33,148,1802,222,AbbVie,9/22/2022
+P00793,Hormone_Drug_920_188mg,Hormone,Syrup,40.04,120.68,468,2249,702,Purdue,11/17/2022
+P00794,Antipsychotic_Drug_109_129mg,Antipsychotic,Tablet,8.03,20.53,59,1570,88,Johnson & Johnson,5/26/2022
+P00795,Vaccine_Drug_27_220mg,Vaccine,Suppository,43.75,119.54,67,1178,100,AstraZeneca,4/24/2023
+P00796,Vaccine_Drug_839_420mg,Vaccine,Capsule,13.86,51.89,451,1561,676,Bayer,5/9/2023
+P00797,Oncology_Drug_179_35mg,Oncology,Inhaler,26.18,106.56,131,2936,196,Johnson & Johnson,4/13/2023
+P00798,Gastrointestinal_Drug_204_194mg,Gastrointestinal,Syrup,14.07,33.19,284,1673,426,Bristol-Myers Squibb,11/9/2023
+P00799,Antiviral_Drug_463_88mg,Antiviral,Syrup,37.62,80.65,266,2548,399,Sanofi,5/13/2022
+P00800,Ophthalmic_Drug_810_358mg,Ophthalmic,Capsule,26.19,113.61,429,1407,643,AbbVie,5/2/2022
+P00801,Cardiovascular_Drug_327_318mg,Cardiovascular,Syrup,42.65,134.03,346,2002,519,Johnson & Johnson,4/29/2022
+P00802,Antibiotic_Drug_498_486mg,Antibiotic,Ointment,14.64,46.65,94,813,141,Merck,11/21/2023
+P00803,Antipsychotic_Drug_416_451mg,Antipsychotic,Capsule,34.18,80.56,52,2761,78,Bristol-Myers Squibb,11/28/2022
+P00804,Vitamin_Drug_657_7mg,Vitamin,Suppository,44.01,99.85,318,1899,477,AstraZeneca,6/13/2023
+P00805,Analgesic_Drug_723_325mg,Analgesic,Ointment,18.97,60.19,442,1216,663,Purdue,6/1/2022
+P00806,Dermatological_Drug_259_324mg,Dermatological,Injection,36.11,111.07,406,1691,609,AstraZeneca,9/12/2023
+P00807,Gastrointestinal_Drug_461_324mg,Gastrointestinal,Suppository,1.62,6.37,351,1345,526,Purdue,8/29/2022
+P00808,Diabetes_Drug_770_249mg,Diabetes,Tablet,12.07,30.51,126,679,189,Novartis,4/19/2023
+P00809,Antidepressant_Drug_107_439mg,Antidepressant,Inhaler,40.99,202.97,372,726,558,Roche,3/25/2022
+P00810,Antiviral_Drug_13_297mg,Antiviral,Inhaler,30.87,146.49,362,992,543,Pfizer,2/26/2022
+P00811,Oncology_Drug_336_128mg,Oncology,Ointment,24.25,72.78,222,2070,333,Novartis,4/27/2022
+P00812,Oncology_Drug_874_116mg,Oncology,Capsule,15.53,74.37,211,1338,316,Purdue,3/17/2023
+P00813,Antibiotic_Drug_464_409mg,Antibiotic,Capsule,46.46,213.86,445,2074,667,Bristol-Myers Squibb,4/1/2022
+P00814,Vaccine_Drug_166_130mg,Vaccine,Ointment,6.58,25.87,263,2375,394,Bristol-Myers Squibb,8/7/2023
+P00815,Antipsychotic_Drug_52_289mg,Antipsychotic,Tablet,26.91,56.6,327,2149,490,Merck,1/9/2023
+P00816,Antipsychotic_Drug_478_243mg,Antipsychotic,Cream,7.54,30.72,369,2114,553,GSK,3/28/2022
+P00817,Cardiovascular_Drug_822_358mg,Cardiovascular,Suppository,33.68,94.35,212,2897,318,Roche,1/10/2023
+P00818,Ophthalmic_Drug_743_301mg,Ophthalmic,Cream,16.47,63.65,197,2382,295,Sanofi,5/8/2022
+P00819,Antiviral_Drug_559_53mg,Antiviral,Capsule,41.24,202.43,236,970,354,Sanofi,7/14/2023
+P00820,Hormone_Drug_905_64mg,Hormone,Injection,32.32,97.7,398,681,597,Purdue,1/3/2022
+P00821,Oncology_Drug_29_372mg,Oncology,Suppository,49.91,111.04,60,2644,90,Pfizer,1/21/2022
+P00822,Antiviral_Drug_102_46mg,Antiviral,Inhaler,32.67,128.79,115,1634,172,Novo Nordisk,10/18/2022
+P00823,Hormone_Drug_615_385mg,Hormone,Syrup,2.96,9.14,330,1095,495,GSK,5/6/2022
+P00824,Ophthalmic_Drug_960_458mg,Ophthalmic,Cream,23.72,103.25,118,2805,177,Sanofi,4/24/2022
+P00825,Ophthalmic_Drug_502_85mg,Ophthalmic,Syrup,49.07,195.57,98,1188,147,Sanofi,12/2/2023
+P00826,Antipsychotic_Drug_346_230mg,Antipsychotic,Cream,3.8,11.51,304,2783,456,Novartis,10/18/2023
+P00827,Cardiovascular_Drug_421_259mg,Cardiovascular,Suppository,44.65,149.45,485,2594,727,Johnson & Johnson,5/29/2022
+P00828,Antibiotic_Drug_155_166mg,Antibiotic,Ointment,29.07,70.11,139,2221,208,Bayer,4/1/2023
+P00829,Oncology_Drug_629_199mg,Oncology,Tablet,5.99,28.35,369,985,553,Roche,3/24/2023
+P00830,Oncology_Drug_264_58mg,Oncology,Syrup,31.96,114.45,351,2578,526,Bayer,9/28/2022
+P00831,Vaccine_Drug_394_285mg,Vaccine,Capsule,3.79,14.26,129,1048,193,AstraZeneca,4/3/2022
+P00832,Antidepressant_Drug_432_166mg,Antidepressant,Syrup,49.92,180.91,208,2561,312,Bayer,5/26/2023
+P00833,Dermatological_Drug_973_90mg,Dermatological,Suppository,31.66,118.48,78,2340,117,Johnson & Johnson,8/9/2022
+P00834,Antipsychotic_Drug_647_42mg,Antipsychotic,Capsule,35,102.11,213,782,319,Bayer,5/9/2022
+P00835,Antiviral_Drug_426_436mg,Antiviral,Capsule,17.1,65.1,202,2217,303,Sanofi,11/22/2022
+P00836,Antipsychotic_Drug_826_82mg,Antipsychotic,Capsule,3.75,15.91,136,1525,204,Johnson & Johnson,6/20/2023
+P00837,Analgesic_Drug_961_209mg,Analgesic,Tablet,2.62,12.74,300,2420,450,Bayer,5/10/2023
+P00838,Diabetes_Drug_823_331mg,Diabetes,Ointment,31.44,67.41,265,1481,397,Bristol-Myers Squibb,3/25/2023
+P00839,Oncology_Drug_458_35mg,Oncology,Inhaler,45.68,111.45,73,2007,109,Pfizer,8/31/2022
+P00840,Antidepressant_Drug_912_271mg,Antidepressant,Inhaler,41.8,145.47,298,2302,447,Purdue,10/26/2022
+P00841,Antipsychotic_Drug_397_394mg,Antipsychotic,Injection,49.21,232.19,124,1477,186,GSK,8/3/2022
+P00842,Antiviral_Drug_39_259mg,Antiviral,Injection,44.06,114.12,253,2554,379,GSK,3/31/2023
+P00843,Analgesic_Drug_498_117mg,Analgesic,Syrup,34.16,99.23,213,2323,319,AstraZeneca,7/1/2023
+P00844,Vaccine_Drug_36_439mg,Vaccine,Ointment,21.72,95.28,266,2115,399,Novo Nordisk,6/18/2023
+P00845,Oncology_Drug_109_372mg,Oncology,Injection,27.7,62.61,406,2728,609,Purdue,6/30/2022
+P00846,Antibiotic_Drug_464_169mg,Antibiotic,Capsule,12.24,32.5,451,2057,676,AbbVie,9/7/2023
+P00847,Hormone_Drug_285_310mg,Hormone,Inhaler,22.12,78.12,139,2120,208,Novo Nordisk,3/14/2022
+P00848,Hormone_Drug_561_101mg,Hormone,Ointment,1.34,4.56,51,2279,76,Pfizer,4/9/2022
+P00849,Respiratory_Drug_954_495mg,Respiratory,Inhaler,14.48,38.67,484,2503,726,Novartis,8/17/2022
+P00850,Antibiotic_Drug_388_140mg,Antibiotic,Suppository,11.67,26.08,78,1914,117,Roche,12/3/2022
+P00851,Respiratory_Drug_32_74mg,Respiratory,Capsule,47.69,129.62,220,2372,330,Pfizer,4/10/2022
+P00852,Antibiotic_Drug_574_185mg,Antibiotic,Tablet,13.6,56.55,78,1420,117,Bristol-Myers Squibb,12/1/2022
+P00853,Vitamin_Drug_82_242mg,Vitamin,Syrup,46.84,231.36,490,1219,735,GSK,3/3/2022
+P00854,Respiratory_Drug_102_429mg,Respiratory,Suppository,45.72,115.77,411,2245,616,Bayer,11/9/2022
+P00855,Antidepressant_Drug_708_375mg,Antidepressant,Cream,12.6,28.37,402,1615,603,GSK,8/24/2022
+P00856,Antipsychotic_Drug_581_415mg,Antipsychotic,Ointment,9.02,26.14,94,2781,141,GSK,7/23/2022
+P00857,Vitamin_Drug_474_185mg,Vitamin,Injection,17.77,87.86,302,1404,453,Purdue,6/21/2023
+P00858,Diabetes_Drug_743_300mg,Diabetes,Cream,3.66,7.52,212,2858,318,Merck,6/21/2022
+P00859,Hormone_Drug_47_130mg,Hormone,Syrup,15.99,55.16,401,1477,601,Sanofi,11/26/2022
+P00860,Oncology_Drug_383_473mg,Oncology,Injection,4.46,13.76,211,2833,316,Johnson & Johnson,2/1/2023
+P00861,Diabetes_Drug_313_126mg,Diabetes,Capsule,17.89,56.73,457,2088,685,Pfizer,12/17/2023
+P00862,Cardiovascular_Drug_450_11mg,Cardiovascular,Syrup,21.45,52.19,408,1877,612,AstraZeneca,7/12/2023
+P00863,Ophthalmic_Drug_693_187mg,Ophthalmic,Ointment,37.07,109.73,163,990,244,AstraZeneca,9/2/2023
+P00864,Gastrointestinal_Drug_329_115mg,Gastrointestinal,Inhaler,33.55,101.66,325,780,487,AstraZeneca,7/30/2022
+P00865,Antiviral_Drug_552_480mg,Antiviral,Injection,23.31,82.84,75,2574,112,Sanofi,2/17/2023
+P00866,Antiviral_Drug_169_289mg,Antiviral,Syrup,14.19,70.19,278,2502,417,Johnson & Johnson,6/22/2023
+P00867,Ophthalmic_Drug_645_106mg,Ophthalmic,Suppository,41.67,135.3,269,2408,403,Merck,9/26/2022
+P00868,Ophthalmic_Drug_619_279mg,Ophthalmic,Tablet,35.36,76.63,402,2270,603,Sanofi,5/24/2022
+P00869,Vitamin_Drug_929_154mg,Vitamin,Inhaler,28.73,136.48,225,1252,337,GSK,11/9/2023
+P00870,Respiratory_Drug_658_411mg,Respiratory,Suppository,31.32,70.31,474,1595,711,Bristol-Myers Squibb,7/5/2022
+P00871,Antidepressant_Drug_150_246mg,Antidepressant,Ointment,27.12,105.62,311,2061,466,Merck,7/17/2023
+P00872,Antiviral_Drug_455_104mg,Antiviral,Suppository,31.52,105.3,483,1100,724,Roche,11/26/2023
+P00873,Dermatological_Drug_79_52mg,Dermatological,Tablet,46.75,224.3,435,1280,652,Novo Nordisk,5/11/2022
+P00874,Hormone_Drug_632_443mg,Hormone,Capsule,29.7,69.15,375,1203,562,Johnson & Johnson,11/25/2022
+P00875,Analgesic_Drug_133_323mg,Analgesic,Syrup,36.16,156.59,188,620,282,Novartis,8/27/2023
+P00876,Hormone_Drug_722_12mg,Hormone,Cream,2.21,7.12,382,1653,573,AstraZeneca,4/9/2022
+P00877,Antidepressant_Drug_139_314mg,Antidepressant,Syrup,12.71,36.15,223,528,334,AbbVie,12/17/2022
+P00878,Respiratory_Drug_299_208mg,Respiratory,Tablet,35.42,102.66,379,1715,568,AstraZeneca,8/3/2022
+P00879,Antibiotic_Drug_543_371mg,Antibiotic,Ointment,8.82,38.55,281,2064,421,Bayer,10/31/2022
+P00880,Cardiovascular_Drug_323_346mg,Cardiovascular,Cream,31.56,75.81,451,1916,676,Pfizer,2/9/2023
+P00881,Dermatological_Drug_379_198mg,Dermatological,Capsule,4.95,19.88,93,855,139,Novartis,11/11/2023
+P00882,Respiratory_Drug_899_76mg,Respiratory,Syrup,11.64,42.21,280,2239,420,Johnson & Johnson,6/7/2022
+P00883,Antipsychotic_Drug_85_267mg,Antipsychotic,Tablet,28.8,90.17,118,1110,177,Pfizer,2/27/2023
+P00884,Vaccine_Drug_677_115mg,Vaccine,Ointment,25.63,71.08,269,530,403,AstraZeneca,9/9/2023
+P00885,Dermatological_Drug_2_359mg,Dermatological,Injection,47.71,224.69,150,1912,225,Purdue,9/12/2022
+P00886,Vitamin_Drug_660_498mg,Vitamin,Ointment,38.49,133.02,74,2156,111,Bayer,11/19/2022
+P00887,Cardiovascular_Drug_819_261mg,Cardiovascular,Tablet,5.11,20.08,62,1420,93,Roche,7/24/2022
+P00888,Gastrointestinal_Drug_950_387mg,Gastrointestinal,Inhaler,11.12,46.76,429,1938,643,Pfizer,7/19/2022
+P00889,Oncology_Drug_212_16mg,Oncology,Capsule,15.55,31.13,421,831,631,Bayer,9/13/2022
+P00890,Vaccine_Drug_880_303mg,Vaccine,Suppository,5.99,12.27,221,1148,331,GSK,8/12/2023
+P00891,Ophthalmic_Drug_992_498mg,Ophthalmic,Injection,5.74,16.2,64,1303,96,Bayer,11/26/2022
+P00892,Oncology_Drug_305_146mg,Oncology,Capsule,30.09,71.65,312,1015,468,Novo Nordisk,4/19/2023
+P00893,Antibiotic_Drug_663_245mg,Antibiotic,Cream,25.8,114.65,319,1602,478,Pfizer,10/6/2022
+P00894,Gastrointestinal_Drug_977_186mg,Gastrointestinal,Injection,20.32,92.35,447,1104,670,Johnson & Johnson,3/16/2023
+P00895,Vitamin_Drug_663_446mg,Vitamin,Capsule,29.81,143.2,287,2053,430,Merck,1/17/2022
+P00896,Diabetes_Drug_326_483mg,Diabetes,Injection,26.86,98.64,169,1112,253,Sanofi,7/21/2022
+P00897,Oncology_Drug_523_347mg,Oncology,Cream,23.57,68.85,449,944,673,Johnson & Johnson,9/29/2022
+P00898,Diabetes_Drug_16_424mg,Diabetes,Capsule,48.31,151.31,61,2568,91,Pfizer,10/15/2022
+P00899,Gastrointestinal_Drug_984_283mg,Gastrointestinal,Ointment,4.75,18.96,453,1589,679,Merck,9/16/2022
+P00900,Analgesic_Drug_103_481mg,Analgesic,Ointment,47.32,224.83,104,1268,156,Bristol-Myers Squibb,1/26/2022
+P00901,Gastrointestinal_Drug_506_182mg,Gastrointestinal,Ointment,36.41,107.69,248,1266,372,Bristol-Myers Squibb,9/10/2023
+P00902,Cardiovascular_Drug_232_420mg,Cardiovascular,Ointment,7.06,26.47,305,995,457,Novartis,1/25/2022
+P00903,Dermatological_Drug_628_338mg,Dermatological,Suppository,45.82,159.48,415,2437,622,Novo Nordisk,11/16/2022
+P00904,Oncology_Drug_182_362mg,Oncology,Syrup,6.57,13.22,135,1425,202,Novartis,3/9/2023
+P00905,Antiviral_Drug_990_87mg,Antiviral,Syrup,29.82,119.31,452,895,678,Roche,4/8/2023
+P00906,Vitamin_Drug_619_410mg,Vitamin,Capsule,6.01,19.42,413,583,619,GSK,6/15/2022
+P00907,Antiviral_Drug_602_371mg,Antiviral,Injection,49.07,207.13,380,2027,570,Novartis,8/17/2022
+P00908,Antibiotic_Drug_562_398mg,Antibiotic,Inhaler,31.63,153.04,167,2237,250,AbbVie,4/5/2023
+P00909,Diabetes_Drug_935_78mg,Diabetes,Cream,34.32,89.53,489,1935,733,Sanofi,6/20/2022
+P00910,Hormone_Drug_560_86mg,Hormone,Injection,15.76,43.29,198,871,297,Bristol-Myers Squibb,3/10/2022
+P00911,Analgesic_Drug_846_456mg,Analgesic,Syrup,28.76,113.56,58,870,87,GSK,8/31/2022
+P00912,Cardiovascular_Drug_849_43mg,Cardiovascular,Suppository,44.39,90.11,144,2773,216,AbbVie,9/4/2023
+P00913,Ophthalmic_Drug_834_258mg,Ophthalmic,Cream,25.88,90.51,448,906,672,AbbVie,10/16/2023
+P00914,Ophthalmic_Drug_977_416mg,Ophthalmic,Ointment,5.4,14.96,375,2918,562,AstraZeneca,8/17/2022
+P00915,Oncology_Drug_870_290mg,Oncology,Suppository,1.11,4.35,217,1570,325,AstraZeneca,11/17/2022
+P00916,Antibiotic_Drug_844_313mg,Antibiotic,Syrup,30.94,62,412,1167,618,Roche,11/5/2023
+P00917,Dermatological_Drug_746_163mg,Dermatological,Ointment,13.67,41.17,165,1565,247,GSK,10/7/2022
+P00918,Oncology_Drug_118_237mg,Oncology,Capsule,38.87,171.4,358,2647,537,AstraZeneca,4/13/2022
+P00919,Hormone_Drug_282_441mg,Hormone,Inhaler,18.72,60.26,342,1237,513,Johnson & Johnson,7/9/2022
+P00920,Antiviral_Drug_511_462mg,Antiviral,Syrup,49.31,214.11,102,985,153,Bayer,1/7/2022
+P00921,Antidepressant_Drug_197_323mg,Antidepressant,Syrup,19.56,88.6,413,2914,619,AbbVie,4/16/2023
+P00922,Antiviral_Drug_701_455mg,Antiviral,Inhaler,27.66,116.77,415,1813,622,Novo Nordisk,7/29/2022
+P00923,Gastrointestinal_Drug_173_234mg,Gastrointestinal,Suppository,5.48,20.11,330,2407,495,Johnson & Johnson,4/29/2022
+P00924,Hormone_Drug_539_104mg,Hormone,Suppository,20.04,42.32,123,1714,184,AbbVie,8/1/2022
+P00925,Dermatological_Drug_718_417mg,Dermatological,Inhaler,24.18,86.06,289,1917,433,Roche,4/15/2022
+P00926,Antibiotic_Drug_432_258mg,Antibiotic,Injection,45.08,217.4,253,2459,379,GSK,12/14/2023
+P00927,Hormone_Drug_349_225mg,Hormone,Capsule,48.12,208.13,251,1237,376,Merck,3/20/2023
+P00928,Cardiovascular_Drug_6_236mg,Cardiovascular,Inhaler,28.57,122.47,176,1248,264,Novartis,5/15/2023
+P00929,Cardiovascular_Drug_552_288mg,Cardiovascular,Ointment,22.17,108.63,246,1284,369,GSK,5/17/2022
+P00930,Oncology_Drug_419_242mg,Oncology,Inhaler,49.64,203.28,248,2984,372,Novo Nordisk,12/3/2023
+P00931,Antiviral_Drug_152_482mg,Antiviral,Ointment,39.36,130.99,351,1801,526,Novartis,11/6/2023
+P00932,Cardiovascular_Drug_38_136mg,Cardiovascular,Ointment,19.43,60.27,359,920,538,AbbVie,9/30/2022
+P00933,Cardiovascular_Drug_878_308mg,Cardiovascular,Inhaler,46.74,194.93,423,2324,634,Roche,11/29/2023
+P00934,Antipsychotic_Drug_778_262mg,Antipsychotic,Cream,25.97,94.46,297,614,445,Bayer,8/27/2022
+P00935,Vaccine_Drug_522_457mg,Vaccine,Suppository,21.03,71.5,418,732,627,Bayer,11/20/2023
+P00936,Cardiovascular_Drug_11_446mg,Cardiovascular,Tablet,25.93,70.77,167,663,250,Johnson & Johnson,12/26/2022
+P00937,Cardiovascular_Drug_118_388mg,Cardiovascular,Suppository,33.58,77.76,302,1297,453,Purdue,2/19/2023
+P00938,Antidepressant_Drug_855_196mg,Antidepressant,Injection,43.54,141.17,357,1603,535,AstraZeneca,7/24/2023
+P00939,Vitamin_Drug_103_396mg,Vitamin,Suppository,28.89,137.58,56,1518,84,Sanofi,8/20/2022
+P00940,Gastrointestinal_Drug_354_493mg,Gastrointestinal,Tablet,11.24,51.09,382,938,573,AbbVie,10/19/2023
+P00941,Antibiotic_Drug_415_93mg,Antibiotic,Cream,40.24,156.79,163,783,244,AstraZeneca,4/8/2023
+P00942,Cardiovascular_Drug_682_140mg,Cardiovascular,Syrup,10.44,39.87,406,2236,609,Novartis,10/27/2023
+P00943,Vitamin_Drug_85_109mg,Vitamin,Inhaler,48.43,226.14,80,2264,120,Roche,10/15/2023
+P00944,Ophthalmic_Drug_857_371mg,Ophthalmic,Injection,23.52,91.39,148,2594,222,Novo Nordisk,3/3/2022
+P00945,Vitamin_Drug_549_119mg,Vitamin,Inhaler,21.27,90.41,135,891,202,Pfizer,7/23/2022
+P00946,Vaccine_Drug_667_240mg,Vaccine,Ointment,42.99,174.22,185,2031,277,Novartis,9/11/2022
+P00947,Vitamin_Drug_20_16mg,Vitamin,Capsule,44.54,133.05,194,1731,291,Merck,7/4/2023
+P00948,Antipsychotic_Drug_617_100mg,Antipsychotic,Cream,20.41,53.01,139,1002,208,Sanofi,11/19/2023
+P00949,Ophthalmic_Drug_857_103mg,Ophthalmic,Suppository,25.75,127.85,451,1474,676,Novartis,4/26/2022
+P00950,Diabetes_Drug_230_182mg,Diabetes,Capsule,36.78,116.29,298,1841,447,Bayer,4/6/2022
+P00951,Vaccine_Drug_756_86mg,Vaccine,Capsule,13.36,46.39,464,2526,696,Roche,8/27/2023
+P00952,Antidepressant_Drug_916_133mg,Antidepressant,Injection,26.95,75.64,328,2768,492,AstraZeneca,1/14/2023
+P00953,Analgesic_Drug_334_39mg,Analgesic,Injection,48.47,167.35,342,661,513,Novartis,2/23/2022
+P00954,Ophthalmic_Drug_242_455mg,Ophthalmic,Capsule,2.61,9.13,427,2660,640,AstraZeneca,10/9/2023
+P00955,Antidepressant_Drug_701_131mg,Antidepressant,Tablet,49.11,200.04,471,1941,706,Pfizer,1/29/2023
+P00956,Diabetes_Drug_512_402mg,Diabetes,Syrup,4.46,21.42,94,2766,141,Purdue,12/4/2023
+P00957,Antiviral_Drug_906_267mg,Antiviral,Suppository,48.48,200.8,407,1337,610,GSK,12/23/2022
+P00958,Cardiovascular_Drug_872_438mg,Cardiovascular,Suppository,30.03,103.53,253,1051,379,Novo Nordisk,11/16/2022
+P00959,Diabetes_Drug_262_272mg,Diabetes,Inhaler,25.13,113.34,249,1413,373,Pfizer,1/31/2023
+P00960,Vitamin_Drug_839_366mg,Vitamin,Capsule,48.34,115.62,360,548,540,AstraZeneca,11/7/2022
+P00961,Gastrointestinal_Drug_639_234mg,Gastrointestinal,Inhaler,30.78,152.37,258,2641,387,AstraZeneca,1/11/2022
+P00962,Gastrointestinal_Drug_35_447mg,Gastrointestinal,Syrup,14.69,44.75,277,2988,415,Roche,12/10/2022
+P00963,Cardiovascular_Drug_290_455mg,Cardiovascular,Syrup,31.9,135.31,380,1651,570,Johnson & Johnson,6/11/2023
+P00964,Gastrointestinal_Drug_546_359mg,Gastrointestinal,Injection,24.11,117.64,245,2366,367,Johnson & Johnson,8/12/2023
+P00965,Antipsychotic_Drug_405_428mg,Antipsychotic,Tablet,18.9,85.52,173,1466,259,GSK,10/24/2022
+P00966,Vaccine_Drug_984_454mg,Vaccine,Injection,46.34,213.34,110,2106,165,Novartis,10/31/2023
+P00967,Dermatological_Drug_706_275mg,Dermatological,Inhaler,48.56,178.55,373,2221,559,Bristol-Myers Squibb,8/27/2023
+P00968,Vaccine_Drug_969_153mg,Vaccine,Inhaler,33.93,92.36,274,1650,411,Sanofi,4/2/2022
+P00969,Dermatological_Drug_449_333mg,Dermatological,Tablet,15.44,42.86,406,839,609,Bayer,12/19/2023
+P00970,Hormone_Drug_401_439mg,Hormone,Injection,14.88,69.11,415,1104,622,Pfizer,8/21/2023
+P00971,Vitamin_Drug_514_342mg,Vitamin,Tablet,41.12,96.63,438,2199,657,Merck,4/30/2023
+P00972,Antiviral_Drug_666_439mg,Antiviral,Tablet,4.85,22.52,216,2708,324,Roche,2/15/2022
+P00973,Vaccine_Drug_632_340mg,Vaccine,Suppository,46.35,162.65,462,2255,693,Novo Nordisk,12/19/2022
+P00974,Antibiotic_Drug_598_124mg,Antibiotic,Inhaler,21.1,72,251,2185,376,Pfizer,12/31/2023
+P00975,Vitamin_Drug_377_384mg,Vitamin,Injection,31.2,107.6,383,1250,574,Novo Nordisk,7/14/2023
+P00976,Hormone_Drug_12_156mg,Hormone,Ointment,45.19,150.89,221,976,331,Roche,2/26/2022
+P00977,Antiviral_Drug_448_203mg,Antiviral,Syrup,24.26,67.33,234,2156,351,AbbVie,3/30/2023
+P00978,Analgesic_Drug_972_43mg,Analgesic,Suppository,5.25,20.04,424,522,636,Roche,5/14/2022
+P00979,Cardiovascular_Drug_434_22mg,Cardiovascular,Ointment,15.98,57.1,410,2598,615,Merck,9/3/2022
+P00980,Diabetes_Drug_193_316mg,Diabetes,Capsule,40.58,165.51,351,2477,526,Sanofi,7/5/2023
+P00981,Antiviral_Drug_292_52mg,Antiviral,Injection,46.56,225.52,336,2324,504,AstraZeneca,10/26/2023
+P00982,Gastrointestinal_Drug_287_311mg,Gastrointestinal,Suppository,38.06,166.79,302,2933,453,Merck,11/19/2022
+P00983,Oncology_Drug_203_271mg,Oncology,Inhaler,36.49,93.73,158,1127,237,Bayer,7/16/2023
+P00984,Antibiotic_Drug_911_402mg,Antibiotic,Inhaler,21.03,69.12,131,1895,196,Purdue,2/12/2022
+P00985,Respiratory_Drug_934_94mg,Respiratory,Inhaler,15.51,57.65,347,2680,520,Pfizer,4/12/2023
+P00986,Antibiotic_Drug_148_61mg,Antibiotic,Cream,4.57,21.93,198,587,297,Purdue,3/23/2022
+P00987,Cardiovascular_Drug_382_353mg,Cardiovascular,Ointment,43.79,93.05,329,1793,493,AbbVie,11/7/2022
+P00988,Vitamin_Drug_792_205mg,Vitamin,Suppository,28.21,101.07,201,2985,301,Pfizer,5/12/2023
+P00989,Dermatological_Drug_163_299mg,Dermatological,Injection,1.79,5.58,78,1348,117,AbbVie,10/12/2022
+P00990,Dermatological_Drug_138_187mg,Dermatological,Injection,34.17,150.68,447,1215,670,Sanofi,2/20/2023
+P00991,Respiratory_Drug_385_56mg,Respiratory,Injection,15.44,57.34,302,605,453,Johnson & Johnson,11/4/2022
+P00992,Dermatological_Drug_534_290mg,Dermatological,Tablet,46.57,169.29,159,2164,238,Purdue,6/17/2022
+P00993,Vitamin_Drug_905_105mg,Vitamin,Syrup,41.36,189.06,199,645,298,Bayer,10/8/2023
+P00994,Diabetes_Drug_638_239mg,Diabetes,Suppository,38.84,86.48,56,1283,84,Novo Nordisk,6/14/2022
+P00995,Vitamin_Drug_192_218mg,Vitamin,Tablet,27.93,127.73,263,1456,394,Purdue,12/1/2023
+P00996,Antibiotic_Drug_505_202mg,Antibiotic,Injection,8.89,32.8,457,2027,685,Bayer,2/6/2023
+P00997,Vitamin_Drug_856_194mg,Vitamin,Injection,39.71,155.58,225,1990,337,Johnson & Johnson,9/29/2023
+P00998,Respiratory_Drug_42_85mg,Respiratory,Tablet,37.63,188.12,442,1199,663,Roche,9/9/2023
+P00999,Respiratory_Drug_320_41mg,Respiratory,Ointment,9.54,46.64,264,1594,396,Novartis,9/9/2023
+P01000,Antidepressant_Drug_162_191mg,Antidepressant,Inhaler,4.1,15.56,58,2607,87,AbbVie,8/5/2023
+P01001,Antipsychotic_Drug_994_169mg,Antipsychotic,Inhaler,48.78,131.55,111,1965,166,AstraZeneca,10/28/2023
+P01002,Analgesic_Drug_597_28mg,Analgesic,Suppository,3.44,13.11,245,945,367,Novo Nordisk,4/14/2022
+P01003,Antidepressant_Drug_101_29mg,Antidepressant,Capsule,29.82,72.01,176,1349,264,Pfizer,10/4/2022
+P01004,Cardiovascular_Drug_900_188mg,Cardiovascular,Inhaler,43.86,211.24,366,2439,549,AbbVie,4/20/2022
+P01005,Cardiovascular_Drug_743_317mg,Cardiovascular,Capsule,20.53,60.58,315,2375,472,Pfizer,6/24/2023
+P01006,Hormone_Drug_496_109mg,Hormone,Inhaler,18.9,68.16,156,2333,234,Pfizer,5/10/2023
+P01007,Gastrointestinal_Drug_520_405mg,Gastrointestinal,Capsule,9.8,22.53,254,2862,381,Pfizer,1/20/2022
+P01008,Gastrointestinal_Drug_293_385mg,Gastrointestinal,Capsule,46.69,213.77,181,2903,271,Bayer,8/3/2022
+P01009,Ophthalmic_Drug_802_43mg,Ophthalmic,Capsule,40.74,105.59,123,2277,184,Sanofi,12/17/2023
+P01010,Cardiovascular_Drug_584_432mg,Cardiovascular,Cream,19.99,59.36,355,2432,532,Sanofi,7/12/2023
+P01011,Antipsychotic_Drug_147_495mg,Antipsychotic,Capsule,8.81,43.2,215,1662,322,Roche,6/27/2022
+P01012,Respiratory_Drug_154_414mg,Respiratory,Capsule,10.49,34.08,250,1377,375,Purdue,3/21/2023
+P01013,Vitamin_Drug_846_196mg,Vitamin,Ointment,46.64,220.38,139,2146,208,Bristol-Myers Squibb,6/28/2022
+P01014,Cardiovascular_Drug_831_477mg,Cardiovascular,Ointment,32.06,71.04,380,1598,570,Merck,12/11/2022
+P01015,Diabetes_Drug_538_426mg,Diabetes,Inhaler,36.04,106.13,218,2570,327,GSK,5/24/2022
+P01016,Gastrointestinal_Drug_589_419mg,Gastrointestinal,Syrup,36.91,111.06,218,1472,327,GSK,4/1/2023
+P01017,Dermatological_Drug_112_450mg,Dermatological,Tablet,14.01,60.27,279,2925,418,Bayer,11/26/2022
+P01018,Antiviral_Drug_867_382mg,Antiviral,Syrup,46.9,108.75,187,1342,280,Pfizer,4/9/2023
+P01019,Diabetes_Drug_331_253mg,Diabetes,Capsule,24.38,109.82,218,2486,327,GSK,11/6/2022
+P01020,Hormone_Drug_104_170mg,Hormone,Capsule,21.67,58.27,235,1733,352,Novo Nordisk,12/13/2023
+P01021,Ophthalmic_Drug_223_3mg,Ophthalmic,Suppository,12.32,54.28,285,1353,427,Novo Nordisk,6/5/2023
+P01022,Vaccine_Drug_917_460mg,Vaccine,Ointment,10.83,28.66,214,2515,321,Novartis,10/10/2023
+P01023,Analgesic_Drug_684_424mg,Analgesic,Injection,40.8,187.6,407,1570,610,Novartis,8/1/2022
+P01024,Analgesic_Drug_508_324mg,Analgesic,Syrup,33.15,104.31,188,704,282,Bayer,3/18/2022
+P01025,Respiratory_Drug_106_333mg,Respiratory,Ointment,47.43,162.47,88,2635,132,Sanofi,6/24/2023
+P01026,Antipsychotic_Drug_778_382mg,Antipsychotic,Capsule,43.49,174.79,254,2236,381,Purdue,5/23/2022
+P01027,Cardiovascular_Drug_152_158mg,Cardiovascular,Tablet,48.69,212.86,495,1262,742,Pfizer,8/12/2022
+P01028,Dermatological_Drug_756_3mg,Dermatological,Suppository,44.49,174.57,174,1791,261,Novartis,6/26/2022
+P01029,Hormone_Drug_561_307mg,Hormone,Ointment,48.48,232.67,295,1812,442,GSK,9/12/2022
+P01030,Ophthalmic_Drug_791_206mg,Ophthalmic,Ointment,24.07,62.5,143,1986,214,Merck,9/6/2022
+P01031,Antidepressant_Drug_587_157mg,Antidepressant,Syrup,41.57,179.32,272,2225,408,Bayer,3/7/2022
+P01032,Antidepressant_Drug_33_328mg,Antidepressant,Syrup,42.28,123.02,330,2620,495,Johnson & Johnson,3/2/2022
+P01033,Gastrointestinal_Drug_272_246mg,Gastrointestinal,Suppository,18.09,73.84,225,2306,337,Merck,10/19/2022
+P01034,Antibiotic_Drug_361_338mg,Antibiotic,Inhaler,17.94,69.33,116,509,174,Novartis,7/23/2023
+P01035,Dermatological_Drug_625_133mg,Dermatological,Injection,18.18,56.91,120,2630,180,Novo Nordisk,4/21/2022
+P01036,Antipsychotic_Drug_76_158mg,Antipsychotic,Inhaler,13.27,58.62,69,2456,103,Johnson & Johnson,10/4/2023
+P01037,Antiviral_Drug_763_469mg,Antiviral,Inhaler,45.22,100.38,449,2556,673,Purdue,7/28/2022
+P01038,Antidepressant_Drug_705_402mg,Antidepressant,Syrup,30.59,106.45,240,1152,360,Novartis,10/27/2022
+P01039,Vaccine_Drug_417_152mg,Vaccine,Syrup,33.67,96.06,469,2278,703,Purdue,12/31/2022
+P01040,Ophthalmic_Drug_652_190mg,Ophthalmic,Injection,8.53,39.14,451,2015,676,Bayer,9/25/2022
+P01041,Antipsychotic_Drug_11_320mg,Antipsychotic,Tablet,46.71,104.4,250,625,375,Novo Nordisk,9/20/2023
+P01042,Cardiovascular_Drug_257_209mg,Cardiovascular,Ointment,44.03,157.71,330,942,495,Novo Nordisk,5/27/2022
+P01043,Antiviral_Drug_630_94mg,Antiviral,Tablet,40.33,110.54,483,2691,724,Pfizer,12/12/2022
+P01044,Respiratory_Drug_400_207mg,Respiratory,Tablet,22.39,87.35,395,1695,592,Johnson & Johnson,2/3/2023
+P01045,Diabetes_Drug_418_386mg,Diabetes,Suppository,9.96,30.83,332,2621,498,AbbVie,6/19/2023
+P01046,Analgesic_Drug_447_373mg,Analgesic,Ointment,9.95,37.03,411,2640,616,Pfizer,12/12/2022
+P01047,Cardiovascular_Drug_215_192mg,Cardiovascular,Inhaler,22.21,76.68,209,2407,313,AbbVie,2/7/2023
+P01048,Oncology_Drug_600_11mg,Oncology,Cream,2.86,14.25,236,1538,354,Bayer,2/21/2022
+P01049,Ophthalmic_Drug_17_351mg,Ophthalmic,Tablet,16.69,75.36,477,2354,715,Merck,8/5/2023
+P01050,Oncology_Drug_53_462mg,Oncology,Syrup,31.06,86.5,477,1898,715,Johnson & Johnson,2/27/2022
+P01051,Gastrointestinal_Drug_522_496mg,Gastrointestinal,Capsule,36.48,96.17,302,794,453,Novo Nordisk,10/26/2022
+P01052,Hormone_Drug_820_101mg,Hormone,Cream,40.41,88.8,105,2879,157,Sanofi,1/16/2023
+P01053,Ophthalmic_Drug_447_109mg,Ophthalmic,Inhaler,39.43,147.93,366,2335,549,Sanofi,8/10/2022
+P01054,Cardiovascular_Drug_278_497mg,Cardiovascular,Suppository,47.31,134.74,106,1509,159,Sanofi,8/7/2023
+P01055,Antidepressant_Drug_359_407mg,Antidepressant,Ointment,37.19,171.1,337,2633,505,Bayer,9/26/2022
+P01056,Respiratory_Drug_803_481mg,Respiratory,Injection,29.01,62.06,326,2355,489,Bayer,6/12/2022
+P01057,Hormone_Drug_96_262mg,Hormone,Suppository,16,63.47,414,852,621,AbbVie,4/28/2022
+P01058,Antibiotic_Drug_591_78mg,Antibiotic,Suppository,16.6,69.6,196,606,294,Bayer,4/13/2023
+P01059,Antibiotic_Drug_538_210mg,Antibiotic,Ointment,35.27,145.78,141,2160,211,Novartis,11/5/2022
+P01060,Oncology_Drug_710_78mg,Oncology,Injection,45.34,201.92,397,2379,595,Novo Nordisk,5/29/2022
+P01061,Dermatological_Drug_211_280mg,Dermatological,Capsule,32.98,111.09,75,1679,112,Purdue,9/30/2022
+P01062,Analgesic_Drug_573_123mg,Analgesic,Syrup,12.18,58.06,398,1207,597,GSK,3/30/2022
+P01063,Cardiovascular_Drug_794_200mg,Cardiovascular,Ointment,38.12,168.85,148,2217,222,Novo Nordisk,5/18/2023
+P01064,Analgesic_Drug_677_307mg,Analgesic,Tablet,13.99,58.8,320,2043,480,Sanofi,12/25/2022
+P01065,Respiratory_Drug_334_177mg,Respiratory,Ointment,10,27.58,218,1862,327,Johnson & Johnson,7/30/2022
+P01066,Hormone_Drug_762_231mg,Hormone,Syrup,42.86,186.22,72,795,108,Novartis,7/22/2022
+P01067,Antipsychotic_Drug_785_244mg,Antipsychotic,Tablet,27.88,137.17,376,1486,564,Bristol-Myers Squibb,1/15/2023
+P01068,Vitamin_Drug_342_348mg,Vitamin,Capsule,43.11,100.45,329,1744,493,AstraZeneca,10/1/2022
+P01069,Dermatological_Drug_929_349mg,Dermatological,Suppository,14.95,69.71,152,623,228,AbbVie,3/1/2022
+P01070,Gastrointestinal_Drug_886_439mg,Gastrointestinal,Injection,37.93,186.02,319,941,478,Johnson & Johnson,12/22/2022
+P01071,Antibiotic_Drug_667_165mg,Antibiotic,Suppository,24.53,88.46,271,590,406,Pfizer,5/31/2023
+P01072,Vitamin_Drug_769_235mg,Vitamin,Tablet,45.29,134.15,355,2401,532,Pfizer,11/7/2023
+P01073,Oncology_Drug_730_240mg,Oncology,Inhaler,39.5,117.6,70,640,105,Pfizer,9/22/2023
+P01074,Antidepressant_Drug_726_56mg,Antidepressant,Cream,4.9,10.51,336,1481,504,Purdue,10/2/2023
+P01075,Hormone_Drug_325_442mg,Hormone,Capsule,32.44,67.16,341,2835,511,Sanofi,5/13/2023
+P01076,Cardiovascular_Drug_917_60mg,Cardiovascular,Ointment,49.64,197.42,446,756,669,Bayer,2/14/2023
+P01077,Vitamin_Drug_988_417mg,Vitamin,Injection,41.42,189.28,406,882,609,AstraZeneca,3/9/2023
+P01078,Hormone_Drug_577_268mg,Hormone,Suppository,4.82,11.17,118,2251,177,Bayer,9/14/2022
+P01079,Respiratory_Drug_643_49mg,Respiratory,Capsule,18.1,88.67,196,815,294,Bayer,5/25/2022
+P01080,Ophthalmic_Drug_420_61mg,Ophthalmic,Ointment,2.99,14.18,322,2084,483,Novo Nordisk,7/9/2023
+P01081,Gastrointestinal_Drug_964_465mg,Gastrointestinal,Capsule,22.65,97.67,227,545,340,Novartis,9/4/2022
+P01082,Analgesic_Drug_792_125mg,Analgesic,Ointment,30.73,72.52,241,2921,361,AstraZeneca,3/29/2022
+P01083,Gastrointestinal_Drug_204_401mg,Gastrointestinal,Ointment,20.73,54.39,431,1100,646,Novo Nordisk,6/23/2023
+P01084,Antidepressant_Drug_61_186mg,Antidepressant,Capsule,5.79,21.59,80,1742,120,Bayer,8/25/2022
+P01085,Diabetes_Drug_829_46mg,Diabetes,Cream,39.4,187.78,390,1981,585,Purdue,4/18/2023
+P01086,Hormone_Drug_112_468mg,Hormone,Injection,18.14,59.4,341,2345,511,Novartis,5/1/2023
+P01087,Antidepressant_Drug_555_368mg,Antidepressant,Cream,17.14,36.45,164,2318,246,Purdue,12/2/2022
+P01088,Antipsychotic_Drug_889_228mg,Antipsychotic,Capsule,9.63,39.97,196,621,294,Johnson & Johnson,7/24/2023
+P01089,Hormone_Drug_668_449mg,Hormone,Suppository,10.53,44.17,477,1944,715,Roche,10/11/2023
+P01090,Vitamin_Drug_189_464mg,Vitamin,Injection,34.04,132.75,449,2926,673,Novartis,9/30/2023
+P01091,Respiratory_Drug_825_337mg,Respiratory,Cream,13.3,53.87,244,1511,366,Novo Nordisk,7/20/2023
+P01092,Oncology_Drug_850_61mg,Oncology,Ointment,34.68,103.22,136,1269,204,Pfizer,4/7/2023
+P01093,Dermatological_Drug_766_384mg,Dermatological,Tablet,40.7,146.92,440,1187,660,AbbVie,9/11/2023
+P01094,Diabetes_Drug_123_474mg,Diabetes,Tablet,13.25,29.11,183,2142,274,AbbVie,1/23/2022
+P01095,Antidepressant_Drug_766_453mg,Antidepressant,Ointment,26.15,91.19,284,1495,426,AstraZeneca,7/2/2022
+P01096,Gastrointestinal_Drug_935_90mg,Gastrointestinal,Tablet,13.45,60.19,360,1056,540,Roche,2/21/2022
+P01097,Antibiotic_Drug_948_67mg,Antibiotic,Injection,6.69,25.75,162,2847,243,Roche,3/9/2022
+P01098,Respiratory_Drug_949_116mg,Respiratory,Syrup,19.02,43.78,100,2216,150,Novo Nordisk,8/9/2023
+P01099,Hormone_Drug_184_23mg,Hormone,Capsule,23.55,60.77,323,2676,484,Novartis,5/7/2023
+P01100,Cardiovascular_Drug_67_293mg,Cardiovascular,Injection,14.7,35.02,334,1100,501,Sanofi,1/23/2023
+P01101,Cardiovascular_Drug_731_417mg,Cardiovascular,Ointment,35.69,131.06,455,2723,682,Johnson & Johnson,3/28/2023
+P01102,Antipsychotic_Drug_171_223mg,Antipsychotic,Cream,23.47,94.61,262,540,393,Novartis,6/25/2023
+P01103,Hormone_Drug_828_451mg,Hormone,Inhaler,12.04,33.37,498,2279,747,Pfizer,11/30/2022
+P01104,Cardiovascular_Drug_891_142mg,Cardiovascular,Tablet,28.31,130.38,93,643,139,AbbVie,2/24/2022
+P01105,Diabetes_Drug_423_417mg,Diabetes,Ointment,2.88,13.28,210,2872,315,Bayer,4/22/2022
+P01106,Vaccine_Drug_717_52mg,Vaccine,Tablet,1.63,7.52,187,971,280,Novo Nordisk,11/30/2023
+P01107,Antibiotic_Drug_930_433mg,Antibiotic,Syrup,25.32,81.3,461,966,691,Pfizer,9/5/2022
+P01108,Antipsychotic_Drug_67_61mg,Antipsychotic,Suppository,34.98,87.83,493,969,739,AbbVie,8/31/2023
+P01109,Oncology_Drug_775_97mg,Oncology,Cream,47.68,153.27,162,2511,243,Purdue,5/1/2022
+P01110,Antipsychotic_Drug_482_122mg,Antipsychotic,Ointment,17.02,65.02,331,1562,496,Pfizer,7/19/2022
+P01111,Analgesic_Drug_917_173mg,Analgesic,Suppository,38.71,134.13,297,1906,445,Purdue,2/11/2022
+P01112,Ophthalmic_Drug_746_329mg,Ophthalmic,Tablet,25.78,94.9,180,1741,270,AstraZeneca,1/22/2023
+P01113,Antibiotic_Drug_754_408mg,Antibiotic,Tablet,13.71,30.9,190,1397,285,Novo Nordisk,8/24/2023
+P01114,Hormone_Drug_203_417mg,Hormone,Ointment,35.36,154.42,465,1971,697,Purdue,3/13/2022
+P01115,Respiratory_Drug_521_281mg,Respiratory,Cream,29.95,148.78,307,774,460,Sanofi,11/22/2022
+P01116,Cardiovascular_Drug_89_486mg,Cardiovascular,Syrup,30.58,70.82,245,2897,367,GSK,6/3/2022
+P01117,Oncology_Drug_960_264mg,Oncology,Syrup,23.03,59.09,272,2968,408,Bristol-Myers Squibb,1/4/2022
+P01118,Antidepressant_Drug_986_480mg,Antidepressant,Suppository,6.56,27.3,159,1560,238,Johnson & Johnson,1/16/2023
+P01119,Ophthalmic_Drug_344_328mg,Ophthalmic,Injection,41.21,87.08,81,2092,121,Novo Nordisk,9/20/2023
+P01120,Analgesic_Drug_782_33mg,Analgesic,Suppository,21.19,56.61,59,2739,88,AbbVie,9/29/2023
+P01121,Dermatological_Drug_59_436mg,Dermatological,Suppository,1.06,2.5,146,1801,219,Pfizer,1/8/2022
+P01122,Antibiotic_Drug_123_33mg,Antibiotic,Cream,10.41,47.05,50,703,75,Novartis,8/15/2023
+P01123,Antibiotic_Drug_850_321mg,Antibiotic,Tablet,11.26,22.92,388,1961,582,Bayer,5/21/2023
+P01124,Antipsychotic_Drug_680_467mg,Antipsychotic,Inhaler,29.43,138.68,387,1189,580,GSK,8/19/2022
+P01125,Hormone_Drug_495_38mg,Hormone,Suppository,15.5,72.3,474,1246,711,Merck,10/24/2023
+P01126,Dermatological_Drug_820_29mg,Dermatological,Suppository,46.39,226.61,193,1156,289,Bristol-Myers Squibb,11/27/2023
+P01127,Antipsychotic_Drug_169_259mg,Antipsychotic,Syrup,26.16,103.38,276,2580,414,AbbVie,1/28/2023
+P01128,Gastrointestinal_Drug_946_29mg,Gastrointestinal,Capsule,3.01,10.78,88,2135,132,Novo Nordisk,7/16/2022
+P01129,Vaccine_Drug_23_487mg,Vaccine,Injection,31.54,68.41,143,2277,214,Merck,5/18/2022
+P01130,Gastrointestinal_Drug_784_41mg,Gastrointestinal,Cream,13.87,34.59,147,1194,220,Pfizer,12/28/2023
+P01131,Antidepressant_Drug_561_201mg,Antidepressant,Syrup,39.17,80.7,485,2805,727,Novartis,12/8/2022
+P01132,Dermatological_Drug_648_59mg,Dermatological,Cream,6.4,26.65,242,2807,363,Bayer,9/11/2022
+P01133,Antiviral_Drug_728_69mg,Antiviral,Inhaler,18.52,52.45,118,1041,177,Roche,9/23/2022
+P01134,Antipsychotic_Drug_333_77mg,Antipsychotic,Inhaler,16.79,82.66,337,1504,505,GSK,2/24/2023
+P01135,Respiratory_Drug_415_353mg,Respiratory,Capsule,4.6,9.94,206,1784,309,Novo Nordisk,8/2/2023
+P01136,Antiviral_Drug_163_15mg,Antiviral,Syrup,5.59,24.06,281,2742,421,Novartis,3/3/2023
+P01137,Cardiovascular_Drug_486_296mg,Cardiovascular,Syrup,4.55,21.13,498,1936,747,Novo Nordisk,9/16/2022
+P01138,Analgesic_Drug_143_481mg,Analgesic,Injection,42.39,198.92,474,1126,711,Pfizer,3/25/2022
+P01139,Vitamin_Drug_517_485mg,Vitamin,Tablet,35.05,153.78,127,1281,190,Novo Nordisk,11/18/2023
+P01140,Antidepressant_Drug_478_211mg,Antidepressant,Syrup,5.51,16.42,144,722,216,Johnson & Johnson,11/12/2022
+P01141,Vaccine_Drug_842_112mg,Vaccine,Ointment,8.08,33.01,400,2712,600,GSK,12/31/2022
+P01142,Vitamin_Drug_947_306mg,Vitamin,Cream,9.69,22.57,173,518,259,Bristol-Myers Squibb,3/26/2023
+P01143,Oncology_Drug_48_183mg,Oncology,Ointment,23.67,104.61,124,1706,186,Merck,4/1/2023
+P01144,Gastrointestinal_Drug_898_336mg,Gastrointestinal,Capsule,45.82,120.32,144,2280,216,AbbVie,3/13/2022
+P01145,Vaccine_Drug_624_300mg,Vaccine,Suppository,40.49,201.2,105,1485,157,GSK,3/26/2023
+P01146,Gastrointestinal_Drug_492_189mg,Gastrointestinal,Syrup,33.46,82.81,115,1309,172,Bayer,6/13/2022
+P01147,Gastrointestinal_Drug_476_294mg,Gastrointestinal,Inhaler,37.67,104.95,466,2717,699,Bristol-Myers Squibb,1/18/2022
+P01148,Antidepressant_Drug_628_80mg,Antidepressant,Capsule,20.19,83.59,64,1792,96,Bayer,12/12/2023
+P01149,Cardiovascular_Drug_288_406mg,Cardiovascular,Capsule,36.23,127.23,104,2304,156,Bristol-Myers Squibb,1/22/2022
+P01150,Cardiovascular_Drug_560_5mg,Cardiovascular,Cream,2.26,6.83,299,2198,448,Johnson & Johnson,11/6/2023
+P01151,Vitamin_Drug_138_66mg,Vitamin,Cream,44.08,89.88,247,727,370,AstraZeneca,6/3/2023
+P01152,Vaccine_Drug_211_302mg,Vaccine,Inhaler,2.2,8.24,135,1920,202,Novo Nordisk,1/16/2023
+P01153,Ophthalmic_Drug_260_234mg,Ophthalmic,Tablet,10.97,26.77,52,1831,78,Merck,3/15/2023
+P01154,Gastrointestinal_Drug_983_254mg,Gastrointestinal,Syrup,23.24,93.23,193,2571,289,AbbVie,11/21/2022
+P01155,Antipsychotic_Drug_860_348mg,Antipsychotic,Inhaler,13.59,28.03,335,517,502,Bayer,2/6/2023
+P01156,Cardiovascular_Drug_568_31mg,Cardiovascular,Tablet,13.42,64.71,406,1582,609,Bristol-Myers Squibb,8/23/2022
+P01157,Dermatological_Drug_992_18mg,Dermatological,Inhaler,21.18,88.59,450,1237,675,Roche,3/17/2022
+P01158,Diabetes_Drug_317_300mg,Diabetes,Injection,5.66,14.72,170,2359,255,GSK,5/17/2023
+P01159,Antidepressant_Drug_703_175mg,Antidepressant,Cream,30.68,125.04,50,2422,75,Pfizer,1/17/2023
+P01160,Vaccine_Drug_318_291mg,Vaccine,Tablet,4.29,14.56,299,2048,448,Bristol-Myers Squibb,9/13/2022
+P01161,Diabetes_Drug_144_146mg,Diabetes,Ointment,6.8,26.77,440,2199,660,Johnson & Johnson,9/28/2022
+P01162,Ophthalmic_Drug_467_235mg,Ophthalmic,Suppository,28.98,93.42,214,1205,321,AstraZeneca,5/6/2023
+P01163,Dermatological_Drug_890_223mg,Dermatological,Inhaler,1.45,5.63,129,1245,193,Merck,12/30/2022
+P01164,Respiratory_Drug_146_324mg,Respiratory,Capsule,30.39,131.57,176,634,264,Johnson & Johnson,2/10/2022
+P01165,Oncology_Drug_913_194mg,Oncology,Injection,19.97,78.72,159,2915,238,Purdue,6/15/2022
+P01166,Respiratory_Drug_474_17mg,Respiratory,Injection,28.65,99.77,265,1615,397,Novo Nordisk,2/4/2023
+P01167,Hormone_Drug_146_367mg,Hormone,Injection,28.99,129.78,150,1379,225,Novartis,6/12/2022
+P01168,Analgesic_Drug_502_35mg,Analgesic,Cream,49.15,157.15,333,2928,499,Roche,6/12/2022
+P01169,Respiratory_Drug_307_339mg,Respiratory,Tablet,24.45,52.18,104,832,156,Bristol-Myers Squibb,8/23/2023
+P01170,Gastrointestinal_Drug_727_92mg,Gastrointestinal,Inhaler,33.79,141.83,352,734,528,Pfizer,10/9/2023
+P01171,Cardiovascular_Drug_96_201mg,Cardiovascular,Tablet,6.94,16.25,462,1037,693,Purdue,4/26/2023
+P01172,Antiviral_Drug_351_416mg,Antiviral,Syrup,16.48,48.49,423,1415,634,Novo Nordisk,10/3/2023
+P01173,Antibiotic_Drug_757_111mg,Antibiotic,Injection,41.27,177.78,217,967,325,Bristol-Myers Squibb,8/14/2023
+P01174,Antidepressant_Drug_439_19mg,Antidepressant,Tablet,29.68,91.36,176,2752,264,AstraZeneca,5/31/2022
+P01175,Respiratory_Drug_105_425mg,Respiratory,Ointment,19.69,47.7,482,1412,723,AbbVie,5/9/2023
+P01176,Respiratory_Drug_403_157mg,Respiratory,Inhaler,4.1,15.62,307,1158,460,AstraZeneca,7/4/2023
+P01177,Diabetes_Drug_255_208mg,Diabetes,Ointment,41.75,102.33,499,594,748,Sanofi,7/9/2022
+P01178,Antiviral_Drug_733_24mg,Antiviral,Syrup,23.95,90.89,293,1946,439,Roche,2/24/2022
+P01179,Vitamin_Drug_670_29mg,Vitamin,Ointment,12.47,28.1,459,2189,688,Roche,11/1/2023
+P01180,Diabetes_Drug_122_299mg,Diabetes,Injection,46.16,197.21,312,1060,468,Sanofi,8/12/2023
+P01181,Hormone_Drug_127_197mg,Hormone,Ointment,34.73,92.35,270,1494,405,Purdue,11/16/2022
+P01182,Respiratory_Drug_191_349mg,Respiratory,Cream,39.82,179.82,212,2608,318,Bayer,4/15/2023
+P01183,Antipsychotic_Drug_779_2mg,Antipsychotic,Syrup,14.38,37.8,227,2741,340,Purdue,9/6/2022
+P01184,Antibiotic_Drug_665_158mg,Antibiotic,Syrup,5.69,27.13,411,2174,616,Bayer,10/6/2022
+P01185,Oncology_Drug_816_276mg,Oncology,Syrup,3.77,15.15,51,1422,76,Pfizer,10/15/2023
+P01186,Analgesic_Drug_236_128mg,Analgesic,Injection,23.36,109.38,249,2025,373,Sanofi,10/5/2023
+P01187,Analgesic_Drug_29_361mg,Analgesic,Capsule,41.48,111.29,357,2709,535,AstraZeneca,3/12/2022
+P01188,Antidepressant_Drug_876_466mg,Antidepressant,Injection,39.9,184.47,292,2013,438,Roche,5/9/2023
+P01189,Diabetes_Drug_856_367mg,Diabetes,Capsule,3.59,12.1,59,511,88,Sanofi,4/24/2022
+P01190,Respiratory_Drug_499_33mg,Respiratory,Inhaler,35.67,74.68,111,728,166,AstraZeneca,8/11/2023
+P01191,Dermatological_Drug_761_83mg,Dermatological,Ointment,48.05,196.02,74,2092,111,Bristol-Myers Squibb,8/27/2023
+P01192,Cardiovascular_Drug_838_136mg,Cardiovascular,Injection,24.55,89.74,245,632,367,Johnson & Johnson,11/20/2022
+P01193,Analgesic_Drug_638_175mg,Analgesic,Syrup,1.73,5.96,300,2475,450,Pfizer,6/12/2023
+P01194,Cardiovascular_Drug_762_343mg,Cardiovascular,Syrup,36.06,79.6,403,2325,604,Johnson & Johnson,7/7/2023
+P01195,Antidepressant_Drug_866_380mg,Antidepressant,Capsule,19.12,66.12,384,2301,576,Johnson & Johnson,5/22/2023
+P01196,Cardiovascular_Drug_265_114mg,Cardiovascular,Syrup,34.47,137.27,341,1468,511,Pfizer,4/5/2022
+P01197,Antidepressant_Drug_336_68mg,Antidepressant,Capsule,19.26,51.83,295,2441,442,Bristol-Myers Squibb,9/19/2022
+P01198,Respiratory_Drug_344_477mg,Respiratory,Injection,21.05,89.35,308,2343,462,Pfizer,11/28/2022
+P01199,Vaccine_Drug_584_235mg,Vaccine,Tablet,30.61,79.45,373,2191,559,Sanofi,8/16/2022
+P01200,Antibiotic_Drug_245_306mg,Antibiotic,Capsule,15.96,78.54,63,1517,94,Pfizer,9/14/2023
+P01201,Antidepressant_Drug_19_66mg,Antidepressant,Syrup,12.87,32.37,216,2108,324,Bayer,4/22/2022
+P01202,Antibiotic_Drug_373_85mg,Antibiotic,Inhaler,33.09,94.3,188,1562,282,Bristol-Myers Squibb,9/27/2023
+P01203,Respiratory_Drug_61_100mg,Respiratory,Tablet,39.14,149.74,356,1877,534,Roche,3/22/2023
+P01204,Antipsychotic_Drug_342_133mg,Antipsychotic,Syrup,31.17,126.95,492,2359,738,Novartis,5/18/2022
+P01205,Respiratory_Drug_746_61mg,Respiratory,Cream,19.32,93.76,356,765,534,Sanofi,3/30/2023
+P01206,Hormone_Drug_440_187mg,Hormone,Injection,13.36,48.13,368,1890,552,Bristol-Myers Squibb,5/12/2022
+P01207,Oncology_Drug_560_288mg,Oncology,Injection,9.88,40.86,425,1190,637,Purdue,8/5/2023
+P01208,Dermatological_Drug_784_59mg,Dermatological,Ointment,7.21,23.52,230,518,345,Bayer,8/16/2023
+P01209,Hormone_Drug_615_54mg,Hormone,Ointment,6.3,31.25,232,1926,348,Pfizer,8/3/2023
+P01210,Ophthalmic_Drug_282_360mg,Ophthalmic,Capsule,33.31,157.53,452,1322,678,Pfizer,1/8/2022
+P01211,Cardiovascular_Drug_491_341mg,Cardiovascular,Injection,1.33,3.27,330,2210,495,Novo Nordisk,4/3/2022
+P01212,Antipsychotic_Drug_824_268mg,Antipsychotic,Capsule,12.81,61.6,466,1131,699,Sanofi,1/10/2022
+P01213,Hormone_Drug_838_273mg,Hormone,Syrup,11.16,34.97,355,1733,532,AstraZeneca,12/29/2023
+P01214,Vitamin_Drug_416_216mg,Vitamin,Cream,1.14,5.46,129,1401,193,Roche,6/9/2023
+P01215,Respiratory_Drug_346_366mg,Respiratory,Cream,3.87,11.29,497,2036,745,Sanofi,10/2/2023
+P01216,Analgesic_Drug_824_80mg,Analgesic,Inhaler,28.33,88.91,214,912,321,Purdue,10/9/2022
+P01217,Diabetes_Drug_751_268mg,Diabetes,Capsule,46.51,205.24,454,2845,681,GSK,12/31/2022
+P01218,Diabetes_Drug_961_474mg,Diabetes,Inhaler,48.8,209.08,276,1757,414,Novartis,1/25/2023
+P01219,Analgesic_Drug_856_149mg,Analgesic,Inhaler,16.89,39.41,120,620,180,Roche,2/28/2022
+P01220,Vaccine_Drug_446_388mg,Vaccine,Cream,35.8,144.35,135,1750,202,AstraZeneca,11/18/2022
+P01221,Vitamin_Drug_566_399mg,Vitamin,Ointment,11.59,43.72,246,1398,369,Novo Nordisk,11/23/2023
+P01222,Antiviral_Drug_412_222mg,Antiviral,Syrup,13.11,65.4,323,2791,484,AstraZeneca,9/30/2022
+P01223,Oncology_Drug_825_8mg,Oncology,Inhaler,5.19,13.24,177,1896,265,Sanofi,10/14/2023
+P01224,Hormone_Drug_211_447mg,Hormone,Syrup,30.64,105.41,123,666,184,Bayer,11/23/2022
+P01225,Analgesic_Drug_634_334mg,Analgesic,Ointment,29.86,106.36,252,1552,378,Sanofi,12/24/2023
+P01226,Oncology_Drug_785_137mg,Oncology,Inhaler,9.79,26.21,286,2900,429,Johnson & Johnson,10/18/2023
+P01227,Diabetes_Drug_646_114mg,Diabetes,Inhaler,33.94,159.27,188,1261,282,Roche,4/3/2023
+P01228,Analgesic_Drug_676_92mg,Analgesic,Capsule,26.52,119.58,137,1592,205,Sanofi,11/11/2023
+P01229,Antidepressant_Drug_178_297mg,Antidepressant,Capsule,24.49,86.72,350,2394,525,Merck,7/13/2023
+P01230,Antipsychotic_Drug_257_300mg,Antipsychotic,Syrup,17.55,57.13,199,2790,298,Novo Nordisk,12/9/2022
+P01231,Respiratory_Drug_594_154mg,Respiratory,Injection,47.34,226.74,190,645,285,Novo Nordisk,11/7/2022
+P01232,Gastrointestinal_Drug_570_492mg,Gastrointestinal,Injection,6.16,15.73,112,846,168,AstraZeneca,3/13/2022
+P01233,Gastrointestinal_Drug_933_94mg,Gastrointestinal,Ointment,33.95,139.63,422,2886,633,Roche,2/9/2022
+P01234,Antiviral_Drug_574_254mg,Antiviral,Inhaler,28.75,91.86,118,2400,177,Purdue,8/7/2023
+P01235,Oncology_Drug_529_370mg,Oncology,Injection,29.21,72.76,390,2604,585,Bristol-Myers Squibb,4/9/2023
+P01236,Antiviral_Drug_373_417mg,Antiviral,Capsule,40.75,85.51,80,867,120,Johnson & Johnson,2/22/2023
+P01237,Ophthalmic_Drug_398_272mg,Ophthalmic,Cream,38.37,172.67,220,755,330,Novo Nordisk,8/23/2022
+P01238,Gastrointestinal_Drug_157_454mg,Gastrointestinal,Cream,49.99,226.45,108,1356,162,Purdue,8/15/2023
+P01239,Antidepressant_Drug_213_388mg,Antidepressant,Cream,48.43,222.24,397,665,595,Johnson & Johnson,12/27/2023
+P01240,Diabetes_Drug_221_308mg,Diabetes,Tablet,23.97,69.06,335,598,502,Novartis,8/15/2022
+P01241,Antiviral_Drug_243_18mg,Antiviral,Suppository,29.77,65.5,126,1568,189,Pfizer,4/2/2022
+P01242,Antidepressant_Drug_604_192mg,Antidepressant,Syrup,24.05,117.09,126,1804,189,Bristol-Myers Squibb,10/7/2022
+P01243,Diabetes_Drug_740_371mg,Diabetes,Injection,23.05,105.46,314,2203,471,Roche,3/13/2023
+P01244,Antidepressant_Drug_375_45mg,Antidepressant,Capsule,23.27,61.15,430,2561,645,Johnson & Johnson,7/3/2023
+P01245,Antipsychotic_Drug_983_492mg,Antipsychotic,Capsule,49.05,149.64,87,1719,130,Johnson & Johnson,8/25/2023
+P01246,Analgesic_Drug_252_8mg,Analgesic,Inhaler,38.27,93.75,305,1374,457,Roche,10/16/2023
+P01247,Ophthalmic_Drug_26_111mg,Ophthalmic,Suppository,16.15,37.96,172,1709,258,Roche,8/12/2023
+P01248,Cardiovascular_Drug_767_438mg,Cardiovascular,Cream,4.14,18.99,60,1448,90,AstraZeneca,6/24/2023
+P01249,Vaccine_Drug_387_228mg,Vaccine,Cream,32.39,105,177,2290,265,Novartis,7/11/2023
+P01250,Gastrointestinal_Drug_793_234mg,Gastrointestinal,Syrup,13.81,68.43,238,1505,357,Pfizer,8/15/2023
+P01251,Antibiotic_Drug_719_344mg,Antibiotic,Inhaler,36.8,174.95,226,1906,339,AstraZeneca,2/25/2022
+P01252,Hormone_Drug_826_419mg,Hormone,Tablet,34.59,147.93,137,714,205,Merck,5/18/2023
+P01253,Vaccine_Drug_245_478mg,Vaccine,Injection,16.13,61.84,358,730,537,Novo Nordisk,1/25/2023
+P01254,Antiviral_Drug_300_18mg,Antiviral,Tablet,3.57,16.86,321,511,481,Novartis,8/28/2023
+P01255,Vaccine_Drug_278_353mg,Vaccine,Capsule,1.15,3.16,352,1040,528,Bayer,1/24/2022
+P01256,Hormone_Drug_525_347mg,Hormone,Syrup,5.48,19.41,221,2392,331,Sanofi,8/11/2023
+P01257,Analgesic_Drug_573_488mg,Analgesic,Syrup,46.99,120.18,473,1256,709,Purdue,11/5/2023
+P01258,Analgesic_Drug_277_161mg,Analgesic,Suppository,16.49,53.98,440,1972,660,Merck,4/9/2023
+P01259,Respiratory_Drug_733_123mg,Respiratory,Ointment,1.02,3.86,236,2297,354,Merck,2/12/2023
+P01260,Vitamin_Drug_341_51mg,Vitamin,Tablet,35.92,145.98,227,1150,340,Roche,8/24/2022
+P01261,Vitamin_Drug_277_338mg,Vitamin,Tablet,18.47,45.96,148,1415,222,AbbVie,7/28/2023
+P01262,Antiviral_Drug_549_134mg,Antiviral,Cream,2.1,7,75,2013,112,Purdue,6/17/2023
+P01263,Hormone_Drug_488_25mg,Hormone,Cream,28.3,123.45,192,2454,288,Bayer,7/8/2023
+P01264,Hormone_Drug_317_398mg,Hormone,Syrup,24.07,111.55,373,2088,559,AstraZeneca,12/10/2023
+P01265,Antidepressant_Drug_88_235mg,Antidepressant,Ointment,40.35,125.93,281,1475,421,AbbVie,8/9/2022
+P01266,Ophthalmic_Drug_143_349mg,Ophthalmic,Suppository,4.23,10.58,412,2929,618,Sanofi,4/9/2023
+P01267,Hormone_Drug_575_196mg,Hormone,Capsule,41.58,104.43,76,1994,114,Bayer,6/30/2022
+P01268,Gastrointestinal_Drug_820_363mg,Gastrointestinal,Suppository,4.88,16.9,92,1146,138,Roche,9/12/2022
+P01269,Gastrointestinal_Drug_336_41mg,Gastrointestinal,Syrup,14.16,64.9,437,1778,655,Roche,12/11/2023
+P01270,Dermatological_Drug_850_108mg,Dermatological,Cream,11.57,28.65,442,2759,663,Novo Nordisk,11/25/2022
+P01271,Analgesic_Drug_479_49mg,Analgesic,Suppository,7.76,33.58,450,2610,675,Bayer,1/15/2022
+P01272,Hormone_Drug_723_412mg,Hormone,Injection,20.74,97.93,308,1113,462,Novartis,11/27/2022
+P01273,Antipsychotic_Drug_521_401mg,Antipsychotic,Tablet,1.07,3.74,423,886,634,Sanofi,1/30/2022
+P01274,Respiratory_Drug_492_217mg,Respiratory,Suppository,4.9,16.97,369,898,553,Sanofi,10/22/2023
+P01275,Gastrointestinal_Drug_599_309mg,Gastrointestinal,Inhaler,6.2,16.73,486,2293,729,AstraZeneca,5/1/2023
+P01276,Ophthalmic_Drug_27_29mg,Ophthalmic,Capsule,42.38,158.8,320,884,480,Novo Nordisk,10/20/2023
+P01277,Analgesic_Drug_546_96mg,Analgesic,Syrup,14.89,60.46,138,2445,207,Sanofi,10/5/2022
+P01278,Vitamin_Drug_678_128mg,Vitamin,Tablet,40.64,178.86,286,1302,429,Sanofi,4/20/2023
+P01279,Hormone_Drug_111_90mg,Hormone,Injection,21.83,61.7,300,1803,450,Bristol-Myers Squibb,4/2/2023
+P01280,Gastrointestinal_Drug_98_120mg,Gastrointestinal,Tablet,5.47,22.73,342,2339,513,AbbVie,5/29/2022
+P01281,Dermatological_Drug_883_186mg,Dermatological,Syrup,29.61,92.22,157,1567,235,Bristol-Myers Squibb,5/12/2022
+P01282,Analgesic_Drug_474_144mg,Analgesic,Inhaler,24.77,121.9,315,1632,472,Novo Nordisk,7/6/2022
+P01283,Antipsychotic_Drug_243_264mg,Antipsychotic,Syrup,9.7,26.74,59,2064,88,Novo Nordisk,6/24/2023
+P01284,Respiratory_Drug_175_4mg,Respiratory,Capsule,2.68,6.73,360,821,540,Sanofi,6/15/2023
+P01285,Ophthalmic_Drug_668_147mg,Ophthalmic,Tablet,49.95,247.83,136,2567,204,Pfizer,11/2/2022
+P01286,Ophthalmic_Drug_260_22mg,Ophthalmic,Injection,30.7,109.64,424,600,636,Sanofi,10/23/2022
+P01287,Cardiovascular_Drug_130_156mg,Cardiovascular,Syrup,21.37,72.2,123,1479,184,Bayer,8/21/2023
+P01288,Antidepressant_Drug_481_214mg,Antidepressant,Tablet,37.46,131.47,157,1472,235,Novartis,2/28/2023
+P01289,Antipsychotic_Drug_364_60mg,Antipsychotic,Capsule,21.9,102.22,299,1059,448,AstraZeneca,6/29/2023
+P01290,Ophthalmic_Drug_988_165mg,Ophthalmic,Cream,16.35,69.67,417,1815,625,AbbVie,10/13/2022
+P01291,Ophthalmic_Drug_524_307mg,Ophthalmic,Syrup,11.52,35.34,170,1444,255,AbbVie,1/13/2022
+P01292,Dermatological_Drug_586_256mg,Dermatological,Suppository,19.91,98.48,497,2311,745,AbbVie,5/10/2022
+P01293,Gastrointestinal_Drug_520_13mg,Gastrointestinal,Injection,8.86,25.22,262,1487,393,GSK,7/27/2023
+P01294,Diabetes_Drug_832_308mg,Diabetes,Syrup,24.56,117.76,469,2486,703,Novo Nordisk,5/29/2023
+P01295,Ophthalmic_Drug_960_465mg,Ophthalmic,Cream,47.93,218.75,383,2831,574,Purdue,9/6/2023
+P01296,Oncology_Drug_409_470mg,Oncology,Inhaler,1.96,7.87,353,2458,529,AbbVie,6/8/2022
+P01297,Gastrointestinal_Drug_922_235mg,Gastrointestinal,Syrup,39.81,94.81,199,904,298,Bayer,2/16/2022
+P01298,Antipsychotic_Drug_487_59mg,Antipsychotic,Inhaler,47.44,112.86,103,1203,154,Sanofi,9/18/2022
+P01299,Gastrointestinal_Drug_232_270mg,Gastrointestinal,Ointment,43.04,125.96,477,1745,715,Bristol-Myers Squibb,6/25/2023
+P01300,Diabetes_Drug_392_279mg,Diabetes,Inhaler,10.06,23.55,166,918,249,Sanofi,9/18/2022
+P01301,Cardiovascular_Drug_870_250mg,Cardiovascular,Suppository,22.43,72.01,273,1779,409,GSK,4/13/2023
+P01302,Hormone_Drug_513_58mg,Hormone,Capsule,13.65,46.99,142,2463,213,GSK,1/9/2023
+P01303,Vaccine_Drug_88_20mg,Vaccine,Suppository,26.57,65.52,63,2680,94,Bristol-Myers Squibb,7/18/2022
+P01304,Antiviral_Drug_590_78mg,Antiviral,Injection,15.42,34.84,221,788,331,Purdue,1/7/2022
+P01305,Diabetes_Drug_989_24mg,Diabetes,Inhaler,7.23,16.03,263,2617,394,Merck,11/26/2022
+P01306,Dermatological_Drug_45_317mg,Dermatological,Suppository,13.84,41.92,247,1739,370,AbbVie,11/27/2023
+P01307,Dermatological_Drug_318_274mg,Dermatological,Ointment,3.05,10.7,432,2912,648,Roche,9/8/2023
+P01308,Vaccine_Drug_817_169mg,Vaccine,Cream,42.83,116.75,165,2176,247,Bayer,12/7/2023
+P01309,Analgesic_Drug_517_19mg,Analgesic,Capsule,22.51,48.05,219,753,328,Roche,11/20/2023
+P01310,Antidepressant_Drug_183_145mg,Antidepressant,Cream,24.61,58.4,314,2635,471,Johnson & Johnson,6/15/2023
+P01311,Hormone_Drug_942_233mg,Hormone,Syrup,12.7,57.24,143,1466,214,Merck,5/23/2023
+P01312,Vaccine_Drug_526_85mg,Vaccine,Injection,28.71,113.33,368,1339,552,Johnson & Johnson,5/26/2023
+P01313,Vitamin_Drug_687_114mg,Vitamin,Syrup,46.31,108.25,438,2010,657,Novartis,8/27/2022
+P01314,Respiratory_Drug_607_479mg,Respiratory,Inhaler,29.67,98.76,190,833,285,Pfizer,4/7/2022
+P01315,Vaccine_Drug_16_44mg,Vaccine,Inhaler,36.52,149.53,491,875,736,Purdue,11/16/2022
+P01316,Analgesic_Drug_418_475mg,Analgesic,Ointment,25.2,51.13,144,1067,216,Bayer,12/4/2023
+P01317,Gastrointestinal_Drug_846_161mg,Gastrointestinal,Suppository,47.22,146.16,136,2568,204,Bristol-Myers Squibb,9/30/2023
+P01318,Dermatological_Drug_596_434mg,Dermatological,Syrup,31.71,124.11,420,2083,630,AstraZeneca,5/20/2022
+P01319,Gastrointestinal_Drug_282_50mg,Gastrointestinal,Ointment,39.07,180.4,307,2346,460,Sanofi,10/2/2023
+P01320,Oncology_Drug_95_337mg,Oncology,Ointment,41.63,138.68,266,2096,399,Novo Nordisk,8/24/2023
+P01321,Hormone_Drug_293_25mg,Hormone,Injection,8.72,32.99,321,2028,481,Johnson & Johnson,10/16/2023
+P01322,Antidepressant_Drug_791_126mg,Antidepressant,Tablet,21.62,90.4,365,2431,547,Merck,7/29/2023
+P01323,Antidepressant_Drug_306_254mg,Antidepressant,Suppository,4.08,16.56,229,539,343,Pfizer,6/30/2023
+P01324,Ophthalmic_Drug_228_188mg,Ophthalmic,Inhaler,16.4,72.66,362,982,543,Bristol-Myers Squibb,3/15/2023
+P01325,Diabetes_Drug_133_351mg,Diabetes,Ointment,14.62,46.72,62,2631,93,Johnson & Johnson,10/7/2022
+P01326,Antibiotic_Drug_166_293mg,Antibiotic,Inhaler,28.54,75.42,117,1693,175,Sanofi,5/17/2023
+P01327,Ophthalmic_Drug_735_379mg,Ophthalmic,Inhaler,1.57,5.76,250,2142,375,Bristol-Myers Squibb,4/23/2022
+P01328,Antipsychotic_Drug_759_496mg,Antipsychotic,Tablet,4.27,10.03,215,2697,322,Bristol-Myers Squibb,11/17/2022
+P01329,Antidepressant_Drug_861_20mg,Antidepressant,Ointment,35,137.77,338,2012,507,Bristol-Myers Squibb,10/9/2023
+P01330,Oncology_Drug_173_363mg,Oncology,Syrup,38.91,131,250,716,375,AbbVie,8/13/2023
+P01331,Diabetes_Drug_608_306mg,Diabetes,Syrup,23.47,92.17,422,1796,633,Bristol-Myers Squibb,5/12/2022
+P01332,Antiviral_Drug_784_319mg,Antiviral,Syrup,9.1,44.89,381,2472,571,Bristol-Myers Squibb,6/29/2022
+P01333,Respiratory_Drug_933_498mg,Respiratory,Suppository,36.52,120.81,128,959,192,GSK,8/5/2023
+P01334,Cardiovascular_Drug_497_20mg,Cardiovascular,Suppository,29.4,84.08,364,1592,546,Pfizer,7/23/2023
+P01335,Diabetes_Drug_385_269mg,Diabetes,Tablet,6.08,26.99,460,1977,690,Novo Nordisk,2/11/2023
+P01336,Respiratory_Drug_403_51mg,Respiratory,Injection,5.96,27.52,136,1095,204,GSK,7/15/2022
+P01337,Oncology_Drug_62_263mg,Oncology,Ointment,18.06,74.6,161,1210,241,Merck,6/15/2023
+P01338,Gastrointestinal_Drug_532_106mg,Gastrointestinal,Cream,6.27,28.46,286,2341,429,Bristol-Myers Squibb,1/31/2023
+P01339,Respiratory_Drug_736_414mg,Respiratory,Tablet,21.82,70.94,313,1289,469,Bayer,1/26/2022
+P01340,Antipsychotic_Drug_476_356mg,Antipsychotic,Ointment,46.45,135.78,75,533,112,Novartis,7/20/2023
+P01341,Vaccine_Drug_631_143mg,Vaccine,Suppository,47.14,194.85,130,2437,195,Johnson & Johnson,9/3/2023
+P01342,Antiviral_Drug_53_472mg,Antiviral,Inhaler,9.72,43.49,241,2563,361,Merck,5/21/2022
+P01343,Ophthalmic_Drug_777_447mg,Ophthalmic,Inhaler,37.83,123.65,339,708,508,Merck,1/6/2023
+P01344,Oncology_Drug_290_432mg,Oncology,Inhaler,3.21,15.41,317,2698,475,Bristol-Myers Squibb,12/24/2022
+P01345,Vitamin_Drug_227_193mg,Vitamin,Capsule,36.95,143.18,352,1325,528,Merck,1/5/2022
+P01346,Ophthalmic_Drug_755_21mg,Ophthalmic,Suppository,2.7,6.23,201,1139,301,Sanofi,10/26/2023
+P01347,Oncology_Drug_469_473mg,Oncology,Inhaler,45.63,202.73,165,2223,247,Merck,3/28/2023
+P01348,Antibiotic_Drug_582_412mg,Antibiotic,Suppository,7.11,18.24,400,2646,600,GSK,10/26/2023
+P01349,Cardiovascular_Drug_577_326mg,Cardiovascular,Cream,36.15,174.6,118,2156,177,Bristol-Myers Squibb,9/25/2022
+P01350,Antiviral_Drug_963_112mg,Antiviral,Inhaler,28.56,91.57,370,2339,555,Novartis,10/10/2023
+P01351,Antiviral_Drug_303_258mg,Antiviral,Syrup,21.98,102,302,2257,453,Pfizer,6/15/2022
+P01352,Vitamin_Drug_138_368mg,Vitamin,Injection,35.78,173.6,492,1357,738,Pfizer,3/9/2022
+P01353,Antipsychotic_Drug_919_430mg,Antipsychotic,Syrup,29.75,130.54,357,1697,535,Johnson & Johnson,8/30/2022
+P01354,Vitamin_Drug_402_360mg,Vitamin,Injection,10.72,52.37,109,2749,163,GSK,6/17/2023
+P01355,Oncology_Drug_899_488mg,Oncology,Ointment,20.95,67.62,144,1969,216,GSK,8/24/2022
+P01356,Antibiotic_Drug_788_353mg,Antibiotic,Capsule,16.21,64.33,117,1696,175,Roche,8/5/2022
+P01357,Cardiovascular_Drug_805_162mg,Cardiovascular,Syrup,46.73,140.22,250,2949,375,Pfizer,12/1/2023
+P01358,Diabetes_Drug_42_465mg,Diabetes,Cream,14.28,40.8,428,1851,642,Johnson & Johnson,1/24/2022
+P01359,Ophthalmic_Drug_491_273mg,Ophthalmic,Ointment,10.79,29.09,278,1543,417,Novo Nordisk,3/8/2023
+P01360,Oncology_Drug_944_3mg,Oncology,Cream,20.99,49.16,242,2108,363,Pfizer,2/3/2022
+P01361,Gastrointestinal_Drug_120_115mg,Gastrointestinal,Ointment,16.23,80.38,62,2104,93,Purdue,11/23/2023
+P01362,Respiratory_Drug_377_126mg,Respiratory,Syrup,37.2,181.53,183,747,274,Novo Nordisk,11/17/2023
+P01363,Cardiovascular_Drug_351_143mg,Cardiovascular,Capsule,46.71,104.08,341,1217,511,GSK,8/2/2023
+P01364,Vaccine_Drug_787_227mg,Vaccine,Ointment,28.19,123.71,487,1848,730,Novo Nordisk,10/15/2022
+P01365,Dermatological_Drug_998_24mg,Dermatological,Suppository,39.7,154.97,340,2715,510,Sanofi,12/21/2022
+P01366,Analgesic_Drug_717_312mg,Analgesic,Tablet,46.44,148.97,469,1502,703,Merck,9/13/2022
+P01367,Ophthalmic_Drug_809_409mg,Ophthalmic,Injection,46.47,156.25,411,583,616,Sanofi,4/17/2023
+P01368,Dermatological_Drug_134_276mg,Dermatological,Suppository,25.31,103.01,444,1363,666,GSK,1/13/2022
+P01369,Antidepressant_Drug_559_214mg,Antidepressant,Injection,12.61,42.17,461,2952,691,Bristol-Myers Squibb,4/20/2022
+P01370,Antipsychotic_Drug_526_473mg,Antipsychotic,Cream,32.04,87.97,396,2351,594,AbbVie,3/7/2023
+P01371,Vaccine_Drug_90_212mg,Vaccine,Injection,7.36,24.74,87,859,130,Novartis,9/16/2022
+P01372,Respiratory_Drug_120_464mg,Respiratory,Inhaler,39.53,146.25,450,1651,675,Roche,11/16/2022
+P01373,Respiratory_Drug_50_410mg,Respiratory,Ointment,38.16,102.07,121,2616,181,Roche,7/22/2023
+P01374,Gastrointestinal_Drug_996_48mg,Gastrointestinal,Syrup,2.16,4.84,297,2820,445,Bristol-Myers Squibb,4/29/2023
+P01375,Antidepressant_Drug_752_318mg,Antidepressant,Cream,36.88,141.36,170,2780,255,AbbVie,7/22/2023
+P01376,Respiratory_Drug_740_114mg,Respiratory,Inhaler,27.89,100.82,286,2944,429,Roche,4/9/2023
+P01377,Hormone_Drug_441_69mg,Hormone,Ointment,27.52,62.35,375,2265,562,Pfizer,7/2/2023
+P01378,Cardiovascular_Drug_149_27mg,Cardiovascular,Inhaler,37.65,91,121,2795,181,Sanofi,11/18/2022
+P01379,Ophthalmic_Drug_529_263mg,Ophthalmic,Ointment,13.98,42.63,156,1079,234,Novartis,5/28/2023
+P01380,Gastrointestinal_Drug_180_408mg,Gastrointestinal,Capsule,40.45,125.79,230,734,345,Novartis,6/23/2023
+P01381,Analgesic_Drug_91_342mg,Analgesic,Capsule,22.01,56.06,321,1528,481,Pfizer,8/5/2023
+P01382,Diabetes_Drug_306_142mg,Diabetes,Inhaler,35.09,150.79,471,706,706,Novartis,10/12/2022
+P01383,Gastrointestinal_Drug_901_221mg,Gastrointestinal,Cream,48.82,143.13,401,1967,601,Novartis,10/6/2023
+P01384,Oncology_Drug_443_89mg,Oncology,Cream,19.76,54.41,186,1003,279,Novartis,9/4/2023
+P01385,Cardiovascular_Drug_181_246mg,Cardiovascular,Tablet,28.48,76.48,193,867,289,Johnson & Johnson,9/14/2022
+P01386,Respiratory_Drug_565_442mg,Respiratory,Syrup,8.97,40.93,378,1198,567,Pfizer,12/24/2023
+P01387,Gastrointestinal_Drug_853_152mg,Gastrointestinal,Ointment,25.75,92.55,73,1583,109,Roche,4/16/2022
+P01388,Ophthalmic_Drug_551_168mg,Ophthalmic,Suppository,4.91,21.28,91,2402,136,Sanofi,2/12/2022
+P01389,Diabetes_Drug_987_210mg,Diabetes,Ointment,2.44,6.18,286,2391,429,Bayer,5/18/2023
+P01390,Antiviral_Drug_711_474mg,Antiviral,Tablet,14.03,47.51,120,1859,180,Johnson & Johnson,8/1/2022
+P01391,Antipsychotic_Drug_613_351mg,Antipsychotic,Ointment,36.62,114.77,136,1196,204,Bayer,9/30/2023
+P01392,Dermatological_Drug_881_4mg,Dermatological,Ointment,20.39,51.81,137,675,205,Novo Nordisk,12/4/2023
+P01393,Cardiovascular_Drug_138_433mg,Cardiovascular,Inhaler,15.56,33.65,399,1649,598,Johnson & Johnson,8/18/2022
+P01394,Ophthalmic_Drug_310_441mg,Ophthalmic,Tablet,23.92,52.93,69,2170,103,Novo Nordisk,1/16/2022
+P01395,Vaccine_Drug_646_301mg,Vaccine,Ointment,31.19,97.49,376,2490,564,Bristol-Myers Squibb,2/18/2023
+P01396,Gastrointestinal_Drug_316_59mg,Gastrointestinal,Cream,3.92,11.05,262,2349,393,AbbVie,3/3/2023
+P01397,Gastrointestinal_Drug_971_54mg,Gastrointestinal,Tablet,15.52,64.82,258,2915,387,AbbVie,1/9/2023
+P01398,Antidepressant_Drug_112_366mg,Antidepressant,Suppository,12.64,39.69,55,1202,82,Purdue,1/13/2022
+P01399,Hormone_Drug_617_160mg,Hormone,Syrup,8.39,36.73,203,2728,304,AstraZeneca,6/17/2022
+P01400,Antidepressant_Drug_16_91mg,Antidepressant,Ointment,4.55,18.29,169,2479,253,Roche,8/16/2023
+P01401,Cardiovascular_Drug_498_234mg,Cardiovascular,Inhaler,37.05,128.23,454,1047,681,Purdue,6/5/2023
+P01402,Vaccine_Drug_301_4mg,Vaccine,Injection,41.93,123.72,374,1008,561,Roche,8/7/2023
+P01403,Vaccine_Drug_503_444mg,Vaccine,Tablet,32.63,104.06,279,2243,418,Pfizer,9/22/2022
+P01404,Antibiotic_Drug_378_175mg,Antibiotic,Cream,31.1,137.24,201,975,301,Novo Nordisk,3/14/2023
+P01405,Antiviral_Drug_465_238mg,Antiviral,Inhaler,5.89,18.2,248,2023,372,Purdue,8/27/2022
+P01406,Antipsychotic_Drug_6_220mg,Antipsychotic,Cream,11.28,25.07,303,1306,454,Merck,2/9/2023
+P01407,Oncology_Drug_763_82mg,Oncology,Cream,27.73,134.5,103,511,154,Johnson & Johnson,3/19/2022
+P01408,Antibiotic_Drug_614_451mg,Antibiotic,Tablet,27.68,99.56,406,1311,609,GSK,12/22/2023
+P01409,Cardiovascular_Drug_971_84mg,Cardiovascular,Cream,14.53,38.54,59,1827,88,Purdue,5/5/2023
+P01410,Vitamin_Drug_559_359mg,Vitamin,Syrup,14.95,46.2,497,2638,745,Bristol-Myers Squibb,7/23/2022
+P01411,Ophthalmic_Drug_2_357mg,Ophthalmic,Syrup,36.74,179.73,362,2092,543,Purdue,5/8/2023
+P01412,Vitamin_Drug_75_432mg,Vitamin,Injection,30.6,122.77,338,870,507,Bayer,10/31/2022
+P01413,Diabetes_Drug_979_164mg,Diabetes,Cream,8.81,18.79,424,2207,636,Roche,8/3/2022
+P01414,Antiviral_Drug_474_106mg,Antiviral,Ointment,6.67,32.27,381,1030,571,GSK,1/17/2023
+P01415,Antibiotic_Drug_93_353mg,Antibiotic,Cream,25.73,105.27,475,1991,712,Roche,11/10/2022
+P01416,Hormone_Drug_520_497mg,Hormone,Syrup,19.58,59.15,208,2385,312,Pfizer,2/14/2023
+P01417,Respiratory_Drug_680_193mg,Respiratory,Syrup,43.72,107.89,236,2661,354,Pfizer,11/15/2023
+P01418,Antidepressant_Drug_362_146mg,Antidepressant,Ointment,3.49,9.3,480,1809,720,Roche,4/9/2023
+P01419,Antidepressant_Drug_809_171mg,Antidepressant,Injection,21.64,47.73,262,2053,393,Novartis,3/9/2022
+P01420,Antidepressant_Drug_552_109mg,Antidepressant,Suppository,12.01,50.21,123,1179,184,Merck,8/25/2022
+P01421,Antiviral_Drug_286_378mg,Antiviral,Ointment,12.85,41.06,198,1405,297,Bayer,7/15/2022
+P01422,Antiviral_Drug_893_118mg,Antiviral,Suppository,40.88,142.28,339,1346,508,Sanofi,11/10/2023
+P01423,Respiratory_Drug_369_45mg,Respiratory,Suppository,45.27,104.71,393,2280,589,Pfizer,12/23/2022
+P01424,Vaccine_Drug_422_282mg,Vaccine,Ointment,10.33,34.36,170,1291,255,Novo Nordisk,11/19/2023
+P01425,Gastrointestinal_Drug_997_387mg,Gastrointestinal,Cream,40.35,132.4,465,2710,697,Pfizer,1/14/2023
+P01426,Analgesic_Drug_787_64mg,Analgesic,Cream,6.18,24.69,150,1845,225,Johnson & Johnson,4/3/2023
+P01427,Diabetes_Drug_259_422mg,Diabetes,Cream,22.45,46.36,254,1949,381,AstraZeneca,12/10/2022
+P01428,Cardiovascular_Drug_202_450mg,Cardiovascular,Suppository,19.44,78.09,221,2442,331,AstraZeneca,2/4/2022
+P01429,Cardiovascular_Drug_775_221mg,Cardiovascular,Cream,13.22,35.36,102,2623,153,Roche,10/7/2022
+P01430,Respiratory_Drug_746_437mg,Respiratory,Inhaler,32.44,144.42,301,2842,451,Roche,3/14/2022
+P01431,Respiratory_Drug_507_387mg,Respiratory,Syrup,6.78,14.7,282,2505,423,AbbVie,4/1/2022
+P01432,Cardiovascular_Drug_470_93mg,Cardiovascular,Syrup,35.21,111.4,388,953,582,Sanofi,4/15/2023
+P01433,Antipsychotic_Drug_376_130mg,Antipsychotic,Syrup,29.77,102.1,224,2961,336,Johnson & Johnson,2/1/2023
+P01434,Cardiovascular_Drug_505_398mg,Cardiovascular,Syrup,28.14,94.32,325,1391,487,GSK,8/12/2022
+P01435,Vaccine_Drug_899_385mg,Vaccine,Inhaler,48.39,160.46,139,2443,208,Bristol-Myers Squibb,3/7/2023
+P01436,Antibiotic_Drug_725_410mg,Antibiotic,Ointment,27.07,119.84,52,2342,78,Pfizer,1/26/2023
+P01437,Antipsychotic_Drug_52_376mg,Antipsychotic,Syrup,9.46,18.99,444,641,666,Pfizer,8/26/2022
+P01438,Respiratory_Drug_573_494mg,Respiratory,Suppository,43.12,119.58,67,2121,100,AstraZeneca,11/29/2023
+P01439,Vitamin_Drug_869_6mg,Vitamin,Capsule,14.32,35.93,390,806,585,Novartis,10/27/2022
+P01440,Vaccine_Drug_285_330mg,Vaccine,Cream,37.06,89.49,99,2531,148,Sanofi,8/23/2023
+P01441,Oncology_Drug_538_262mg,Oncology,Tablet,23.42,65.69,193,1583,289,AbbVie,3/24/2023
+P01442,Vaccine_Drug_902_275mg,Vaccine,Cream,34.63,71.17,67,2115,100,Novo Nordisk,5/6/2022
+P01443,Hormone_Drug_550_324mg,Hormone,Suppository,26.37,118.55,253,1695,379,Sanofi,7/1/2022
+P01444,Vaccine_Drug_383_205mg,Vaccine,Inhaler,17.91,41.54,410,831,615,Novo Nordisk,9/26/2023
+P01445,Ophthalmic_Drug_196_358mg,Ophthalmic,Injection,4.9,10.83,253,957,379,Bayer,7/20/2022
+P01446,Dermatological_Drug_393_140mg,Dermatological,Inhaler,44.34,117.22,168,2946,252,Johnson & Johnson,4/25/2023
+P01447,Antidepressant_Drug_916_423mg,Antidepressant,Cream,41.31,116.25,404,2021,606,Roche,9/24/2023
+P01448,Diabetes_Drug_415_210mg,Diabetes,Inhaler,49.76,159.1,345,1921,517,Novartis,7/28/2022
+P01449,Antipsychotic_Drug_393_314mg,Antipsychotic,Syrup,27.58,118.74,453,2412,679,Purdue,1/8/2023
+P01450,Dermatological_Drug_800_257mg,Dermatological,Suppository,26.35,53.88,322,1863,483,Bristol-Myers Squibb,9/22/2022
+P01451,Vaccine_Drug_166_316mg,Vaccine,Syrup,32.62,105.83,50,1519,75,Purdue,11/17/2022
+P01452,Vaccine_Drug_222_152mg,Vaccine,Tablet,34.11,125.51,181,1125,271,Sanofi,10/9/2023
+P01453,Respiratory_Drug_708_498mg,Respiratory,Cream,6.54,29.33,92,1580,138,AstraZeneca,6/23/2023
+P01454,Respiratory_Drug_215_71mg,Respiratory,Cream,18.86,57.69,253,589,379,Bristol-Myers Squibb,9/3/2022
+P01455,Hormone_Drug_669_116mg,Hormone,Injection,27.29,117.71,484,1965,726,GSK,2/25/2022
+P01456,Hormone_Drug_284_193mg,Hormone,Inhaler,6.82,13.95,54,1801,81,Pfizer,2/4/2023
+P01457,Antiviral_Drug_86_320mg,Antiviral,Tablet,43.09,214.36,81,835,121,Purdue,9/10/2023
+P01458,Antipsychotic_Drug_76_316mg,Antipsychotic,Inhaler,19.02,71.77,370,2396,555,GSK,3/12/2022
+P01459,Gastrointestinal_Drug_666_245mg,Gastrointestinal,Ointment,42.09,204.08,189,1594,283,Roche,5/10/2022
+P01460,Oncology_Drug_877_119mg,Oncology,Inhaler,26.56,127.48,406,2028,609,Purdue,4/19/2023
+P01461,Vaccine_Drug_489_37mg,Vaccine,Inhaler,2.69,7.71,191,2043,286,Novartis,6/14/2023
+P01462,Gastrointestinal_Drug_934_288mg,Gastrointestinal,Injection,5.36,11.66,243,2543,364,Sanofi,4/4/2023
+P01463,Cardiovascular_Drug_194_158mg,Cardiovascular,Suppository,28.57,139.8,153,2581,229,AstraZeneca,11/22/2023
+P01464,Vitamin_Drug_31_372mg,Vitamin,Capsule,28.07,74.28,472,562,708,AbbVie,11/30/2022
+P01465,Oncology_Drug_411_284mg,Oncology,Capsule,36.17,146.11,129,1600,193,AbbVie,12/27/2022
+P01466,Vitamin_Drug_164_9mg,Vitamin,Cream,28.36,134.77,224,2111,336,Merck,7/23/2023
+P01467,Antidepressant_Drug_656_318mg,Antidepressant,Syrup,1.9,4.53,133,1579,199,AstraZeneca,11/1/2023
+P01468,Gastrointestinal_Drug_994_78mg,Gastrointestinal,Capsule,11.39,23.79,71,607,106,GSK,10/31/2022
+P01469,Vitamin_Drug_113_168mg,Vitamin,Cream,27.06,61.58,402,940,603,AbbVie,12/20/2022
+P01470,Hormone_Drug_553_48mg,Hormone,Tablet,28.82,142.51,464,2143,696,GSK,5/31/2022
+P01471,Ophthalmic_Drug_471_463mg,Ophthalmic,Inhaler,34.18,158.03,267,972,400,Bristol-Myers Squibb,8/13/2023
+P01472,Cardiovascular_Drug_861_288mg,Cardiovascular,Syrup,33.41,95.82,489,1803,733,AstraZeneca,2/22/2022
+P01473,Analgesic_Drug_34_284mg,Analgesic,Ointment,28.89,138.22,355,885,532,Novo Nordisk,2/16/2022
+P01474,Respiratory_Drug_874_92mg,Respiratory,Syrup,16.61,69.26,425,1223,637,Johnson & Johnson,10/24/2022
+P01475,Analgesic_Drug_493_338mg,Analgesic,Injection,27.95,97.14,482,2365,723,AbbVie,9/21/2023
+P01476,Vitamin_Drug_962_317mg,Vitamin,Capsule,28.82,129.54,479,2622,718,Johnson & Johnson,9/9/2023
+P01477,Antipsychotic_Drug_916_354mg,Antipsychotic,Inhaler,41.68,202.22,84,661,126,Johnson & Johnson,6/15/2023
+P01478,Analgesic_Drug_852_423mg,Analgesic,Suppository,45.58,210.18,397,1193,595,Novo Nordisk,2/20/2023
+P01479,Hormone_Drug_559_256mg,Hormone,Ointment,4.9,18.38,497,1185,745,Pfizer,2/11/2022
+P01480,Hormone_Drug_966_380mg,Hormone,Cream,8.22,33.9,322,2500,483,Bayer,4/30/2023
+P01481,Vitamin_Drug_295_183mg,Vitamin,Suppository,37.81,181.49,401,1537,601,Bayer,9/6/2023
+P01482,Cardiovascular_Drug_556_68mg,Cardiovascular,Injection,44.42,185.99,97,2092,145,AstraZeneca,10/29/2022
+P01483,Dermatological_Drug_267_287mg,Dermatological,Capsule,28.45,93.54,444,2793,666,Sanofi,2/14/2023
+P01484,Dermatological_Drug_743_8mg,Dermatological,Suppository,1.59,3.34,493,2875,739,Bayer,8/22/2023
+P01485,Ophthalmic_Drug_406_480mg,Ophthalmic,Injection,31.2,150.02,290,1331,435,Sanofi,8/8/2022
+P01486,Diabetes_Drug_581_97mg,Diabetes,Injection,26.44,131.66,261,2555,391,Pfizer,8/2/2023
+P01487,Vaccine_Drug_863_328mg,Vaccine,Capsule,12.37,24.77,92,801,138,AbbVie,11/3/2022
+P01488,Analgesic_Drug_848_77mg,Analgesic,Tablet,21.08,75.36,228,2346,342,GSK,1/13/2023
+P01489,Vitamin_Drug_752_310mg,Vitamin,Ointment,36.66,86.68,467,2380,700,GSK,3/13/2022
+P01490,Dermatological_Drug_173_141mg,Dermatological,Inhaler,37.4,175.76,321,2816,481,Johnson & Johnson,5/27/2022
+P01491,Vitamin_Drug_890_310mg,Vitamin,Cream,17.51,41.8,55,2561,82,Johnson & Johnson,11/5/2023
+P01492,Dermatological_Drug_643_431mg,Dermatological,Inhaler,29.83,109.5,274,757,411,AstraZeneca,9/28/2022
+P01493,Hormone_Drug_694_206mg,Hormone,Ointment,4.09,9.5,439,773,658,AstraZeneca,2/8/2022
+P01494,Analgesic_Drug_124_364mg,Analgesic,Suppository,19.76,74.44,332,2727,498,Pfizer,5/12/2023
+P01495,Cardiovascular_Drug_849_210mg,Cardiovascular,Syrup,49.09,147.92,165,1851,247,Merck,5/28/2022
+P01496,Antidepressant_Drug_948_23mg,Antidepressant,Inhaler,16.66,41.7,154,2198,231,Pfizer,10/21/2023
+P01497,Vaccine_Drug_15_379mg,Vaccine,Inhaler,13.38,53.61,170,577,255,Merck,3/19/2023
+P01498,Antipsychotic_Drug_476_27mg,Antipsychotic,Suppository,34.47,135.49,51,2388,76,Novartis,1/18/2023
+P01499,Hormone_Drug_382_184mg,Hormone,Cream,1.76,6.93,243,1985,364,Johnson & Johnson,12/23/2023
+P01500,Oncology_Drug_375_356mg,Oncology,Tablet,24.84,96.27,90,2007,135,AstraZeneca,3/25/2022
+P01501,Vaccine_Drug_671_344mg,Vaccine,Suppository,15.11,71.7,56,1485,84,Roche,6/21/2022
+P01502,Vitamin_Drug_788_78mg,Vitamin,Cream,44.52,203.2,465,1455,697,Purdue,12/9/2023
+P01503,Antipsychotic_Drug_295_271mg,Antipsychotic,Capsule,25.24,87.58,102,1305,153,AbbVie,4/14/2023
+P01504,Ophthalmic_Drug_912_35mg,Ophthalmic,Ointment,41.86,153.23,450,2748,675,Johnson & Johnson,4/11/2023
+P01505,Ophthalmic_Drug_560_278mg,Ophthalmic,Injection,34.05,109.43,428,2418,642,GSK,7/30/2023
+P01506,Oncology_Drug_25_450mg,Oncology,Ointment,26.14,71.29,305,2492,457,Novo Nordisk,3/13/2023
+P01507,Hormone_Drug_967_378mg,Hormone,Capsule,22.54,75.26,124,2651,186,Johnson & Johnson,4/3/2023
+P01508,Ophthalmic_Drug_135_374mg,Ophthalmic,Tablet,25.24,114.78,281,2586,421,Purdue,4/5/2022
+P01509,Gastrointestinal_Drug_525_146mg,Gastrointestinal,Tablet,26.48,106.98,454,867,681,Purdue,7/9/2023
+P01510,Analgesic_Drug_501_85mg,Analgesic,Cream,9.43,27.5,204,2334,306,Sanofi,4/22/2022
+P01511,Antipsychotic_Drug_169_72mg,Antipsychotic,Syrup,9.19,19.16,188,2371,282,Roche,3/12/2023
+P01512,Antiviral_Drug_422_303mg,Antiviral,Tablet,44.65,220.1,121,2357,181,Bristol-Myers Squibb,5/5/2022
+P01513,Antipsychotic_Drug_161_29mg,Antipsychotic,Syrup,34.27,143.09,163,2114,244,AstraZeneca,11/16/2023
+P01514,Oncology_Drug_885_285mg,Oncology,Ointment,33.93,129.67,51,2780,76,Pfizer,4/18/2022
+P01515,Analgesic_Drug_725_293mg,Analgesic,Syrup,24.21,106.49,121,2722,181,Bristol-Myers Squibb,3/4/2023
+P01516,Diabetes_Drug_658_120mg,Diabetes,Cream,14.45,52.57,114,1804,171,Bristol-Myers Squibb,4/17/2022
+P01517,Analgesic_Drug_262_409mg,Analgesic,Injection,8.84,38.56,208,2812,312,Bristol-Myers Squibb,10/24/2022
+P01518,Antibiotic_Drug_597_481mg,Antibiotic,Capsule,39.86,190.02,329,2792,493,Bayer,1/21/2023
+P01519,Antiviral_Drug_414_278mg,Antiviral,Suppository,5.12,20.71,287,1258,430,Johnson & Johnson,1/16/2022
+P01520,Cardiovascular_Drug_321_139mg,Cardiovascular,Cream,3.06,10.44,375,2695,562,Bayer,4/19/2023
+P01521,Respiratory_Drug_446_94mg,Respiratory,Syrup,22.18,109.52,269,2510,403,Roche,10/29/2023
+P01522,Ophthalmic_Drug_475_116mg,Ophthalmic,Capsule,18.66,61.42,354,1928,531,Sanofi,7/24/2023
+P01523,Hormone_Drug_337_26mg,Hormone,Inhaler,6.3,20.69,458,2452,687,Johnson & Johnson,11/1/2023
+P01524,Vaccine_Drug_599_267mg,Vaccine,Ointment,29.28,89.66,464,1856,696,Roche,9/3/2023
+P01525,Antiviral_Drug_401_28mg,Antiviral,Syrup,13.3,56.07,269,905,403,Novartis,5/26/2023
+P01526,Diabetes_Drug_454_250mg,Diabetes,Ointment,36.49,172.38,371,816,556,AbbVie,12/17/2022
+P01527,Hormone_Drug_858_492mg,Hormone,Cream,14.78,71.84,445,2117,667,Pfizer,3/16/2023
+P01528,Oncology_Drug_792_226mg,Oncology,Injection,35.57,91.5,157,1768,235,Merck,2/18/2022
+P01529,Vaccine_Drug_336_433mg,Vaccine,Ointment,48.72,106.15,407,1645,610,Pfizer,2/20/2023
+P01530,Gastrointestinal_Drug_756_149mg,Gastrointestinal,Inhaler,29.42,66.7,195,1327,292,GSK,4/21/2022
+P01531,Ophthalmic_Drug_793_50mg,Ophthalmic,Inhaler,39.25,112.27,63,1657,94,Merck,11/10/2022
+P01532,Vaccine_Drug_606_57mg,Vaccine,Tablet,48.78,225.38,213,1331,319,Sanofi,3/13/2022
+P01533,Vaccine_Drug_66_368mg,Vaccine,Inhaler,34.77,80.69,117,1716,175,AstraZeneca,2/13/2023
+P01534,Ophthalmic_Drug_643_325mg,Ophthalmic,Tablet,19.47,44.8,151,1385,226,Purdue,4/23/2023
+P01535,Vaccine_Drug_915_231mg,Vaccine,Suppository,19.77,59.13,340,987,510,Sanofi,3/17/2023
+P01536,Ophthalmic_Drug_612_294mg,Ophthalmic,Ointment,7.1,34.87,449,2159,673,Merck,11/12/2023
+P01537,Hormone_Drug_620_387mg,Hormone,Inhaler,9.74,34.47,348,598,522,Sanofi,4/25/2022
+P01538,Ophthalmic_Drug_657_291mg,Ophthalmic,Capsule,44.78,115.64,59,1182,88,Roche,8/1/2022
+P01539,Ophthalmic_Drug_992_247mg,Ophthalmic,Syrup,27.54,108.49,54,2778,81,AstraZeneca,5/7/2023
+P01540,Analgesic_Drug_586_307mg,Analgesic,Capsule,21.74,84.32,218,1291,327,AstraZeneca,7/4/2023
+P01541,Ophthalmic_Drug_504_499mg,Ophthalmic,Tablet,8.5,23.87,492,1342,738,Merck,2/12/2022
+P01542,Antibiotic_Drug_303_169mg,Antibiotic,Suppository,39.47,107.04,224,1498,336,Purdue,10/7/2022
+P01543,Analgesic_Drug_557_386mg,Analgesic,Syrup,21.49,79.04,77,1546,115,Novo Nordisk,12/25/2022
+P01544,Antidepressant_Drug_228_202mg,Antidepressant,Injection,17.96,76.15,399,1561,598,Johnson & Johnson,9/18/2023
+P01545,Analgesic_Drug_68_228mg,Analgesic,Cream,49.97,200.43,172,2208,258,Bristol-Myers Squibb,6/11/2022
+P01546,Antidepressant_Drug_376_408mg,Antidepressant,Ointment,22.22,54.05,492,2970,738,Bristol-Myers Squibb,9/26/2023
+P01547,Antidepressant_Drug_96_262mg,Antidepressant,Injection,13.99,38.7,403,1659,604,Bayer,9/24/2023
+P01548,Vaccine_Drug_975_25mg,Vaccine,Tablet,30.41,86.73,391,1669,586,Johnson & Johnson,12/11/2022
+P01549,Respiratory_Drug_586_482mg,Respiratory,Ointment,19.15,39.46,382,1321,573,Bayer,7/10/2022
+P01550,Vitamin_Drug_142_357mg,Vitamin,Cream,8.92,27.71,122,2715,183,AstraZeneca,11/4/2023
+P01551,Antiviral_Drug_290_462mg,Antiviral,Injection,42.8,189.08,99,2033,148,Novo Nordisk,5/25/2023
+P01552,Diabetes_Drug_507_346mg,Diabetes,Ointment,25.44,124.04,130,2703,195,Bayer,5/27/2022
+P01553,Cardiovascular_Drug_519_157mg,Cardiovascular,Injection,3.42,15.55,220,568,330,Sanofi,11/13/2023
+P01554,Ophthalmic_Drug_13_154mg,Ophthalmic,Capsule,1.44,3.9,323,2598,484,Roche,1/3/2022
+P01555,Vaccine_Drug_847_256mg,Vaccine,Injection,30.47,133.13,147,2011,220,Purdue,7/23/2023
+P01556,Gastrointestinal_Drug_367_60mg,Gastrointestinal,Inhaler,32.34,71.2,378,2090,567,Johnson & Johnson,6/22/2023
+P01557,Cardiovascular_Drug_429_73mg,Cardiovascular,Inhaler,25.21,97.33,384,1748,576,AbbVie,12/11/2023
+P01558,Ophthalmic_Drug_794_28mg,Ophthalmic,Cream,34.27,158.35,345,2434,517,Novartis,3/26/2022
+P01559,Vaccine_Drug_99_387mg,Vaccine,Capsule,35.99,165.65,239,511,358,Merck,7/26/2023
+P01560,Antidepressant_Drug_655_402mg,Antidepressant,Suppository,30.25,99.33,229,1296,343,Pfizer,5/14/2023
+P01561,Antibiotic_Drug_887_421mg,Antibiotic,Tablet,41.44,91.14,365,1689,547,Pfizer,4/13/2023
+P01562,Gastrointestinal_Drug_314_259mg,Gastrointestinal,Tablet,31.53,109.84,304,1458,456,Novo Nordisk,5/8/2023
+P01563,Antiviral_Drug_366_372mg,Antiviral,Inhaler,7.24,28.59,452,2353,678,Purdue,4/5/2023
+P01564,Antiviral_Drug_942_290mg,Antiviral,Injection,48.59,114.36,338,1746,507,Novo Nordisk,12/17/2022
+P01565,Respiratory_Drug_806_470mg,Respiratory,Inhaler,35.55,161.78,478,2588,717,Bristol-Myers Squibb,6/28/2023
+P01566,Antibiotic_Drug_142_251mg,Antibiotic,Capsule,18.36,86.62,343,1109,514,Novartis,9/24/2023
+P01567,Ophthalmic_Drug_236_48mg,Ophthalmic,Ointment,10,31.37,247,2631,370,AstraZeneca,2/21/2022
+P01568,Vitamin_Drug_938_300mg,Vitamin,Cream,12.02,55.69,422,2073,633,Merck,8/3/2023
+P01569,Diabetes_Drug_419_186mg,Diabetes,Cream,17.4,44.4,490,2990,735,Purdue,9/15/2022
+P01570,Respiratory_Drug_840_429mg,Respiratory,Syrup,17.44,51.9,442,2417,663,GSK,2/12/2022
+P01571,Vitamin_Drug_334_310mg,Vitamin,Inhaler,43.57,157.27,96,2817,144,Novo Nordisk,12/13/2022
+P01572,Gastrointestinal_Drug_37_107mg,Gastrointestinal,Cream,20.46,53.94,141,2343,211,Purdue,6/14/2023
+P01573,Gastrointestinal_Drug_196_78mg,Gastrointestinal,Injection,29.08,60.23,216,763,324,Johnson & Johnson,5/21/2023
+P01574,Cardiovascular_Drug_854_214mg,Cardiovascular,Suppository,28.2,119.21,423,1835,634,Roche,1/16/2022
+P01575,Antipsychotic_Drug_896_244mg,Antipsychotic,Capsule,46.67,193.76,397,604,595,Purdue,2/16/2022
+P01576,Dermatological_Drug_818_221mg,Dermatological,Tablet,26.9,77.27,50,2691,75,Merck,7/7/2023
+P01577,Ophthalmic_Drug_857_178mg,Ophthalmic,Injection,46.9,210.15,364,1518,546,Bayer,12/23/2022
+P01578,Hormone_Drug_700_308mg,Hormone,Syrup,14.46,60.62,256,733,384,Sanofi,1/13/2023
+P01579,Respiratory_Drug_245_206mg,Respiratory,Tablet,21.71,85.85,307,1216,460,Sanofi,9/5/2022
+P01580,Antidepressant_Drug_598_23mg,Antidepressant,Tablet,11.54,30.16,289,2108,433,Purdue,7/18/2022
+P01581,Dermatological_Drug_775_92mg,Dermatological,Suppository,31.09,79.73,388,2482,582,Johnson & Johnson,3/30/2023
+P01582,Gastrointestinal_Drug_59_397mg,Gastrointestinal,Tablet,46.31,107.07,408,1865,612,GSK,3/3/2022
+P01583,Oncology_Drug_429_146mg,Oncology,Tablet,49.6,104.95,265,2803,397,GSK,12/7/2023
+P01584,Dermatological_Drug_304_103mg,Dermatological,Ointment,4.5,9.44,294,1256,441,Johnson & Johnson,2/16/2023
+P01585,Vaccine_Drug_516_474mg,Vaccine,Tablet,9.12,45.11,85,1910,127,Roche,10/21/2023
+P01586,Antiviral_Drug_162_227mg,Antiviral,Ointment,33.31,98.27,482,2011,723,Bayer,8/18/2022
+P01587,Antibiotic_Drug_857_410mg,Antibiotic,Capsule,18.3,88.76,105,2113,157,Purdue,3/23/2022
+P01588,Vaccine_Drug_193_106mg,Vaccine,Capsule,20.34,63.41,238,2763,357,AstraZeneca,7/12/2022
+P01589,Hormone_Drug_964_71mg,Hormone,Tablet,42.77,182.61,186,1667,279,Novartis,1/5/2023
+P01590,Gastrointestinal_Drug_947_269mg,Gastrointestinal,Tablet,24.83,66.4,433,1419,649,Roche,1/13/2022
+P01591,Vaccine_Drug_340_353mg,Vaccine,Injection,4.88,19.37,411,2299,616,Merck,10/27/2022
+P01592,Ophthalmic_Drug_368_169mg,Ophthalmic,Inhaler,21.9,83.63,198,1267,297,Sanofi,9/1/2022
+P01593,Vitamin_Drug_449_401mg,Vitamin,Suppository,9.95,42.3,335,1293,502,Roche,8/20/2023
+P01594,Cardiovascular_Drug_872_213mg,Cardiovascular,Ointment,37.25,102.68,486,1627,729,AbbVie,3/22/2022
+P01595,Cardiovascular_Drug_377_326mg,Cardiovascular,Cream,30.27,103.44,203,2165,304,Merck,7/23/2022
+P01596,Diabetes_Drug_688_262mg,Diabetes,Ointment,40.51,100.97,320,642,480,AbbVie,3/2/2023
+P01597,Vaccine_Drug_930_64mg,Vaccine,Inhaler,18.68,74.87,462,958,693,Sanofi,11/17/2023
+P01598,Gastrointestinal_Drug_59_21mg,Gastrointestinal,Syrup,39.55,119.31,455,2704,682,Roche,11/11/2023
+P01599,Dermatological_Drug_757_106mg,Dermatological,Tablet,13.37,27.48,370,817,555,Roche,9/17/2023
+P01600,Antidepressant_Drug_949_70mg,Antidepressant,Capsule,33.24,72.85,209,1178,313,Novo Nordisk,9/12/2023
+P01601,Antidepressant_Drug_194_308mg,Antidepressant,Injection,38.12,89.73,182,2430,273,Merck,3/15/2023
+P01602,Dermatological_Drug_483_223mg,Dermatological,Suppository,10.88,35.79,286,2664,429,GSK,5/31/2023
+P01603,Antibiotic_Drug_964_20mg,Antibiotic,Injection,33.1,116.57,171,1091,256,Bayer,2/28/2022
+P01604,Vitamin_Drug_550_117mg,Vitamin,Tablet,10.78,23.5,324,2305,486,Roche,5/13/2023
+P01605,Vaccine_Drug_398_265mg,Vaccine,Suppository,20.51,88.52,288,1921,432,AstraZeneca,12/26/2022
+P01606,Cardiovascular_Drug_634_241mg,Cardiovascular,Suppository,7.31,33.38,164,2232,246,Johnson & Johnson,5/15/2022
+P01607,Antibiotic_Drug_386_303mg,Antibiotic,Capsule,25.17,115.08,319,2085,478,Novartis,9/18/2022
+P01608,Vitamin_Drug_773_113mg,Vitamin,Injection,26.03,95.54,423,1363,634,Merck,11/5/2023
+P01609,Oncology_Drug_204_473mg,Oncology,Tablet,22.19,98.75,489,516,733,GSK,5/14/2023
+P01610,Antibiotic_Drug_992_78mg,Antibiotic,Cream,4.23,16.36,105,1829,157,Pfizer,5/15/2022
+P01611,Ophthalmic_Drug_522_69mg,Ophthalmic,Capsule,23.04,83.66,390,1398,585,Merck,10/6/2023
+P01612,Vitamin_Drug_18_93mg,Vitamin,Injection,30.41,107.68,485,793,727,AbbVie,7/17/2023
+P01613,Diabetes_Drug_836_225mg,Diabetes,Suppository,4.91,22.42,115,2688,172,GSK,11/1/2023
+P01614,Diabetes_Drug_856_432mg,Diabetes,Ointment,11.58,27.6,285,2877,427,Bayer,12/29/2023
+P01615,Hormone_Drug_810_471mg,Hormone,Tablet,25.24,73.19,229,2151,343,Bayer,9/12/2023
+P01616,Antiviral_Drug_117_357mg,Antiviral,Suppository,1.28,5.06,494,2986,741,AstraZeneca,10/8/2022
+P01617,Hormone_Drug_466_115mg,Hormone,Ointment,3.95,8.87,477,1861,715,AbbVie,5/22/2022
+P01618,Hormone_Drug_514_158mg,Hormone,Suppository,2.24,9.52,79,530,118,Pfizer,1/5/2023
+P01619,Diabetes_Drug_106_97mg,Diabetes,Inhaler,43.77,200.94,279,2774,418,Johnson & Johnson,7/14/2022
+P01620,Oncology_Drug_315_128mg,Oncology,Suppository,10.41,49.07,81,592,121,AbbVie,4/16/2022
+P01621,Analgesic_Drug_557_298mg,Analgesic,Suppository,16.86,82.58,358,2913,537,Novartis,11/20/2023
+P01622,Antibiotic_Drug_11_306mg,Antibiotic,Injection,11.9,59.49,468,1645,702,AbbVie,2/16/2023
+P01623,Gastrointestinal_Drug_92_409mg,Gastrointestinal,Syrup,20.77,85.31,380,2164,570,GSK,8/16/2022
+P01624,Antibiotic_Drug_845_243mg,Antibiotic,Capsule,18.34,85.73,438,1973,657,Sanofi,11/21/2023
+P01625,Vaccine_Drug_695_28mg,Vaccine,Ointment,20.15,97.52,379,969,568,Novo Nordisk,2/24/2023
+P01626,Respiratory_Drug_762_494mg,Respiratory,Suppository,16.53,67.99,428,2855,642,Purdue,11/22/2022
+P01627,Vaccine_Drug_789_320mg,Vaccine,Tablet,15.69,41.45,381,2797,571,Purdue,10/29/2023
+P01628,Respiratory_Drug_409_69mg,Respiratory,Tablet,4.44,18.06,375,2296,562,Purdue,9/9/2023
+P01629,Antiviral_Drug_840_495mg,Antiviral,Suppository,13.6,50.21,420,1176,630,Novo Nordisk,11/9/2022
+P01630,Ophthalmic_Drug_490_403mg,Ophthalmic,Tablet,3.57,17.3,176,690,264,Novartis,3/28/2022
+P01631,Diabetes_Drug_387_146mg,Diabetes,Ointment,26.12,105.19,202,1118,303,GSK,5/2/2023
+P01632,Respiratory_Drug_247_254mg,Respiratory,Cream,20.5,99.61,78,2035,117,GSK,8/3/2022
+P01633,Hormone_Drug_372_113mg,Hormone,Syrup,28.76,70.41,301,2600,451,Bayer,4/7/2022
+P01634,Antidepressant_Drug_147_172mg,Antidepressant,Inhaler,1.12,3.64,112,2100,168,AbbVie,1/12/2022
+P01635,Antidepressant_Drug_220_398mg,Antidepressant,Cream,13.48,64.33,391,2321,586,Novartis,6/15/2022
+P01636,Dermatological_Drug_564_319mg,Dermatological,Capsule,47.18,159.63,238,1643,357,Bayer,11/8/2023
+P01637,Cardiovascular_Drug_335_160mg,Cardiovascular,Ointment,27.43,126.11,313,2000,469,Sanofi,1/17/2023
+P01638,Analgesic_Drug_919_424mg,Analgesic,Tablet,36.16,154.22,54,2581,81,Pfizer,12/14/2022
+P01639,Antidepressant_Drug_790_271mg,Antidepressant,Cream,3.41,10.24,406,997,609,Merck,3/26/2023
+P01640,Dermatological_Drug_800_277mg,Dermatological,Tablet,48.21,160.59,477,2630,715,Purdue,10/17/2022
+P01641,Analgesic_Drug_777_199mg,Analgesic,Injection,41.14,205.22,207,2368,310,Bristol-Myers Squibb,7/26/2022
+P01642,Vaccine_Drug_265_493mg,Vaccine,Suppository,45.34,166.85,295,872,442,AbbVie,1/23/2022
+P01643,Oncology_Drug_903_361mg,Oncology,Tablet,17.28,58.95,253,1665,379,Novo Nordisk,5/15/2023
+P01644,Vaccine_Drug_69_190mg,Vaccine,Suppository,49.65,110.02,228,1074,342,AstraZeneca,6/2/2023
+P01645,Antiviral_Drug_31_6mg,Antiviral,Tablet,32.07,66.46,256,1078,384,GSK,12/19/2022
+P01646,Dermatological_Drug_289_484mg,Dermatological,Capsule,9.45,42.03,189,2476,283,Bayer,2/4/2023
+P01647,Vitamin_Drug_888_356mg,Vitamin,Cream,19.18,74.85,198,2239,297,Roche,1/17/2023
+P01648,Antipsychotic_Drug_73_449mg,Antipsychotic,Ointment,21.12,97.12,125,889,187,Novartis,9/16/2022
+P01649,Respiratory_Drug_6_6mg,Respiratory,Ointment,22.9,63.39,240,647,360,Sanofi,1/10/2022
+P01650,Antiviral_Drug_838_151mg,Antiviral,Capsule,38.8,79.95,162,529,243,Pfizer,6/30/2023
+P01651,Gastrointestinal_Drug_499_22mg,Gastrointestinal,Syrup,40.8,101.43,336,2938,504,Novartis,6/21/2022
+P01652,Hormone_Drug_787_304mg,Hormone,Capsule,47.21,119.86,256,952,384,Bristol-Myers Squibb,12/9/2023
+P01653,Cardiovascular_Drug_176_343mg,Cardiovascular,Syrup,41.91,179.6,320,1633,480,AstraZeneca,9/6/2023
+P01654,Antidepressant_Drug_959_337mg,Antidepressant,Ointment,5.21,23.6,262,1986,393,AstraZeneca,7/2/2022
+P01655,Antiviral_Drug_10_494mg,Antiviral,Syrup,19.24,54.64,283,2791,424,Bristol-Myers Squibb,7/20/2022
+P01656,Hormone_Drug_915_415mg,Hormone,Ointment,19.75,58.81,486,2793,729,Novo Nordisk,1/2/2023
+P01657,Vaccine_Drug_86_55mg,Vaccine,Capsule,30.77,75.71,250,2157,375,Purdue,2/25/2023
+P01658,Oncology_Drug_988_198mg,Oncology,Tablet,37.24,162.03,96,2263,144,AstraZeneca,11/18/2023
+P01659,Antibiotic_Drug_412_461mg,Antibiotic,Syrup,38.31,190.17,310,785,465,Roche,1/31/2022
+P01660,Antidepressant_Drug_440_473mg,Antidepressant,Injection,45.66,228.02,398,2418,597,AbbVie,12/4/2022
+P01661,Antibiotic_Drug_437_192mg,Antibiotic,Inhaler,13.19,43.48,200,864,300,Roche,6/27/2022
+P01662,Oncology_Drug_223_259mg,Oncology,Ointment,20.67,88.77,322,1712,483,Merck,6/5/2022
+P01663,Oncology_Drug_766_442mg,Oncology,Inhaler,1.51,5.9,222,902,333,Sanofi,8/26/2023
+P01664,Cardiovascular_Drug_743_29mg,Cardiovascular,Tablet,10.15,35.84,492,2848,738,Novartis,8/2/2022
+P01665,Antibiotic_Drug_483_262mg,Antibiotic,Suppository,43.84,110.17,116,2097,174,Novo Nordisk,12/18/2023
+P01666,Vitamin_Drug_43_117mg,Vitamin,Ointment,18.69,85.16,454,1486,681,Pfizer,12/16/2023
+P01667,Hormone_Drug_245_209mg,Hormone,Tablet,28.94,89.66,297,2705,445,Novartis,8/4/2023
+P01668,Vaccine_Drug_520_369mg,Vaccine,Injection,17.57,48.36,324,991,486,Purdue,11/7/2022
+P01669,Ophthalmic_Drug_77_78mg,Ophthalmic,Injection,13.96,34.2,150,1955,225,Sanofi,5/24/2022
+P01670,Ophthalmic_Drug_368_247mg,Ophthalmic,Inhaler,14.8,56.43,296,1264,444,Novo Nordisk,6/3/2023
+P01671,Vaccine_Drug_622_114mg,Vaccine,Capsule,48.32,97.83,356,2849,534,AstraZeneca,10/15/2022
+P01672,Respiratory_Drug_423_404mg,Respiratory,Capsule,22.58,93.06,387,549,580,Merck,7/19/2023
+P01673,Antipsychotic_Drug_232_373mg,Antipsychotic,Capsule,13.45,39.27,348,2186,522,Bayer,10/9/2023
+P01674,Gastrointestinal_Drug_65_2mg,Gastrointestinal,Ointment,10.69,38.97,181,2881,271,GSK,8/31/2022
+P01675,Vaccine_Drug_601_490mg,Vaccine,Syrup,35.72,78.72,98,1487,147,AstraZeneca,1/16/2022
+P01676,Oncology_Drug_283_104mg,Oncology,Capsule,30.5,102.63,410,1558,615,Roche,3/22/2022
+P01677,Oncology_Drug_369_242mg,Oncology,Capsule,3.29,15.91,80,1203,120,GSK,8/31/2022
+P01678,Antiviral_Drug_771_17mg,Antiviral,Injection,41.49,115.58,127,801,190,Bristol-Myers Squibb,11/13/2022
+P01679,Cardiovascular_Drug_668_178mg,Cardiovascular,Tablet,9.73,44.54,395,2453,592,Novartis,5/21/2023
+P01680,Respiratory_Drug_332_406mg,Respiratory,Suppository,40.24,140.05,65,2559,97,Novartis,7/14/2022
+P01681,Ophthalmic_Drug_9_309mg,Ophthalmic,Ointment,36.5,93.29,494,1833,741,Purdue,12/5/2023
+P01682,Hormone_Drug_91_456mg,Hormone,Injection,39.32,192.82,493,578,739,AstraZeneca,11/10/2022
+P01683,Antiviral_Drug_594_132mg,Antiviral,Capsule,12.96,54.26,284,886,426,Pfizer,4/7/2023
+P01684,Cardiovascular_Drug_241_26mg,Cardiovascular,Cream,29.31,64.35,185,1061,277,Roche,6/3/2022
+P01685,Ophthalmic_Drug_468_49mg,Ophthalmic,Syrup,44.27,182.57,191,545,286,GSK,2/13/2022
+P01686,Antibiotic_Drug_955_273mg,Antibiotic,Capsule,1.91,7.97,443,2309,664,Pfizer,8/4/2022
+P01687,Vitamin_Drug_473_484mg,Vitamin,Syrup,49.06,150.55,303,1170,454,Roche,4/3/2023
+P01688,Hormone_Drug_765_150mg,Hormone,Cream,38.42,156.14,72,1738,108,Purdue,1/16/2023
+P01689,Vitamin_Drug_121_295mg,Vitamin,Suppository,44.18,144.18,169,955,253,Purdue,5/23/2022
+P01690,Antipsychotic_Drug_261_231mg,Antipsychotic,Capsule,25.79,82.42,303,2876,454,Sanofi,8/18/2022
+P01691,Oncology_Drug_425_193mg,Oncology,Ointment,15.96,76.24,450,2656,675,Novartis,1/13/2023
+P01692,Ophthalmic_Drug_259_335mg,Ophthalmic,Cream,13.58,45.34,134,2045,201,Merck,9/23/2023
+P01693,Oncology_Drug_701_452mg,Oncology,Tablet,19.13,64.03,300,2871,450,AbbVie,8/19/2023
+P01694,Gastrointestinal_Drug_237_466mg,Gastrointestinal,Inhaler,32.11,149.66,162,716,243,GSK,3/8/2023
+P01695,Analgesic_Drug_37_64mg,Analgesic,Ointment,48.03,187.28,268,1557,402,AstraZeneca,6/1/2022
+P01696,Diabetes_Drug_199_89mg,Diabetes,Cream,20.27,90.79,297,2358,445,Sanofi,2/1/2022
+P01697,Antiviral_Drug_393_101mg,Antiviral,Inhaler,32.76,101.32,293,1755,439,AbbVie,9/27/2022
+P01698,Ophthalmic_Drug_77_223mg,Ophthalmic,Capsule,16.64,52.87,421,2831,631,AbbVie,9/7/2022
+P01699,Hormone_Drug_117_471mg,Hormone,Tablet,32.61,148.24,382,2346,573,Novartis,4/26/2022
+P01700,Diabetes_Drug_253_169mg,Diabetes,Syrup,35.45,90.33,384,2863,576,Bristol-Myers Squibb,8/6/2023
+P01701,Ophthalmic_Drug_13_465mg,Ophthalmic,Ointment,20.07,73.72,320,1303,480,Novartis,2/25/2022
+P01702,Hormone_Drug_995_226mg,Hormone,Syrup,38.29,132.01,357,721,535,Roche,6/6/2022
+P01703,Antiviral_Drug_178_21mg,Antiviral,Tablet,27.76,101.08,161,1182,241,Bristol-Myers Squibb,11/3/2022
+P01704,Cardiovascular_Drug_590_278mg,Cardiovascular,Capsule,16.11,74.97,369,2056,553,AbbVie,10/17/2023
+P01705,Analgesic_Drug_438_214mg,Analgesic,Inhaler,44.29,109.89,81,685,121,Bayer,10/6/2022
+P01706,Dermatological_Drug_2_194mg,Dermatological,Inhaler,37.26,144.68,215,1424,322,Johnson & Johnson,8/6/2023
+P01707,Analgesic_Drug_887_421mg,Analgesic,Cream,35.73,125.83,162,2775,243,GSK,12/6/2023
+P01708,Antibiotic_Drug_446_232mg,Antibiotic,Capsule,48.23,125.41,476,2050,714,Sanofi,6/16/2023
+P01709,Antidepressant_Drug_941_34mg,Antidepressant,Suppository,18.29,71.99,273,1257,409,Johnson & Johnson,4/13/2023
+P01710,Oncology_Drug_55_26mg,Oncology,Suppository,40.69,140.13,330,2874,495,Pfizer,3/10/2023
+P01711,Gastrointestinal_Drug_133_339mg,Gastrointestinal,Suppository,43.39,160.5,245,1785,367,Johnson & Johnson,2/27/2023
+P01712,Gastrointestinal_Drug_244_270mg,Gastrointestinal,Cream,26.7,71.24,161,1066,241,Roche,3/13/2022
+P01713,Hormone_Drug_697_105mg,Hormone,Cream,43.62,143.77,196,720,294,Purdue,10/26/2022
+P01714,Vitamin_Drug_771_385mg,Vitamin,Capsule,40.61,144.64,488,2632,732,Pfizer,9/5/2022
+P01715,Diabetes_Drug_252_131mg,Diabetes,Inhaler,7.26,35.17,463,2326,694,Purdue,1/9/2023
+P01716,Vaccine_Drug_156_442mg,Vaccine,Injection,44.83,185.83,79,1613,118,Novo Nordisk,8/30/2022
+P01717,Hormone_Drug_52_142mg,Hormone,Inhaler,39.44,159.19,112,1008,168,Bristol-Myers Squibb,12/31/2022
+P01718,Antidepressant_Drug_271_369mg,Antidepressant,Suppository,38.19,106.83,118,1639,177,Sanofi,8/29/2022
+P01719,Vaccine_Drug_326_183mg,Vaccine,Inhaler,7.33,21.66,486,515,729,Novartis,6/11/2022
+P01720,Dermatological_Drug_484_155mg,Dermatological,Cream,46.95,112,122,1720,183,Roche,1/25/2023
+P01721,Ophthalmic_Drug_426_485mg,Ophthalmic,Suppository,39.5,117.08,239,2633,358,GSK,2/19/2023
+P01722,Antiviral_Drug_161_191mg,Antiviral,Suppository,39.77,151.35,74,2967,111,Bristol-Myers Squibb,10/12/2023
+P01723,Antiviral_Drug_288_353mg,Antiviral,Capsule,21.5,102.92,213,911,319,Sanofi,4/9/2023
+P01724,Antiviral_Drug_843_198mg,Antiviral,Suppository,42.97,175.45,50,880,75,AbbVie,7/11/2023
+P01725,Respiratory_Drug_897_32mg,Respiratory,Tablet,25.73,119.81,441,2665,661,AstraZeneca,3/15/2022
+P01726,Hormone_Drug_871_74mg,Hormone,Inhaler,1.81,8.04,469,972,703,Sanofi,12/5/2022
+P01727,Vaccine_Drug_79_464mg,Vaccine,Cream,22.04,47.67,435,2487,652,Pfizer,9/23/2022
+P01728,Dermatological_Drug_233_399mg,Dermatological,Cream,27.39,128.06,365,2783,547,Sanofi,1/15/2023
+P01729,Respiratory_Drug_563_420mg,Respiratory,Ointment,34.72,71.64,101,2244,151,Pfizer,7/24/2022
+P01730,Gastrointestinal_Drug_257_185mg,Gastrointestinal,Injection,2.81,7.47,194,2531,291,Johnson & Johnson,7/6/2022
+P01731,Cardiovascular_Drug_866_40mg,Cardiovascular,Injection,44.46,115.38,138,1461,207,Purdue,6/17/2023
+P01732,Vitamin_Drug_793_358mg,Vitamin,Injection,36.73,109.7,427,2719,640,AbbVie,2/14/2023
+P01733,Gastrointestinal_Drug_784_293mg,Gastrointestinal,Cream,17.41,59.07,381,1482,571,Purdue,4/16/2023
+P01734,Dermatological_Drug_862_341mg,Dermatological,Injection,25.28,58.65,349,2198,523,Johnson & Johnson,2/3/2023
+P01735,Vaccine_Drug_909_132mg,Vaccine,Capsule,10.64,21.79,361,1621,541,AbbVie,6/11/2022
+P01736,Dermatological_Drug_717_97mg,Dermatological,Tablet,7.6,27.02,426,1066,639,Roche,12/17/2023
+P01737,Respiratory_Drug_189_476mg,Respiratory,Capsule,1.92,9.45,372,2493,558,Roche,10/14/2022
+P01738,Dermatological_Drug_641_262mg,Dermatological,Capsule,25.34,81.65,60,661,90,Roche,4/14/2023
+P01739,Antibiotic_Drug_275_260mg,Antibiotic,Cream,32.58,134.95,382,1639,573,Novartis,12/24/2023
+P01740,Cardiovascular_Drug_934_339mg,Cardiovascular,Tablet,2.88,7.16,485,1780,727,GSK,10/31/2022
+P01741,Antiviral_Drug_305_196mg,Antiviral,Suppository,22.04,93.97,413,1312,619,Pfizer,3/31/2023
+P01742,Gastrointestinal_Drug_848_146mg,Gastrointestinal,Tablet,45.58,160.79,359,674,538,Bristol-Myers Squibb,10/6/2022
+P01743,Antidepressant_Drug_749_171mg,Antidepressant,Injection,22.15,86.43,100,1851,150,Pfizer,10/1/2022
+P01744,Ophthalmic_Drug_911_337mg,Ophthalmic,Injection,40.13,196.38,412,1848,618,GSK,10/31/2022
+P01745,Diabetes_Drug_239_138mg,Diabetes,Suppository,3.08,7.64,303,2040,454,Merck,12/30/2022
+P01746,Antiviral_Drug_525_393mg,Antiviral,Ointment,33.66,155.25,290,1119,435,Pfizer,6/25/2022
+P01747,Vaccine_Drug_329_365mg,Vaccine,Syrup,49.61,126.44,290,1879,435,Novo Nordisk,6/7/2023
+P01748,Respiratory_Drug_986_381mg,Respiratory,Capsule,9.68,29.92,245,2692,367,Johnson & Johnson,11/17/2023
+P01749,Oncology_Drug_260_422mg,Oncology,Cream,36.57,78.82,112,2064,168,Purdue,1/7/2023
+P01750,Antidepressant_Drug_279_231mg,Antidepressant,Injection,22.27,81.85,351,754,526,Johnson & Johnson,12/18/2023
+P01751,Oncology_Drug_213_159mg,Oncology,Tablet,5.53,18.2,481,599,721,Novartis,7/2/2023
+P01752,Antiviral_Drug_597_269mg,Antiviral,Inhaler,12.87,35.14,214,2637,321,Merck,11/10/2023
+P01753,Antiviral_Drug_542_402mg,Antiviral,Capsule,46.06,165.8,155,2949,232,Sanofi,6/3/2023
+P01754,Antipsychotic_Drug_46_18mg,Antipsychotic,Tablet,5.79,22.28,446,2188,669,Pfizer,9/6/2023
+P01755,Hormone_Drug_633_176mg,Hormone,Inhaler,31.68,66.27,112,2843,168,Merck,4/23/2023
+P01756,Gastrointestinal_Drug_392_479mg,Gastrointestinal,Inhaler,27.06,131.58,177,2915,265,Purdue,4/8/2023
+P01757,Antibiotic_Drug_536_168mg,Antibiotic,Cream,31.7,142.14,319,875,478,GSK,6/28/2023
+P01758,Vitamin_Drug_32_312mg,Vitamin,Tablet,39.5,165.1,201,1783,301,Roche,6/26/2023
+P01759,Respiratory_Drug_656_67mg,Respiratory,Syrup,12.81,31.56,482,2316,723,Pfizer,2/3/2023
+P01760,Cardiovascular_Drug_721_436mg,Cardiovascular,Capsule,11.62,29.16,235,2716,352,Johnson & Johnson,7/12/2023
+P01761,Dermatological_Drug_471_161mg,Dermatological,Tablet,15.6,57.43,338,839,507,GSK,4/20/2023
+P01762,Antipsychotic_Drug_463_483mg,Antipsychotic,Suppository,25.46,76.66,241,1676,361,AbbVie,10/15/2023
+P01763,Diabetes_Drug_516_491mg,Diabetes,Syrup,5.7,18.27,312,1280,468,Novo Nordisk,3/11/2023
+P01764,Diabetes_Drug_308_214mg,Diabetes,Syrup,1.54,7.36,480,875,720,Roche,3/16/2022
+P01765,Ophthalmic_Drug_304_62mg,Ophthalmic,Cream,49.47,228.66,107,1285,160,AbbVie,12/28/2023
+P01766,Antibiotic_Drug_957_358mg,Antibiotic,Ointment,5.82,28.74,136,1704,204,Bristol-Myers Squibb,5/26/2023
+P01767,Cardiovascular_Drug_440_175mg,Cardiovascular,Ointment,12.7,51.68,441,2858,661,Pfizer,11/3/2023
+P01768,Oncology_Drug_519_269mg,Oncology,Suppository,39.82,129.34,175,1848,262,Sanofi,1/1/2023
+P01769,Respiratory_Drug_844_288mg,Respiratory,Ointment,13.8,58.71,140,980,210,Purdue,4/13/2022
+P01770,Gastrointestinal_Drug_699_205mg,Gastrointestinal,Suppository,7.67,18.94,63,2463,94,Bristol-Myers Squibb,3/3/2023
+P01771,Vaccine_Drug_565_418mg,Vaccine,Injection,17.13,38.78,52,567,78,Bristol-Myers Squibb,12/18/2022
+P01772,Hormone_Drug_460_347mg,Hormone,Capsule,16.18,41.88,374,1166,561,Roche,8/23/2023
+P01773,Ophthalmic_Drug_108_240mg,Ophthalmic,Inhaler,22.75,62.3,265,676,397,GSK,3/26/2023
+P01774,Hormone_Drug_537_132mg,Hormone,Inhaler,22.12,70.87,228,894,342,Bayer,3/25/2022
+P01775,Vitamin_Drug_457_476mg,Vitamin,Cream,1.18,4.24,302,2410,453,AstraZeneca,9/3/2022
+P01776,Antipsychotic_Drug_924_471mg,Antipsychotic,Cream,1.94,4.08,308,2554,462,Novartis,5/5/2022
+P01777,Hormone_Drug_994_13mg,Hormone,Suppository,1.23,5.68,167,1274,250,Johnson & Johnson,1/30/2022
+P01778,Antidepressant_Drug_156_118mg,Antidepressant,Tablet,34.32,142.77,389,1434,583,Sanofi,7/14/2022
+P01779,Oncology_Drug_489_239mg,Oncology,Tablet,26.77,117.11,411,2005,616,Bristol-Myers Squibb,6/20/2022
+P01780,Cardiovascular_Drug_574_207mg,Cardiovascular,Ointment,11.32,43.84,203,2595,304,Johnson & Johnson,4/17/2022
+P01781,Vitamin_Drug_130_398mg,Vitamin,Capsule,35.57,143.25,343,1051,514,Roche,12/15/2022
+P01782,Ophthalmic_Drug_134_259mg,Ophthalmic,Injection,28.69,95.93,63,1589,94,Novo Nordisk,9/18/2023
+P01783,Hormone_Drug_254_472mg,Hormone,Tablet,27.65,128.03,434,1439,651,Novartis,1/12/2022
+P01784,Diabetes_Drug_96_215mg,Diabetes,Ointment,31.55,96.96,243,2170,364,Novartis,7/25/2022
+P01785,Diabetes_Drug_928_43mg,Diabetes,Ointment,34.26,92.35,386,2019,579,AstraZeneca,12/3/2023
+P01786,Respiratory_Drug_457_302mg,Respiratory,Syrup,40.73,134.87,360,1441,540,Sanofi,2/15/2023
+P01787,Antidepressant_Drug_538_470mg,Antidepressant,Ointment,7.14,18.34,468,2997,702,Pfizer,11/14/2023
+P01788,Ophthalmic_Drug_210_376mg,Ophthalmic,Injection,4.35,14.15,440,1349,660,Johnson & Johnson,3/11/2023
+P01789,Gastrointestinal_Drug_663_268mg,Gastrointestinal,Injection,33.44,111.15,165,2123,247,Bristol-Myers Squibb,2/9/2022
+P01790,Antidepressant_Drug_209_391mg,Antidepressant,Capsule,17.99,46.86,322,1642,483,Novo Nordisk,5/24/2023
+P01791,Ophthalmic_Drug_161_149mg,Ophthalmic,Injection,14.38,39.31,166,2592,249,Roche,8/22/2022
+P01792,Antiviral_Drug_850_437mg,Antiviral,Injection,9.68,44.71,452,2744,678,Purdue,4/19/2023
+P01793,Hormone_Drug_789_18mg,Hormone,Suppository,48.99,215.15,237,1925,355,Novo Nordisk,8/14/2023
+P01794,Ophthalmic_Drug_292_62mg,Ophthalmic,Capsule,21.9,56.02,178,1510,267,Purdue,7/20/2023
+P01795,Hormone_Drug_39_414mg,Hormone,Syrup,49.78,111,312,649,468,AstraZeneca,8/7/2023
+P01796,Dermatological_Drug_910_302mg,Dermatological,Capsule,18.1,60.84,172,743,258,Pfizer,9/7/2023
+P01797,Oncology_Drug_99_318mg,Oncology,Capsule,11.14,48.87,412,2216,618,Merck,8/3/2023
+P01798,Gastrointestinal_Drug_578_264mg,Gastrointestinal,Capsule,41.95,112.82,274,2158,411,AbbVie,10/28/2022
+P01799,Cardiovascular_Drug_67_393mg,Cardiovascular,Capsule,23.16,100.14,182,893,273,Roche,3/25/2023
+P01800,Diabetes_Drug_345_250mg,Diabetes,Cream,39.16,164.87,369,2724,553,Merck,9/17/2023
+P01801,Oncology_Drug_135_263mg,Oncology,Cream,40.36,106.78,160,1498,240,AbbVie,12/20/2023
+P01802,Antibiotic_Drug_47_466mg,Antibiotic,Inhaler,31.78,115.73,391,1893,586,AbbVie,3/2/2022
+P01803,Analgesic_Drug_272_208mg,Analgesic,Cream,22.88,64.75,295,2680,442,GSK,2/7/2022
+P01804,Antiviral_Drug_319_376mg,Antiviral,Suppository,9.99,32.71,97,973,145,Sanofi,7/21/2023
+P01805,Antiviral_Drug_904_383mg,Antiviral,Tablet,44.63,162.9,437,584,655,Sanofi,10/20/2022
+P01806,Cardiovascular_Drug_787_129mg,Cardiovascular,Injection,41.22,89.74,78,2068,117,Roche,11/23/2022
+P01807,Gastrointestinal_Drug_646_177mg,Gastrointestinal,Capsule,16.25,54.42,71,2112,106,Roche,10/2/2023
+P01808,Vitamin_Drug_747_136mg,Vitamin,Capsule,9.61,38.21,217,1492,325,Roche,3/22/2022
+P01809,Antiviral_Drug_493_137mg,Antiviral,Inhaler,39.04,162.2,435,1491,652,Johnson & Johnson,5/30/2023
+P01810,Diabetes_Drug_568_73mg,Diabetes,Injection,7.26,14.63,59,2096,88,Sanofi,5/28/2023
+P01811,Vaccine_Drug_38_190mg,Vaccine,Tablet,23.87,54.92,128,1868,192,AstraZeneca,3/8/2022
+P01812,Cardiovascular_Drug_368_392mg,Cardiovascular,Inhaler,13.59,61.84,365,2020,547,Bayer,4/18/2023
+P01813,Diabetes_Drug_885_438mg,Diabetes,Syrup,2.61,9.96,394,2896,591,Merck,6/13/2023
+P01814,Antibiotic_Drug_292_74mg,Antibiotic,Suppository,5.66,22.76,312,983,468,Bayer,5/31/2023
+P01815,Vitamin_Drug_824_6mg,Vitamin,Inhaler,31.22,63.29,178,1010,267,Bayer,7/14/2022
+P01816,Cardiovascular_Drug_615_277mg,Cardiovascular,Tablet,30.19,88.87,207,1300,310,Purdue,8/3/2022
+P01817,Antiviral_Drug_729_396mg,Antiviral,Syrup,12.86,42.57,258,2024,387,Purdue,4/3/2022
+P01818,Ophthalmic_Drug_321_10mg,Ophthalmic,Tablet,32.77,121.56,451,1845,676,Sanofi,12/31/2023
+P01819,Gastrointestinal_Drug_95_244mg,Gastrointestinal,Cream,4.82,22.43,496,1630,744,Johnson & Johnson,10/26/2023
+P01820,Gastrointestinal_Drug_376_215mg,Gastrointestinal,Injection,11.58,48.47,417,2598,625,Purdue,6/16/2022
+P01821,Ophthalmic_Drug_192_202mg,Ophthalmic,Syrup,17.61,55.28,311,1708,466,Pfizer,5/6/2023
+P01822,Respiratory_Drug_509_117mg,Respiratory,Capsule,11.28,55.79,145,1245,217,Pfizer,8/7/2022
+P01823,Antibiotic_Drug_659_332mg,Antibiotic,Injection,47.27,178.14,393,952,589,Novartis,3/4/2023
+P01824,Antibiotic_Drug_84_192mg,Antibiotic,Injection,9.45,39.3,90,2387,135,AstraZeneca,4/16/2022
+P01825,Antiviral_Drug_814_30mg,Antiviral,Ointment,11.56,37.67,175,2947,262,Bristol-Myers Squibb,3/15/2022
+P01826,Antipsychotic_Drug_463_82mg,Antipsychotic,Inhaler,48.5,117.42,74,1275,111,AstraZeneca,8/12/2022
+P01827,Oncology_Drug_320_94mg,Oncology,Syrup,35.33,140.04,68,1139,102,Bristol-Myers Squibb,12/9/2022
+P01828,Cardiovascular_Drug_175_338mg,Cardiovascular,Syrup,17.79,41.21,231,1876,346,AstraZeneca,8/14/2022
+P01829,Antiviral_Drug_31_333mg,Antiviral,Injection,16.86,50.98,170,523,255,Pfizer,9/12/2022
+P01830,Dermatological_Drug_504_417mg,Dermatological,Capsule,39.71,87.07,209,1454,313,Bayer,8/30/2022
+P01831,Antiviral_Drug_97_147mg,Antiviral,Injection,17.03,61.5,231,1580,346,Purdue,1/2/2022
+P01832,Diabetes_Drug_288_138mg,Diabetes,Ointment,38.97,117.38,154,1229,231,AbbVie,5/7/2022
+P01833,Gastrointestinal_Drug_764_15mg,Gastrointestinal,Suppository,14.8,66.94,275,1244,412,Roche,12/7/2022
+P01834,Analgesic_Drug_944_336mg,Analgesic,Tablet,34.97,135.5,239,918,358,Johnson & Johnson,6/11/2022
+P01835,Respiratory_Drug_892_399mg,Respiratory,Tablet,23.35,61.1,311,2485,466,Pfizer,6/24/2023
+P01836,Analgesic_Drug_432_328mg,Analgesic,Syrup,6.88,28.99,114,1950,171,Bayer,12/12/2023
+P01837,Vitamin_Drug_239_360mg,Vitamin,Syrup,13.77,49.77,130,2930,195,Pfizer,7/1/2023
+P01838,Antiviral_Drug_315_242mg,Antiviral,Tablet,11.65,57.24,85,1053,127,Roche,6/29/2022
+P01839,Ophthalmic_Drug_943_204mg,Ophthalmic,Injection,48.63,118.09,85,1649,127,Novo Nordisk,10/26/2022
+P01840,Antibiotic_Drug_609_49mg,Antibiotic,Suppository,27.78,113.98,195,2160,292,Roche,1/24/2022
+P01841,Vitamin_Drug_315_294mg,Vitamin,Suppository,28.26,100.4,466,2200,699,Novartis,3/29/2022
+P01842,Antiviral_Drug_533_148mg,Antiviral,Capsule,16.6,51.53,294,2978,441,AbbVie,8/30/2022
+P01843,Vaccine_Drug_741_66mg,Vaccine,Ointment,45.75,123.34,427,2935,640,Bayer,8/8/2022
+P01844,Cardiovascular_Drug_780_229mg,Cardiovascular,Inhaler,16.11,74.6,168,2987,252,Merck,9/12/2023
+P01845,Vitamin_Drug_608_315mg,Vitamin,Capsule,12.09,41.18,69,1175,103,GSK,8/26/2022
+P01846,Diabetes_Drug_603_133mg,Diabetes,Cream,32.53,141.32,172,1963,258,Johnson & Johnson,7/17/2022
+P01847,Respiratory_Drug_1_211mg,Respiratory,Ointment,23.24,61.27,312,1735,468,Bristol-Myers Squibb,4/5/2022
+P01848,Antibiotic_Drug_147_246mg,Antibiotic,Tablet,22.11,48.03,181,2844,271,AstraZeneca,2/3/2023
+P01849,Hormone_Drug_231_22mg,Hormone,Capsule,4.17,17.58,451,629,676,AstraZeneca,2/24/2022
+P01850,Antibiotic_Drug_26_441mg,Antibiotic,Injection,16.85,59.8,302,1720,453,GSK,7/22/2023
+P01851,Antiviral_Drug_818_409mg,Antiviral,Syrup,27.56,118.41,389,652,583,AbbVie,3/3/2023
+P01852,Dermatological_Drug_487_204mg,Dermatological,Ointment,33.09,103.48,161,2872,241,Johnson & Johnson,12/16/2022
+P01853,Hormone_Drug_957_166mg,Hormone,Injection,20.76,64.82,350,2982,525,Roche,9/6/2022
+P01854,Dermatological_Drug_703_487mg,Dermatological,Cream,39.36,87.15,188,2625,282,Roche,11/26/2023
+P01855,Antiviral_Drug_993_438mg,Antiviral,Syrup,23.76,111.4,366,1634,549,Purdue,11/15/2023
+P01856,Hormone_Drug_350_405mg,Hormone,Inhaler,10.26,26.43,224,1041,336,Bayer,11/16/2023
+P01857,Respiratory_Drug_208_158mg,Respiratory,Injection,10.48,37.85,382,584,573,Bristol-Myers Squibb,12/1/2022
+P01858,Analgesic_Drug_685_183mg,Analgesic,Syrup,31.22,121.06,492,1656,738,Merck,12/16/2022
+P01859,Respiratory_Drug_269_349mg,Respiratory,Cream,24.03,49.48,246,2060,369,Johnson & Johnson,12/14/2023
+P01860,Antipsychotic_Drug_895_189mg,Antipsychotic,Injection,32.11,120.21,75,1065,112,Bristol-Myers Squibb,6/7/2023
+P01861,Dermatological_Drug_83_290mg,Dermatological,Ointment,21.15,84.98,87,1968,130,Novo Nordisk,10/30/2023
+P01862,Vaccine_Drug_286_186mg,Vaccine,Syrup,29.49,70.5,231,868,346,Bayer,3/19/2023
+P01863,Cardiovascular_Drug_584_403mg,Cardiovascular,Suppository,8.93,27.75,337,594,505,Bristol-Myers Squibb,6/4/2022
+P01864,Oncology_Drug_666_53mg,Oncology,Injection,5.19,16.32,228,2456,342,Purdue,7/1/2022
+P01865,Diabetes_Drug_96_197mg,Diabetes,Injection,38.49,186.44,441,1025,661,Novartis,8/7/2023
+P01866,Diabetes_Drug_159_447mg,Diabetes,Capsule,4.69,9.82,203,2437,304,Merck,2/17/2022
+P01867,Antiviral_Drug_828_33mg,Antiviral,Suppository,29.21,92.16,164,2419,246,Purdue,2/11/2022
+P01868,Gastrointestinal_Drug_819_145mg,Gastrointestinal,Suppository,43.45,202.97,450,2311,675,Novartis,5/11/2022
+P01869,Oncology_Drug_520_86mg,Oncology,Ointment,49.33,175.91,394,2173,591,Pfizer,1/21/2022
+P01870,Antiviral_Drug_457_444mg,Antiviral,Suppository,47.09,122.67,459,764,688,Sanofi,7/2/2023
+P01871,Antidepressant_Drug_73_150mg,Antidepressant,Inhaler,4.86,13.9,50,1468,75,Sanofi,8/31/2023
+P01872,Vitamin_Drug_740_299mg,Vitamin,Syrup,9.52,43.11,285,2257,427,AstraZeneca,8/19/2022
+P01873,Antipsychotic_Drug_329_426mg,Antipsychotic,Tablet,14.37,35.57,91,1269,136,Pfizer,3/18/2022
+P01874,Hormone_Drug_920_434mg,Hormone,Cream,42.91,160.86,478,1971,717,AbbVie,11/9/2022
+P01875,Antiviral_Drug_949_161mg,Antiviral,Suppository,42.4,202.36,357,2198,535,Sanofi,11/4/2022
+P01876,Antibiotic_Drug_451_494mg,Antibiotic,Injection,22.32,80.49,216,2939,324,Merck,4/13/2023
+P01877,Antidepressant_Drug_43_433mg,Antidepressant,Cream,24.71,65.61,78,2397,117,GSK,5/8/2022
+P01878,Hormone_Drug_441_357mg,Hormone,Ointment,33.33,138.77,437,2289,655,AstraZeneca,4/20/2022
+P01879,Oncology_Drug_245_250mg,Oncology,Cream,7.27,24.14,415,2352,622,Bristol-Myers Squibb,10/8/2023
+P01880,Hormone_Drug_580_278mg,Hormone,Tablet,9.47,38.34,81,1646,121,AbbVie,10/27/2022
+P01881,Diabetes_Drug_732_490mg,Diabetes,Ointment,40.89,170.37,279,1263,418,Bayer,2/3/2023
+P01882,Vaccine_Drug_724_72mg,Vaccine,Cream,7.71,26.71,107,719,160,Novartis,9/10/2023
+P01883,Oncology_Drug_74_254mg,Oncology,Tablet,43.97,111.81,67,2454,100,AstraZeneca,7/25/2023
+P01884,Ophthalmic_Drug_576_70mg,Ophthalmic,Ointment,32.38,107.17,352,1665,528,Bristol-Myers Squibb,12/28/2022
+P01885,Antidepressant_Drug_763_51mg,Antidepressant,Tablet,26.73,60.15,334,2916,501,AbbVie,1/25/2022
+P01886,Vitamin_Drug_69_4mg,Vitamin,Tablet,35.21,168.25,289,860,433,Novo Nordisk,8/25/2023
+P01887,Antibiotic_Drug_956_202mg,Antibiotic,Tablet,11.67,34.8,371,843,556,Johnson & Johnson,4/15/2022
+P01888,Diabetes_Drug_572_371mg,Diabetes,Capsule,29.84,142.32,499,1026,748,Novartis,9/20/2022
+P01889,Antidepressant_Drug_893_289mg,Antidepressant,Ointment,5.47,23.25,107,1873,160,Merck,12/1/2022
+P01890,Hormone_Drug_623_353mg,Hormone,Tablet,36.61,160.35,229,1130,343,Roche,11/4/2022
+P01891,Vaccine_Drug_285_392mg,Vaccine,Capsule,18.8,78.78,275,2907,412,Roche,8/4/2023
+P01892,Antipsychotic_Drug_124_436mg,Antipsychotic,Suppository,31.75,152.58,393,2374,589,Pfizer,5/7/2022
+P01893,Antibiotic_Drug_71_273mg,Antibiotic,Injection,9.75,30.5,236,1526,354,Novartis,4/22/2023
+P01894,Antibiotic_Drug_758_234mg,Antibiotic,Capsule,38.35,132.08,374,2193,561,Sanofi,9/3/2022
+P01895,Hormone_Drug_788_151mg,Hormone,Cream,27.59,121.31,245,1416,367,Novo Nordisk,3/23/2023
+P01896,Vaccine_Drug_595_306mg,Vaccine,Injection,8.96,34.07,173,1572,259,Johnson & Johnson,10/3/2023
+P01897,Vitamin_Drug_27_199mg,Vitamin,Injection,3.84,15.7,421,1620,631,Roche,7/5/2022
+P01898,Oncology_Drug_215_251mg,Oncology,Ointment,16.86,58.06,265,2576,397,Merck,4/27/2022
+P01899,Oncology_Drug_114_343mg,Oncology,Cream,25.85,128.93,80,1476,120,Johnson & Johnson,9/18/2022
+P01900,Vaccine_Drug_564_49mg,Vaccine,Inhaler,21.29,81.8,55,878,82,Pfizer,4/20/2022
+P01901,Analgesic_Drug_553_399mg,Analgesic,Syrup,38.46,79.63,221,1505,331,Merck,12/9/2023
+P01902,Hormone_Drug_151_428mg,Hormone,Capsule,21.77,79.89,158,2130,237,AbbVie,7/25/2022
+P01903,Antibiotic_Drug_691_60mg,Antibiotic,Injection,23.3,57.06,123,1990,184,AstraZeneca,4/23/2022
+P01904,Antipsychotic_Drug_903_309mg,Antipsychotic,Tablet,27.34,95.03,208,1285,312,Novartis,6/3/2023
+P01905,Ophthalmic_Drug_259_107mg,Ophthalmic,Tablet,40.22,155.79,112,1881,168,Novartis,5/18/2023
+P01906,Antibiotic_Drug_573_120mg,Antibiotic,Ointment,20.63,73.53,110,2061,165,Purdue,5/16/2022
+P01907,Antipsychotic_Drug_811_21mg,Antipsychotic,Cream,33.6,139.04,436,2578,654,Bayer,4/7/2022
+P01908,Cardiovascular_Drug_476_300mg,Cardiovascular,Capsule,28.12,132.78,348,786,522,Pfizer,10/17/2023
+P01909,Antibiotic_Drug_848_4mg,Antibiotic,Capsule,43.46,190.54,377,597,565,Bayer,1/21/2023
+P01910,Cardiovascular_Drug_127_202mg,Cardiovascular,Capsule,47.73,207.67,58,2997,87,Novartis,4/3/2023
+P01911,Antibiotic_Drug_412_230mg,Antibiotic,Inhaler,25.2,116.47,161,2791,241,Purdue,1/29/2023
+P01912,Antipsychotic_Drug_527_343mg,Antipsychotic,Cream,8.18,38.66,255,2498,382,Johnson & Johnson,1/24/2023
+P01913,Gastrointestinal_Drug_234_121mg,Gastrointestinal,Suppository,33.8,100.64,139,1843,208,AbbVie,10/11/2023
+P01914,Respiratory_Drug_522_201mg,Respiratory,Suppository,47.16,190.7,367,1049,550,Bristol-Myers Squibb,5/17/2023
+P01915,Antipsychotic_Drug_53_450mg,Antipsychotic,Ointment,18.56,61.65,111,543,166,Purdue,2/16/2022
+P01916,Dermatological_Drug_24_145mg,Dermatological,Syrup,41.06,147.86,138,1697,207,GSK,12/8/2022
+P01917,Oncology_Drug_901_438mg,Oncology,Injection,26.98,126.92,477,925,715,Bayer,7/13/2023
+P01918,Ophthalmic_Drug_921_102mg,Ophthalmic,Tablet,41.65,170.2,93,2396,139,Bristol-Myers Squibb,8/12/2023
+P01919,Oncology_Drug_205_228mg,Oncology,Injection,16.28,54.23,119,1032,178,Johnson & Johnson,3/31/2022
+P01920,Hormone_Drug_689_298mg,Hormone,Suppository,49.91,100.34,456,601,684,AstraZeneca,6/12/2023
+P01921,Antipsychotic_Drug_404_302mg,Antipsychotic,Capsule,28.82,141.59,51,2129,76,Johnson & Johnson,9/15/2023
+P01922,Cardiovascular_Drug_873_22mg,Cardiovascular,Tablet,16.84,83.3,447,2019,670,Merck,5/17/2023
+P01923,Cardiovascular_Drug_761_260mg,Cardiovascular,Cream,46.14,116.05,180,1297,270,Johnson & Johnson,11/6/2022
+P01924,Dermatological_Drug_382_409mg,Dermatological,Suppository,18.42,86.56,320,2457,480,Bayer,3/20/2022
+P01925,Analgesic_Drug_675_202mg,Analgesic,Syrup,4.67,10.88,63,2793,94,Purdue,9/14/2022
+P01926,Antibiotic_Drug_664_490mg,Antibiotic,Injection,3.12,15.36,309,2349,463,GSK,8/2/2023
+P01927,Analgesic_Drug_202_376mg,Analgesic,Syrup,34.77,171.82,299,2993,448,Novartis,4/18/2023
+P01928,Respiratory_Drug_392_457mg,Respiratory,Suppository,32.23,135.95,192,1555,288,Bristol-Myers Squibb,8/24/2022
+P01929,Antipsychotic_Drug_633_494mg,Antipsychotic,Tablet,27.46,89.05,324,1242,486,Roche,1/31/2022
+P01930,Respiratory_Drug_107_359mg,Respiratory,Capsule,27.9,56.09,159,775,238,AbbVie,3/23/2022
+P01931,Respiratory_Drug_855_321mg,Respiratory,Capsule,13.75,47.12,104,1085,156,Johnson & Johnson,5/12/2023
+P01932,Gastrointestinal_Drug_455_401mg,Gastrointestinal,Inhaler,18.92,79.07,404,2147,606,Pfizer,9/17/2022
+P01933,Antiviral_Drug_948_265mg,Antiviral,Injection,11.18,52.94,369,891,553,Pfizer,9/28/2022
+P01934,Gastrointestinal_Drug_934_170mg,Gastrointestinal,Capsule,46.45,149.66,177,2472,265,Novartis,8/2/2023
+P01935,Antidepressant_Drug_26_83mg,Antidepressant,Ointment,19.86,54.38,413,1890,619,Roche,7/10/2022
+P01936,Vitamin_Drug_664_384mg,Vitamin,Syrup,30.89,113.72,282,770,423,AbbVie,5/16/2022
+P01937,Vitamin_Drug_977_376mg,Vitamin,Cream,47.28,108.82,290,1355,435,Bristol-Myers Squibb,10/30/2022
+P01938,Antibiotic_Drug_362_195mg,Antibiotic,Capsule,47.28,133.27,143,2363,214,Novo Nordisk,12/12/2022
+P01939,Ophthalmic_Drug_399_334mg,Ophthalmic,Ointment,1.2,3.63,225,2672,337,Bristol-Myers Squibb,2/11/2023
+P01940,Ophthalmic_Drug_334_20mg,Ophthalmic,Ointment,45.43,226.83,254,854,381,Bayer,6/17/2022
+P01941,Oncology_Drug_963_365mg,Oncology,Cream,10.84,46.86,117,2119,175,Bristol-Myers Squibb,11/13/2023
+P01942,Cardiovascular_Drug_614_35mg,Cardiovascular,Inhaler,47.4,99.36,356,2746,534,Bristol-Myers Squibb,5/21/2023
+P01943,Diabetes_Drug_280_65mg,Diabetes,Ointment,26.58,79.55,481,2685,721,Purdue,10/12/2023
+P01944,Oncology_Drug_611_311mg,Oncology,Inhaler,4.25,15.54,368,854,552,Pfizer,8/19/2022
+P01945,Analgesic_Drug_719_146mg,Analgesic,Capsule,46.32,210.44,201,2314,301,Sanofi,3/13/2022
+P01946,Vaccine_Drug_130_69mg,Vaccine,Capsule,49.76,239.52,464,724,696,Bristol-Myers Squibb,1/19/2023
+P01947,Dermatological_Drug_840_103mg,Dermatological,Cream,19.72,44.86,190,1657,285,Purdue,4/27/2023
+P01948,Respiratory_Drug_599_304mg,Respiratory,Tablet,13.88,29.64,290,1099,435,Roche,1/17/2022
+P01949,Hormone_Drug_394_310mg,Hormone,Ointment,26.98,75.33,268,733,402,Purdue,3/17/2023
+P01950,Antidepressant_Drug_872_7mg,Antidepressant,Suppository,27.67,122.1,100,1325,150,Sanofi,11/29/2023
+P01951,Hormone_Drug_604_106mg,Hormone,Capsule,27.07,89.4,62,1669,93,Novo Nordisk,5/24/2023
+P01952,Oncology_Drug_382_157mg,Oncology,Tablet,38.12,124.18,489,2345,733,Bristol-Myers Squibb,2/13/2022
+P01953,Vaccine_Drug_318_22mg,Vaccine,Ointment,43.53,208.42,122,2276,183,Roche,8/9/2022
+P01954,Antidepressant_Drug_177_259mg,Antidepressant,Ointment,49.34,162.49,269,2585,403,Novartis,3/24/2023
+P01955,Hormone_Drug_125_326mg,Hormone,Syrup,16.51,80.88,114,1292,171,Pfizer,10/5/2023
+P01956,Diabetes_Drug_721_439mg,Diabetes,Cream,5.88,17.17,430,2148,645,Johnson & Johnson,8/6/2022
+P01957,Hormone_Drug_275_52mg,Hormone,Inhaler,32.85,154.82,423,2193,634,Purdue,8/25/2023
+P01958,Dermatological_Drug_905_41mg,Dermatological,Tablet,4.86,16.81,353,1791,529,Novartis,11/23/2023
+P01959,Gastrointestinal_Drug_518_386mg,Gastrointestinal,Injection,12.71,29.94,320,1679,480,GSK,12/14/2023
+P01960,Ophthalmic_Drug_787_225mg,Ophthalmic,Suppository,6.36,17.88,117,1053,175,Merck,11/5/2022
+P01961,Antibiotic_Drug_962_30mg,Antibiotic,Capsule,22.22,87.54,58,669,87,Pfizer,2/17/2023
+P01962,Analgesic_Drug_588_223mg,Analgesic,Capsule,26.93,54.67,226,956,339,Pfizer,8/1/2023
+P01963,Oncology_Drug_123_231mg,Oncology,Cream,6.94,19.56,487,611,730,Johnson & Johnson,1/27/2023
+P01964,Oncology_Drug_864_235mg,Oncology,Inhaler,11.36,31.78,416,2629,624,AbbVie,5/18/2023
+P01965,Antidepressant_Drug_952_479mg,Antidepressant,Capsule,21.3,55.04,421,2811,631,GSK,7/4/2022
+P01966,Analgesic_Drug_614_259mg,Analgesic,Inhaler,10.15,36.84,148,1862,222,AbbVie,12/29/2023
+P01967,Gastrointestinal_Drug_88_63mg,Gastrointestinal,Inhaler,16.54,59.85,459,1910,688,Purdue,9/28/2023
+P01968,Vitamin_Drug_797_422mg,Vitamin,Ointment,22.92,100.17,170,845,255,Bristol-Myers Squibb,1/14/2022
+P01969,Oncology_Drug_397_280mg,Oncology,Suppository,37.63,125.45,128,2278,192,Novo Nordisk,1/19/2023
+P01970,Antiviral_Drug_206_314mg,Antiviral,Capsule,48.59,203.19,430,2491,645,Sanofi,6/17/2023
+P01971,Respiratory_Drug_153_312mg,Respiratory,Tablet,44.24,119.62,343,1097,514,Merck,10/29/2022
+P01972,Analgesic_Drug_734_450mg,Analgesic,Syrup,26.12,76.2,270,2865,405,Roche,9/16/2023
+P01973,Antipsychotic_Drug_65_318mg,Antipsychotic,Syrup,22.24,52.89,395,2155,592,Bayer,2/14/2022
+P01974,Antibiotic_Drug_688_42mg,Antibiotic,Suppository,29,96.92,346,1470,519,Purdue,10/18/2022
+P01975,Antidepressant_Drug_251_41mg,Antidepressant,Injection,9.95,29.19,148,1979,222,AstraZeneca,4/16/2022
+P01976,Cardiovascular_Drug_477_122mg,Cardiovascular,Tablet,39.24,186.93,126,1835,189,Merck,7/16/2022
+P01977,Antibiotic_Drug_841_230mg,Antibiotic,Injection,49.22,220.12,217,2555,325,Bristol-Myers Squibb,1/19/2022
+P01978,Antibiotic_Drug_49_464mg,Antibiotic,Suppository,45.16,125.66,405,1473,607,Novartis,11/4/2022
+P01979,Cardiovascular_Drug_783_121mg,Cardiovascular,Inhaler,49.87,230.3,303,1272,454,GSK,3/5/2023
+P01980,Ophthalmic_Drug_2_212mg,Ophthalmic,Capsule,31.44,78.37,117,2163,175,Merck,5/21/2023
+P01981,Oncology_Drug_429_375mg,Oncology,Suppository,39.51,144.91,270,2071,405,Pfizer,9/21/2022
+P01982,Respiratory_Drug_913_279mg,Respiratory,Inhaler,47.08,141.57,243,1872,364,GSK,1/18/2022
+P01983,Respiratory_Drug_870_251mg,Respiratory,Capsule,43.75,202.56,477,2990,715,Sanofi,4/20/2023
+P01984,Antipsychotic_Drug_802_351mg,Antipsychotic,Capsule,12.33,57.54,136,1210,204,Bristol-Myers Squibb,8/11/2023
+P01985,Diabetes_Drug_842_401mg,Diabetes,Tablet,36.79,118.91,99,1818,148,AbbVie,1/23/2023
+P01986,Analgesic_Drug_833_250mg,Analgesic,Inhaler,38.62,181,147,2338,220,Novo Nordisk,9/1/2023
+P01987,Ophthalmic_Drug_282_238mg,Ophthalmic,Cream,35.29,92.34,213,952,319,Roche,9/6/2022
+P01988,Antipsychotic_Drug_123_325mg,Antipsychotic,Injection,14.97,62.75,218,1186,327,Novartis,2/28/2022
+P01989,Dermatological_Drug_373_266mg,Dermatological,Capsule,38.95,108.57,190,735,285,Bayer,10/12/2023
+P01990,Antidepressant_Drug_601_463mg,Antidepressant,Suppository,26.51,84.14,126,2171,189,Pfizer,4/1/2022
+P01991,Oncology_Drug_918_414mg,Oncology,Capsule,20.3,85.03,239,2620,358,Roche,10/10/2022
+P01992,Gastrointestinal_Drug_958_32mg,Gastrointestinal,Ointment,31.67,141.04,185,1259,277,Sanofi,2/14/2023
+P01993,Antipsychotic_Drug_32_231mg,Antipsychotic,Syrup,25.2,97.17,77,2970,115,GSK,4/13/2022
+P01994,Antidepressant_Drug_651_160mg,Antidepressant,Inhaler,30.15,62.79,281,2971,421,Novo Nordisk,8/27/2022
+P01995,Vaccine_Drug_623_408mg,Vaccine,Cream,22.84,49.24,66,2773,99,GSK,8/27/2023
+P01996,Vaccine_Drug_205_415mg,Vaccine,Injection,25.68,66.02,202,1291,303,AbbVie,11/7/2023
+P01997,Antibiotic_Drug_834_67mg,Antibiotic,Ointment,2.68,13.26,287,2107,430,Merck,8/13/2023
+P01998,Diabetes_Drug_833_172mg,Diabetes,Suppository,34.46,93.45,304,562,456,Novo Nordisk,11/25/2022
+P01999,Antiviral_Drug_741_434mg,Antiviral,Ointment,43.71,91.85,112,744,168,Pfizer,7/23/2022
+P02000,Antidepressant_Drug_533_399mg,Antidepressant,Capsule,12.07,47.91,177,1718,265,AstraZeneca,11/20/2022

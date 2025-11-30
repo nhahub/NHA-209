@@ -1,0 +1,151 @@
+SupplierID,SupplierName,Category,Country,LeadTimeDays,QualityRating,PaymentTerms,ContactPerson,Email,IsActive
+SUP001,Smith Group Pharmaceuticals,Distributor,India,40,4.9,Net 90,David Sanders,kcook@example.org,Yes
+SUP002,Weber LLC Pharmaceuticals,Biologics,Japan,24,4.7,Net 60,Laura Hall,holly48@example.com,Yes
+SUP003,Rivera Ltd Pharmaceuticals,Specialty,France,36,4,Net 60,Sarah Sims,marquezgregory@example.com,Yes
+SUP004,"Jenkins, Sutton and Cruz Pharmaceuticals",Generic Manufacturer,Canada,32,4.9,Net 90,Christopher Gutierrez,qoconnor@example.org,Yes
+SUP005,"Ingram, Cervantes and Sanders Pharmaceuticals",Generic Manufacturer,Brazil,44,4.9,Net 30,Evelyn Gould,rgibson@example.org,Yes
+SUP006,"Hendricks, Miller and Moody Pharmaceuticals",Biologics,China,42,3.6,Net 90,Jordan Sullivan,kevinsanders@example.com,Yes
+SUP007,"Prince, Davis and Cowan Pharmaceuticals",Specialty,Canada,42,3.3,Net 60,Dawn Smith,marialee@example.com,Yes
+SUP008,"Bates, Lee and Chandler Pharmaceuticals",Specialty,USA,24,3.8,Net 30,Daniel Burnett,laura15@example.com,Yes
+SUP009,Jackson Ltd Pharmaceuticals,Distributor,Brazil,12,4.7,Net 45,Dennis Montes,qcosta@example.org,No
+SUP010,"Tate, Long and Murray Pharmaceuticals",Manufacturer,Brazil,49,4.4,Net 90,Courtney Romero,kellycook@example.org,Yes
+SUP011,"Baker, Williams and Woods Pharmaceuticals",Generic Manufacturer,China,8,3.7,Net 30,Patricia Brown,zcurry@example.net,Yes
+SUP012,"Nelson, Wallace and Norman Pharmaceuticals",Manufacturer,Japan,47,3.1,Net 30,Hector Olson,toddcastillo@example.com,Yes
+SUP013,Parrish and Sons Pharmaceuticals,Specialty,China,34,3.1,Net 45,John Swanson,wmckee@example.com,Yes
+SUP014,Spencer-Tanner Pharmaceuticals,Specialty,Japan,59,4.1,Net 60,Mark Lowery,sdawson@example.com,Yes
+SUP015,Baker-Smith Pharmaceuticals,Manufacturer,India,13,3.9,Net 90,Diana Johnston,zjohnson@example.org,No
+SUP016,"Griffin, Houston and Gill Pharmaceuticals",Biologics,Brazil,22,3.1,Net 60,Regina Adams,nwilson@example.net,Yes
+SUP017,"Tanner, Watson and Dalton Pharmaceuticals",Biologics,Italy,9,5,Net 45,Colin Carpenter,ecarter@example.com,Yes
+SUP018,"Franklin, Gill and Franco Pharmaceuticals",Specialty,India,26,4.5,Net 45,Jean Cervantes,tyler06@example.net,Yes
+SUP019,Butler LLC Pharmaceuticals,Biologics,India,47,3.3,Net 60,Amber Clarke,robert63@example.org,Yes
+SUP020,Calhoun Ltd Pharmaceuticals,Biologics,China,18,4.8,Net 60,Justin Johnson,ginapeterson@example.com,Yes
+SUP021,Howard-Wolf Pharmaceuticals,Biologics,Japan,12,4.1,Net 90,Anna Maldonado,tabitha90@example.net,Yes
+SUP022,Spears-Morris Pharmaceuticals,Distributor,China,35,3.4,Net 90,Melanie Williams,daniel32@example.net,Yes
+SUP023,Lee LLC Pharmaceuticals,Manufacturer,China,39,3.3,Net 60,Roger Mccarthy,bgriffith@example.org,Yes
+SUP024,Oliver-Burns Pharmaceuticals,Distributor,China,47,4.8,Net 90,Melissa Nguyen,chines@example.net,Yes
+SUP025,Morales-Reynolds Pharmaceuticals,Generic Manufacturer,India,27,5,Net 30,Mark Hernandez,nicole31@example.org,Yes
+SUP026,Butler-Wall Pharmaceuticals,Biologics,Italy,55,3.7,Net 90,Tony Kelley,ssullivan@example.org,Yes
+SUP027,"Howard, Delgado and Abbott Pharmaceuticals",Manufacturer,USA,48,4.7,Net 45,Stephanie Butler,gmartinez@example.com,Yes
+SUP028,Olsen-Woods Pharmaceuticals,Distributor,Italy,30,3.1,Net 90,Aaron Rivera,romerolinda@example.com,No
+SUP029,Gates-Gonzalez Pharmaceuticals,Manufacturer,China,27,4.9,Net 60,John Thompson,broach@example.org,Yes
+SUP030,"Jenkins, Crawford and Shaw Pharmaceuticals",Biologics,Brazil,49,4.2,Net 30,Zachary Martin,jacksonrebecca@example.com,Yes
+SUP031,"Moore, Estrada and Baker Pharmaceuticals",Specialty,Japan,54,4,Net 90,Evan Montgomery,cummingsjulie@example.com,Yes
+SUP032,Lopez LLC Pharmaceuticals,Biologics,India,50,4.3,Net 45,Timothy Williams,carlos21@example.org,Yes
+SUP033,"Perez, Mays and Hernandez Pharmaceuticals",Biologics,UK,16,3.6,Net 90,Sherry Leonard,davisangela@example.net,Yes
+SUP034,Newton Inc Pharmaceuticals,Biologics,Italy,35,4.4,Net 45,Andrew Miller,angelica85@example.net,Yes
+SUP035,Atkins LLC Pharmaceuticals,Generic Manufacturer,France,55,3.4,Net 90,Tracy Collins,imaynard@example.org,Yes
+SUP036,Pollard-Richardson Pharmaceuticals,Distributor,Brazil,50,3.9,Net 60,Courtney Pearson,briangarcia@example.net,Yes
+SUP037,Carson Group Pharmaceuticals,Specialty,Italy,59,3.3,Net 60,Dean Johns,michaelscott@example.net,No
+SUP038,Lewis PLC Pharmaceuticals,Manufacturer,India,50,4.2,Net 45,Robert Brown,qskinner@example.com,Yes
+SUP039,"Adams, Campbell and Jackson Pharmaceuticals",Specialty,Canada,57,3.6,Net 60,Stephen Kerr,ynielsen@example.com,Yes
+SUP040,"Mitchell, Lee and Cooper Pharmaceuticals",Distributor,China,45,4,Net 30,Dennis Perez,pscott@example.com,Yes
+SUP041,Parker-Martin Pharmaceuticals,Distributor,Italy,30,5,Net 60,Carrie Kelly,flemingrobert@example.org,Yes
+SUP042,Coleman-Perry Pharmaceuticals,Manufacturer,USA,34,3.7,Net 60,Kyle Clay,swilliams@example.org,Yes
+SUP043,Williams-Burgess Pharmaceuticals,Distributor,India,37,4.9,Net 30,Karina Campbell,moralesveronica@example.com,Yes
+SUP044,Arnold-Brewer Pharmaceuticals,Specialty,Germany,49,4.4,Net 30,Joshua Baker,jacob74@example.net,Yes
+SUP045,"Sampson, Mckay and George Pharmaceuticals",Distributor,France,28,5,Net 90,Jason Shelton,jessicatate@example.net,No
+SUP046,Arellano-Mayer Pharmaceuticals,Generic Manufacturer,Germany,36,3.2,Net 30,Sylvia Dixon,michaelzhang@example.com,Yes
+SUP047,"Goodwin, Burton and Andrews Pharmaceuticals",Generic Manufacturer,Germany,24,4.8,Net 90,Vincent Mcfarland,victoria65@example.net,Yes
+SUP048,Cameron-Jordan Pharmaceuticals,Specialty,Japan,42,4.9,Net 45,Angela Johnson,tmcmillan@example.net,Yes
+SUP049,Hall-Conway Pharmaceuticals,Specialty,Canada,30,4.9,Net 45,Desiree Johnson,jessica95@example.com,No
+SUP050,Pittman Ltd Pharmaceuticals,Generic Manufacturer,USA,52,3.3,Net 45,Edward Johnson,bspencer@example.org,No
+SUP051,Stewart Ltd Pharmaceuticals,Distributor,India,29,3.2,Net 30,Alexandria Young,justin00@example.net,Yes
+SUP052,"Rivas, Stone and Lara Pharmaceuticals",Distributor,Japan,58,3.9,Net 30,Amy Butler,jacksonanne@example.net,Yes
+SUP053,Roberts PLC Pharmaceuticals,Generic Manufacturer,India,40,3.6,Net 60,Taylor Mcknight,andresking@example.com,Yes
+SUP054,Perez and Sons Pharmaceuticals,Generic Manufacturer,India,48,4.1,Net 45,Amy Ramirez,piercejeffrey@example.com,Yes
+SUP055,Hartman Ltd Pharmaceuticals,Generic Manufacturer,Brazil,45,4.6,Net 30,Sarah Moran,daniellehernandez@example.net,Yes
+SUP056,"Osborn, Hill and Huerta Pharmaceuticals",Manufacturer,India,23,3.8,Net 45,Ashley Barrera,valdezgregory@example.net,Yes
+SUP057,"Brown, George and Knox Pharmaceuticals",Specialty,Italy,46,3.1,Net 90,Jeanne Herrera,kiarahester@example.com,Yes
+SUP058,Willis-Johnson Pharmaceuticals,Specialty,USA,10,4.8,Net 60,Joshua Perkins,michellescott@example.com,Yes
+SUP059,Powell Group Pharmaceuticals,Generic Manufacturer,India,19,3.8,Net 90,Darrell Terry,wcarter@example.com,Yes
+SUP060,Gonzalez-Cummings Pharmaceuticals,Manufacturer,India,41,5,Net 45,Jon Nichols,sheryl95@example.org,Yes
+SUP061,Martinez Group Pharmaceuticals,Distributor,India,52,3.5,Net 30,Leon Pope,frederick79@example.com,Yes
+SUP062,Romero Group Pharmaceuticals,Manufacturer,UK,33,4.5,Net 60,Casey Sims,silvajamie@example.org,Yes
+SUP063,"Cherry, Bishop and Bentley Pharmaceuticals",Biologics,Canada,26,5,Net 60,Ronald Mills,mayervictoria@example.net,Yes
+SUP064,"Vasquez, Ponce and Hernandez Pharmaceuticals",Biologics,India,58,4.5,Net 45,Michael Wheeler,rfoster@example.com,Yes
+SUP065,Soto Group Pharmaceuticals,Generic Manufacturer,UK,31,3,Net 60,Michael Bowen,scott76@example.net,Yes
+SUP066,Collins-Wright Pharmaceuticals,Manufacturer,Brazil,37,3.8,Net 30,Matthew Jones,kimberlybartlett@example.com,Yes
+SUP067,"Stafford, Sanders and Hensley Pharmaceuticals",Distributor,Italy,54,3,Net 90,Andrea Walker,paul37@example.com,Yes
+SUP068,"Alexander, Lewis and Cox Pharmaceuticals",Manufacturer,Japan,34,3.2,Net 60,Christopher Lewis,davidpatel@example.net,Yes
+SUP069,Reynolds-Hunt Pharmaceuticals,Biologics,Canada,42,4.9,Net 90,Patricia Moore,jenniferlawson@example.org,Yes
+SUP070,Barker PLC Pharmaceuticals,Distributor,China,34,3.9,Net 45,Devin Logan,ryansamantha@example.net,Yes
+SUP071,Jacobs PLC Pharmaceuticals,Biologics,Canada,23,4.3,Net 30,James King,sandra58@example.org,Yes
+SUP072,Smith Group Pharmaceuticals,Generic Manufacturer,Canada,38,3.9,Net 30,Veronica Glover,powellkrista@example.net,Yes
+SUP073,"Taylor, Smith and Watson Pharmaceuticals",Biologics,China,21,3.6,Net 90,Keith Larson,gweeks@example.org,Yes
+SUP074,Valencia LLC Pharmaceuticals,Specialty,Brazil,46,3.9,Net 90,Jeffery Burch,sharonperez@example.net,Yes
+SUP075,Perez Group Pharmaceuticals,Specialty,France,17,5,Net 30,Matthew Wright,megan67@example.com,Yes
+SUP076,"Smith, Smith and Chambers Pharmaceuticals",Manufacturer,USA,26,3.1,Net 60,William Mosley,lindsey83@example.net,Yes
+SUP077,Harris-Lambert Pharmaceuticals,Biologics,China,49,4.5,Net 30,Christina Dixon,george10@example.com,Yes
+SUP078,Arnold PLC Pharmaceuticals,Generic Manufacturer,France,46,4.3,Net 30,Charles Stephenson,qmiles@example.com,Yes
+SUP079,"Smith, Frank and Moore Pharmaceuticals",Generic Manufacturer,Japan,46,3.6,Net 30,Gabriel Howell,burkepaul@example.net,Yes
+SUP080,Martin Group Pharmaceuticals,Generic Manufacturer,UK,58,4,Net 45,Tracy Garcia,kristin42@example.com,Yes
+SUP081,"Hunt, West and Burke Pharmaceuticals",Generic Manufacturer,China,50,4,Net 60,Allison Collins,ysmith@example.com,Yes
+SUP082,Mccall Inc Pharmaceuticals,Specialty,Brazil,54,4.3,Net 45,Destiny Dawson,molinatheresa@example.org,Yes
+SUP083,"Perez, Lewis and Juarez Pharmaceuticals",Biologics,Brazil,35,4.7,Net 60,Brandi Sanchez,erinromero@example.org,Yes
+SUP084,Watson-Griffin Pharmaceuticals,Biologics,India,22,4.4,Net 60,Stanley Maldonado,johnsonanthony@example.net,Yes
+SUP085,Garcia-Hale Pharmaceuticals,Distributor,India,53,3.3,Net 30,Sarah Smith,roberthill@example.com,Yes
+SUP086,"Mcmahon, Smith and Rodriguez Pharmaceuticals",Specialty,Italy,35,4.4,Net 45,Eric Lee,ramirezchase@example.org,Yes
+SUP087,"Hunt, Woods and Butler Pharmaceuticals",Distributor,Canada,25,4.7,Net 60,Eric Herrera,doliver@example.org,Yes
+SUP088,Juarez PLC Pharmaceuticals,Generic Manufacturer,Japan,51,4.2,Net 90,Robert Fields,marybates@example.com,Yes
+SUP089,Edwards-Miller Pharmaceuticals,Manufacturer,UK,44,4.6,Net 45,Alicia Gross,samantha58@example.org,Yes
+SUP090,"Bennett, Thomas and Palmer Pharmaceuticals",Specialty,Japan,17,3.7,Net 60,Elizabeth Davis,nhunter@example.org,Yes
+SUP091,Thompson Group Pharmaceuticals,Distributor,Japan,38,4.9,Net 60,Kathryn Jones,jennyyang@example.org,Yes
+SUP092,Key-White Pharmaceuticals,Biologics,Japan,20,3.7,Net 90,Nicholas Christensen,matthewsrebekah@example.org,Yes
+SUP093,"Shea, Mullins and Anderson Pharmaceuticals",Distributor,Japan,47,4.2,Net 60,Sheryl Alvarez,asmith@example.net,Yes
+SUP094,"Todd, Rodgers and Wilson Pharmaceuticals",Manufacturer,Germany,22,4.8,Net 30,Jennifer Shaw,jarroyo@example.net,Yes
+SUP095,Wyatt Ltd Pharmaceuticals,Generic Manufacturer,India,17,3.7,Net 45,Sierra Dennis,abarnes@example.org,Yes
+SUP096,Adams-Holt Pharmaceuticals,Specialty,France,14,3.7,Net 90,Casey Curtis,lesliecollins@example.org,Yes
+SUP097,"Coleman, Rodriguez and Wilson Pharmaceuticals",Generic Manufacturer,China,33,4.9,Net 30,Isaac Fuentes,rosariojennifer@example.net,Yes
+SUP098,"Russell, Martinez and Carter Pharmaceuticals",Manufacturer,Canada,25,3.8,Net 30,Ashley Carter,uwallace@example.com,Yes
+SUP099,Fernandez LLC Pharmaceuticals,Generic Manufacturer,USA,26,4.9,Net 90,Joe Chavez,brettjoseph@example.org,Yes
+SUP100,Gates Inc Pharmaceuticals,Manufacturer,Brazil,10,4.3,Net 45,Alyssa Green,nelsongregory@example.net,Yes
+SUP101,"Hancock, Solomon and Tran Pharmaceuticals",Specialty,India,34,4.8,Net 45,Brenda Brown,hansonelizabeth@example.com,Yes
+SUP102,Gregory-Tapia Pharmaceuticals,Biologics,India,47,4.3,Net 45,Tyler Francis,philip04@example.com,Yes
+SUP103,"White, Long and Mckay Pharmaceuticals",Manufacturer,Brazil,57,4.7,Net 90,Frank Johnson,despinoza@example.org,Yes
+SUP104,Bass Ltd Pharmaceuticals,Distributor,France,31,4.4,Net 60,David Jackson,jacob14@example.net,Yes
+SUP105,"Wilson, Gilmore and Booth Pharmaceuticals",Manufacturer,China,59,4.2,Net 60,Gordon Peterson,mjames@example.org,Yes
+SUP106,"Schmidt, Wilson and Scott Pharmaceuticals",Specialty,China,10,4.8,Net 45,Pamela Thompson,cgoodwin@example.org,Yes
+SUP107,"Pope, Booth and Potter Pharmaceuticals",Biologics,Japan,9,4.3,Net 60,April Sanchez,diana45@example.net,Yes
+SUP108,Allen-Williams Pharmaceuticals,Manufacturer,Japan,29,4.2,Net 30,Rebecca Galvan,watsonlindsay@example.net,Yes
+SUP109,Armstrong LLC Pharmaceuticals,Distributor,UK,51,4.8,Net 30,Carolyn Howard,uarnold@example.org,Yes
+SUP110,Dixon-Anderson Pharmaceuticals,Manufacturer,Brazil,53,3.4,Net 45,Luke Henderson,williamsaunders@example.com,Yes
+SUP111,Cabrera and Sons Pharmaceuticals,Distributor,India,52,4.1,Net 30,Autumn Sullivan,nicholas40@example.org,Yes
+SUP112,Turner-Romero Pharmaceuticals,Generic Manufacturer,Japan,34,4,Net 45,Austin Ward,amandawallace@example.org,Yes
+SUP113,Miller-Jefferson Pharmaceuticals,Manufacturer,China,34,3.2,Net 60,Jo Hall,colemanbrady@example.net,Yes
+SUP114,Baldwin PLC Pharmaceuticals,Generic Manufacturer,Brazil,54,3.8,Net 30,Elizabeth Lucas,chanrenee@example.net,Yes
+SUP115,"Williams, Herman and Brown Pharmaceuticals",Generic Manufacturer,Brazil,40,3.3,Net 30,Victoria Franklin,vmorales@example.com,Yes
+SUP116,Brown and Sons Pharmaceuticals,Distributor,Canada,15,3.4,Net 60,Samuel Perkins,garrettchase@example.com,No
+SUP117,Choi LLC Pharmaceuticals,Biologics,USA,29,4.3,Net 60,Thomas English,jon95@example.org,Yes
+SUP118,"May, Wilson and Hernandez Pharmaceuticals",Specialty,Italy,51,4.1,Net 60,Caleb Nichols,maddoxelizabeth@example.com,Yes
+SUP119,Peters-Good Pharmaceuticals,Specialty,UK,31,3.8,Net 45,Gavin Taylor,pamelastewart@example.net,Yes
+SUP120,Miller Ltd Pharmaceuticals,Distributor,India,25,3.9,Net 90,Barbara Wang,palmersamantha@example.org,Yes
+SUP121,Hernandez LLC Pharmaceuticals,Distributor,Italy,17,3.6,Net 90,Rebekah George,peter15@example.net,Yes
+SUP122,Gray LLC Pharmaceuticals,Specialty,India,21,4.9,Net 45,Victoria Palmer,samanthacarpenter@example.com,Yes
+SUP123,Silva Group Pharmaceuticals,Biologics,Germany,15,3.2,Net 60,Kenneth Rowe,ybates@example.com,Yes
+SUP124,"Williams, Stone and Young Pharmaceuticals",Manufacturer,Italy,30,4.9,Net 45,Rachael Griffin MD,angel38@example.com,Yes
+SUP125,"Kidd, Reyes and Mckenzie Pharmaceuticals",Biologics,Japan,35,4.2,Net 30,Shane Douglas,phenry@example.net,Yes
+SUP126,Lawson PLC Pharmaceuticals,Manufacturer,UK,34,4.6,Net 30,Dr. Daniel Griffith,kimberly70@example.org,Yes
+SUP127,Stephens LLC Pharmaceuticals,Biologics,China,17,4.1,Net 90,Mr. Derek Baker,ylewis@example.net,No
+SUP128,Harris-Morton Pharmaceuticals,Manufacturer,India,20,3.7,Net 45,Jennifer Steele,paulmeyers@example.org,Yes
+SUP129,"Carroll, Ruiz and Morton Pharmaceuticals",Distributor,China,10,3.6,Net 30,Francisco Garcia,robertsonmichelle@example.org,Yes
+SUP130,"Gray, Pearson and Sanders Pharmaceuticals",Distributor,China,20,3.6,Net 60,Russell Becker,felicia38@example.org,Yes
+SUP131,"Spencer, Parker and Evans Pharmaceuticals",Biologics,Italy,44,3.6,Net 60,Jeremy Gonzalez,robertroberts@example.com,Yes
+SUP132,"Cohen, Harrison and Rodgers Pharmaceuticals",Distributor,Japan,8,3.3,Net 60,Brian Fowler,anthony05@example.org,Yes
+SUP133,Cooper-Atkins Pharmaceuticals,Specialty,Germany,29,5,Net 60,Crystal Figueroa,clarkdawn@example.org,Yes
+SUP134,King-Gross Pharmaceuticals,Manufacturer,UK,51,3.6,Net 30,Rachel Willis,twilliams@example.com,Yes
+SUP135,Rios-Smith Pharmaceuticals,Manufacturer,Italy,40,4.4,Net 45,James Whitaker,castilloronald@example.org,Yes
+SUP136,"Wells, Munoz and Bailey Pharmaceuticals",Biologics,China,12,4.5,Net 45,Samantha Ritter,christopher40@example.net,Yes
+SUP137,Lewis Group Pharmaceuticals,Generic Manufacturer,Canada,17,4,Net 90,Amber Hall,anthonyparker@example.org,Yes
+SUP138,Munoz-Cunningham Pharmaceuticals,Specialty,Brazil,47,4.9,Net 60,Victoria Brooks,jamesschneider@example.net,Yes
+SUP139,"Sexton, Decker and Pacheco Pharmaceuticals",Distributor,Canada,29,4.5,Net 60,Jessica Mcbride,swalker@example.com,Yes
+SUP140,Kaufman Ltd Pharmaceuticals,Generic Manufacturer,India,48,4.3,Net 30,William Flores,melissapayne@example.net,Yes
+SUP141,Richardson Group Pharmaceuticals,Specialty,India,57,3.1,Net 30,Christine Baker,kerry10@example.net,Yes
+SUP142,"Middleton, Powell and Kaiser Pharmaceuticals",Manufacturer,Canada,16,3.7,Net 90,Chelsea Hansen,ayersmisty@example.org,Yes
+SUP143,Ruiz and Sons Pharmaceuticals,Biologics,Germany,37,4.3,Net 60,Thomas Gamble,martinezjulia@example.org,No
+SUP144,Dawson-Moreno Pharmaceuticals,Distributor,Canada,36,4.7,Net 60,Melissa Smith,victormorris@example.com,Yes
+SUP145,Riddle-Flowers Pharmaceuticals,Biologics,Germany,49,5,Net 30,Linda Burch,seanhodges@example.net,Yes
+SUP146,"Garcia, Walker and Wagner Pharmaceuticals",Biologics,China,30,4.9,Net 30,Barbara Hall,norma34@example.org,Yes
+SUP147,Wright LLC Pharmaceuticals,Generic Manufacturer,France,55,4,Net 90,Michael Perez,adamcarey@example.com,Yes
+SUP148,Morrison Inc Pharmaceuticals,Generic Manufacturer,China,18,3.3,Net 45,Robert Medina,fsummers@example.net,Yes
+SUP149,Little-Knox Pharmaceuticals,Specialty,Italy,21,3.3,Net 90,Sydney Skinner,jennifer49@example.org,Yes
+SUP150,"Simmons, Norris and Hernandez Pharmaceuticals",Distributor,India,10,3.5,Net 60,Katherine Bradley,susan35@example.com,No
